@@ -23,13 +23,13 @@
 define('DB_NAME', 'mogasmam_db');
 
 /** MySQL database username */
-define('DB_USER', 'mogasmam_db');
+define('DB_USER', 'mogasmam_new');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'cipher256');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '192.185.166.14');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');

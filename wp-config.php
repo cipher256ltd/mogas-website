@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'mogasmam_db');
+define('DB_NAME', '');
 
 /** MySQL database username */
-define('DB_USER', 'mogasmam_new');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'cipher256');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', '192.185.166.14');
+define('DB_HOST', '');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');

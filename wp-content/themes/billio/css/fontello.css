@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('fonts/fontello.eot?63061765');
+  src: url('fonts/fontello.eot?63061765#iefix') format('embedded-opentype'),
+       url('fonts/fontello.woff?63061765') format('woff'),
+       url('fonts/fontello.ttf?63061765') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.icon-angle-right:before { content: '\e800'; font-family: "fontello";} 
+.icon-angle-left:before { content: '\e801'; font-family: "fontello";} 
+.icon-clock-circled:before { content: '\e802'; font-family: "fontello";} 
+.icon-tags-2:before { content: '\e803'; font-family: "fontello";} 
+.icon-right-dir:before { content: '\e804'; font-family: "fontello";} 
+.icon-quote-right-1:before { content: '\e805'; font-family: "fontello";} 
+.icon-link:before { content: '\e806'; font-family: "fontello";} 
+.icon-zoom-in:before { content: '\e807'; font-family: "fontello";} 
+.icon-cancel:before { content: '\e808'; font-family: "fontello";} 
+.icon-cancel-1:before { content: '\e808'; font-family: "fontello";} 
+.icon-right-open-big:before { content: '\e809'; font-family: "fontello";} 
+.icon-left-open-big:before { content: '\e80a'; font-family: "fontello";} 
+.icon-note-beamed:before { content: '\e80b'; font-family: "fontello";} 
+.icon-link-1:before { content: '\e80c'; font-family: "fontello";} 
+.icon-comment-empty:before { content: '\e80d'; font-family: "fontello";} 
+.icon-clock:before { content: '\e80e'; font-family: "fontello";} 
+.icon-comment-alt-1:before { content: '\e80f'; font-family: "fontello";} 
+.icon-search-6:before { content: '\e810'; font-family: "fontello";} 
+.icon-minus-1:before { content: '\e811'; font-family: "fontello";} 
+.icon-plus-1:before { content: '\e812'; font-family: "fontello";} 
+.icon-mail-7:before { content: '\e813'; font-family: "fontello";} 
+.icon-user-7:before { content: '\e814'; font-family: "fontello";} 
+.icon-globe-6:before { content: '\e815'; font-family: "fontello";} 
+.icon-dot:before { content: '\e816'; font-family: "fontello";} 
+.icon-down-open-big:before { content: '\e817'; font-family: "fontello";} 
+.icon-down:before { content: '\e818'; font-family: "fontello";} 
+.icon-user-1:before { content: '\e819'; font-family: "fontello";} 
+.icon-email:before { content: '\e81a'; font-family: "fontello";} 
+.icon-menu:before { content: '\e81b'; font-family: "fontello";} 
+.icon-th-list:before { content: '\e81c'; font-family: "fontello";} 
+.icon-cart:before { content: '\e81d'; font-family: "fontello";} 
+.icon-doc:before { content: '\e81e'; font-family: "fontello";} 
+.icon-tag:before { content: '\e81f'; font-family: "fontello";} 
+.icon-forward-outline:before { content: '\e820'; font-family: "fontello";} 

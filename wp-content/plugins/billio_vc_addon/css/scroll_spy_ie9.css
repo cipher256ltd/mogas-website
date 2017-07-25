@@ -1,0 +1,4 @@
+/* Hide animated element if scrollspy is used */
+[data-uk-scrollspy*='uk-animation-'] {
+  opacity: 1;
+}

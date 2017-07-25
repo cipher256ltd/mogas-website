@@ -1,0 +1,1306 @@
+@font-face {
+	font-family: "Flaticon Ios7 Set Filled";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-ios7filled-20:before {
+	content: "\e000";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-2410:before {
+	content: "\e001";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-add50:before {
+	content: "\e002";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-add54:before {
+	content: "\e003";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-add55:before {
+	content: "\e004";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-address14:before {
+	content: "\e005";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-aim1:before {
+	content: "\e006";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-alarm10:before {
+	content: "\e007";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-align6:before {
+	content: "\e008";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-align9:before {
+	content: "\e009";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-amex:before {
+	content: "\e00a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-anchor10:before {
+	content: "\e00b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-anchor8:before {
+	content: "\e00c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow165:before {
+	content: "\e00d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow166:before {
+	content: "\e00e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow167:before {
+	content: "\e00f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow168:before {
+	content: "\e010";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow169:before {
+	content: "\e011";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow170:before {
+	content: "\e012";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow171:before {
+	content: "\e013";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow172:before {
+	content: "\e014";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow174:before {
+	content: "\e015";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow175:before {
+	content: "\e016";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow176:before {
+	content: "\e017";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow177:before {
+	content: "\e018";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow186:before {
+	content: "\e019";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow187:before {
+	content: "\e01a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow188:before {
+	content: "\e01b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow189:before {
+	content: "\e01c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow190:before {
+	content: "\e01d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow191:before {
+	content: "\e01e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow207:before {
+	content: "\e01f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow208:before {
+	content: "\e020";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow209:before {
+	content: "\e021";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow210:before {
+	content: "\e022";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow211:before {
+	content: "\e023";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow212:before {
+	content: "\e024";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow213:before {
+	content: "\e025";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow214:before {
+	content: "\e026";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow215:before {
+	content: "\e027";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow216:before {
+	content: "\e028";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow217:before {
+	content: "\e029";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow218:before {
+	content: "\e02a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow219:before {
+	content: "\e02b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow220:before {
+	content: "\e02c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow221:before {
+	content: "\e02d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow222:before {
+	content: "\e02e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow223:before {
+	content: "\e02f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow224:before {
+	content: "\e030";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow225:before {
+	content: "\e031";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow226:before {
+	content: "\e032";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow227:before {
+	content: "\e033";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow228:before {
+	content: "\e034";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrow229:before {
+	content: "\e035";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrows12:before {
+	content: "\e036";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrows13:before {
+	content: "\e037";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrows14:before {
+	content: "\e038";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrows15:before {
+	content: "\e039";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrows16:before {
+	content: "\e03a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-arrows17:before {
+	content: "\e03b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-attachment6:before {
+	content: "\e03c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-automated1:before {
+	content: "\e03d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-backward:before {
+	content: "\e03e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bars5:before {
+	content: "\e03f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-basket8:before {
+	content: "\e040";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-battery53:before {
+	content: "\e041";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-battery55:before {
+	content: "\e042";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-battery60:before {
+	content: "\e043";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-battery65:before {
+	content: "\e044";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bell5:before {
+	content: "\e045";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-black113:before {
+	content: "\e046";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-black170:before {
+	content: "\e047";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-black171:before {
+	content: "\e048";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bluetooth5:before {
+	content: "\e049";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-book48:before {
+	content: "\e04a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bottom3:before {
+	content: "\e04b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-box22:before {
+	content: "\e04c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-box23:before {
+	content: "\e04d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-brain:before {
+	content: "\e04e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-briefcase7:before {
+	content: "\e04f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bulb10:before {
+	content: "\e050";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bullet1:before {
+	content: "\e051";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-bullet2:before {
+	content: "\e052";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-buy3:before {
+	content: "\e053";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-calendar33:before {
+	content: "\e054";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-calendar37:before {
+	content: "\e055";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-calendar38:before {
+	content: "\e056";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-call3:before {
+	content: "\e057";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-call4:before {
+	content: "\e058";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-call5:before {
+	content: "\e059";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-call7:before {
+	content: "\e05a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-camcorder1:before {
+	content: "\e05b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-camcorder:before {
+	content: "\e05c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-camera28:before {
+	content: "\e05d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-camera29:before {
+	content: "\e05e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-camera31:before {
+	content: "\e05f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-camera32:before {
+	content: "\e060";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cancel8:before {
+	content: "\e061";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-caution1:before {
+	content: "\e062";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cello:before {
+	content: "\e063";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cent1:before {
+	content: "\e064";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-center2:before {
+	content: "\e065";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cents:before {
+	content: "\e066";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-certificate4:before {
+	content: "\e067";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-charging3:before {
+	content: "\e068";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-chat18:before {
+	content: "\e069";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-chat19:before {
+	content: "\e06a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-check20:before {
+	content: "\e06b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-chronometer5:before {
+	content: "\e06c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cigarette1:before {
+	content: "\e06d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-clapper:before {
+	content: "\e06e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cloud62:before {
+	content: "\e06f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cloud63:before {
+	content: "\e070";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cloud71:before {
+	content: "\e071";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cloud72:before {
+	content: "\e072";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-code5:before {
+	content: "\e073";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-code6:before {
+	content: "\e074";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-codings:before {
+	content: "\e075";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-columns:before {
+	content: "\e076";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-compact3:before {
+	content: "\e077";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-computer34:before {
+	content: "\e078";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-connecting2:before {
+	content: "\e079";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-converging:before {
+	content: "\e07a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-correct5:before {
+	content: "\e07b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-credit13:before {
+	content: "\e07c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-credit15:before {
+	content: "\e07d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-crop:before {
+	content: "\e07e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-cross29:before {
+	content: "\e07f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-curved4:before {
+	content: "\e080";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-delivery2:before {
+	content: "\e081";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-diagonal:before {
+	content: "\e082";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-digital4:before {
+	content: "\e083";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-document28:before {
+	content: "\e084";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-document31:before {
+	content: "\e085";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-dollar15:before {
+	content: "\e086";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-dollar21:before {
+	content: "\e087";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-dollar22:before {
+	content: "\e088";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-dollars3:before {
+	content: "\e089";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-download44:before {
+	content: "\e08a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-drums:before {
+	content: "\e08b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-empty15:before {
+	content: "\e08c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-equalizer1:before {
+	content: "\e08d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-eye31:before {
+	content: "\e08e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-eye32:before {
+	content: "\e08f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-female8:before {
+	content: "\e090";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-film16:before {
+	content: "\e091";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-film17:before {
+	content: "\e092";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-flag21:before {
+	content: "\e093";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-flashlight2:before {
+	content: "\e094";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-floppy6:before {
+	content: "\e095";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-flower14:before {
+	content: "\e096";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-folder50:before {
+	content: "\e097";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-folder51:before {
+	content: "\e098";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-forward3:before {
+	content: "\e099";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-frame7:before {
+	content: "\e09a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-frame8:before {
+	content: "\e09b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-frame9:before {
+	content: "\e09c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-full17:before {
+	content: "\e09d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-funnel1:before {
+	content: "\e09e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-globe10:before {
+	content: "\e09f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-graduates:before {
+	content: "\e0a0";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-grocery5:before {
+	content: "\e0a1";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-harp:before {
+	content: "\e0a2";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-headphone:before {
+	content: "\e0a3";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-headset2:before {
+	content: "\e0a4";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-heart53:before {
+	content: "\e0a5";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-help6:before {
+	content: "\e0a6";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-hierarchy1:before {
+	content: "\e0a7";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-high10:before {
+	content: "\e0a8";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-home48:before {
+	content: "\e0a9";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-id:before {
+	content: "\e0aa";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-incoming1:before {
+	content: "\e0ab";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-incoming2:before {
+	content: "\e0ac";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-information26:before {
+	content: "\e0ad";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-ios6:before {
+	content: "\e0ae";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-jcb:before {
+	content: "\e0af";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-joystick3:before {
+	content: "\e0b0";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-justify5:before {
+	content: "\e0b1";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-keyboard6:before {
+	content: "\e0b2";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-laptop13:before {
+	content: "\e0b3";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-layers3:before {
+	content: "\e0b4";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-left16:before {
+	content: "\e0b5";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-left18:before {
+	content: "\e0b6";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-lens1:before {
+	content: "\e0b7";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-lens2:before {
+	content: "\e0b8";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-lens:before {
+	content: "\e0b9";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-list23:before {
+	content: "\e0ba";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-lock16:before {
+	content: "\e0bb";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-lock18:before {
+	content: "\e0bc";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-loudness:before {
+	content: "\e0bd";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-loud:before {
+	content: "\e0be";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-low13:before {
+	content: "\e0bf";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-magnifying20:before {
+	content: "\e0c0";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mail20:before {
+	content: "\e0c1";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mailbox7:before {
+	content: "\e0c2";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mailbox8:before {
+	content: "\e0c3";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-male21:before {
+	content: "\e0c4";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-master1:before {
+	content: "\e0c5";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-measuring1:before {
+	content: "\e0c6";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-medium2:before {
+	content: "\e0c7";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-menu13:before {
+	content: "\e0c8";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-menu14:before {
+	content: "\e0c9";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mic4:before {
+	content: "\e0ca";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mic5:before {
+	content: "\e0cb";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mic6:before {
+	content: "\e0cc";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-microphone19:before {
+	content: "\e0cd";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-minus15:before {
+	content: "\e0ce";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-monitor20:before {
+	content: "\e0cf";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mouse13:before {
+	content: "\e0d0";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mouse14:before {
+	content: "\e0d1";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-move12:before {
+	content: "\e0d2";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-music47:before {
+	content: "\e0d3";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-music48:before {
+	content: "\e0d4";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-music51:before {
+	content: "\e0d5";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-mute5:before {
+	content: "\e0d6";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-newspaper2:before {
+	content: "\e0d7";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-next7:before {
+	content: "\e0d8";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-no12:before {
+	content: "\e0d9";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-not4:before {
+	content: "\e0da";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-oboe:before {
+	content: "\e0db";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-offer:before {
+	content: "\e0dc";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-open51:before {
+	content: "\e0dd";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-open52:before {
+	content: "\e0de";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-outcoming:before {
+	content: "\e0df";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-outgoing2:before {
+	content: "\e0e0";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-padlock14:before {
+	content: "\e0e1";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-paper27:before {
+	content: "\e0e2";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-pause10:before {
+	content: "\e0e3";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-photo20:before {
+	content: "\e0e4";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-photo23:before {
+	content: "\e0e5";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-picture7:before {
+	content: "\e0e6";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-pictures:before {
+	content: "\e0e7";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-piggy:before {
+	content: "\e0e8";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-play20:before {
+	content: "\e0e9";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-play22:before {
+	content: "\e0ea";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-plugin:before {
+	content: "\e0eb";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-plus18:before {
+	content: "\e0ec";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-portfolio3:before {
+	content: "\e0ed";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-previous4:before {
+	content: "\e0ee";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-printer36:before {
+	content: "\e0ef";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-purse:before {
+	content: "\e0f0";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-radio9:before {
+	content: "\e0f1";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-rectangular12:before {
+	content: "\e0f2";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-right21:before {
+	content: "\e0f3";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-right22:before {
+	content: "\e0f4";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-ring7:before {
+	content: "\e0f5";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-round15:before {
+	content: "\e0f6";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-rows:before {
+	content: "\e0f7";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-ruler4:before {
+	content: "\e0f8";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-saxophone1:before {
+	content: "\e0f9";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-scale3:before {
+	content: "\e0fa";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-scale4:before {
+	content: "\e0fb";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-scale5:before {
+	content: "\e0fc";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-scaling:before {
+	content: "\e0fd";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-scissors9:before {
+	content: "\e0fe";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-settings18:before {
+	content: "\e0ff";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-shopping32:before {
+	content: "\e100";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-shopping33:before {
+	content: "\e101";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-shopping35:before {
+	content: "\e102";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-shopping37:before {
+	content: "\e103";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-shopping38:before {
+	content: "\e104";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-shutdown:before {
+	content: "\e105";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-silent:before {
+	content: "\e106";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-skype6:before {
+	content: "\e107";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-slanting:before {
+	content: "\e108";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-small98:before {
+	content: "\e109";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-smart:before {
+	content: "\e10a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-spanner2:before {
+	content: "\e10b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speaker14:before {
+	content: "\e10c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speaker19:before {
+	content: "\e10d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-special:before {
+	content: "\e10e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech20:before {
+	content: "\e10f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech21:before {
+	content: "\e110";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech22:before {
+	content: "\e111";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech27:before {
+	content: "\e112";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech28:before {
+	content: "\e113";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech29:before {
+	content: "\e114";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-speech30:before {
+	content: "\e115";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-square36:before {
+	content: "\e116";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-stack4:before {
+	content: "\e117";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-star46:before {
+	content: "\e118";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-storage4:before {
+	content: "\e119";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-store1:before {
+	content: "\e11a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-subtract:before {
+	content: "\e11b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-synchronise:before {
+	content: "\e11c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tab1:before {
+	content: "\e11d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-table14:before {
+	content: "\e11e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tablet29:before {
+	content: "\e11f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tablet30:before {
+	content: "\e120";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tablet31:before {
+	content: "\e121";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tablet32:before {
+	content: "\e122";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tag17:before {
+	content: "\e123";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tag20:before {
+	content: "\e124";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tag21:before {
+	content: "\e125";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-tag22:before {
+	content: "\e126";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-thermometer17:before {
+	content: "\e127";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-thin13:before {
+	content: "\e128";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-thought3:before {
+	content: "\e129";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-three36:before {
+	content: "\e12a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-timer15:before {
+	content: "\e12b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-treble:before {
+	content: "\e12c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-trombone:before {
+	content: "\e12d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-trumpet2:before {
+	content: "\e12e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-trumpet:before {
+	content: "\e12f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-two80:before {
+	content: "\e130";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-umbrella4:before {
+	content: "\e131";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-upload28:before {
+	content: "\e132";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-vertical3:before {
+	content: "\e133";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-video54:before {
+	content: "\e134";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-violin1:before {
+	content: "\e135";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-visa:before {
+	content: "\e136";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-voice5:before {
+	content: "\e137";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-volume21:before {
+	content: "\e138";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-waste1:before {
+	content: "\e139";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-web10:before {
+	content: "\e13a";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-weighing1:before {
+	content: "\e13b";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-weight3:before {
+	content: "\e13c";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-wifi24:before {
+	content: "\e13d";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-window17:before {
+	content: "\e13e";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-window18:before {
+	content: "\e13f";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-window19:before {
+	content: "\e140";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-wrong5:before {
+	content: "\e141";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-zoom20:before {
+	content: "\e142";
+	font-family: "Flaticon Ios7 Set Filled";
+}
+.icon-ios7filled-zoom21:before {
+	content: "\e143";
+	font-family: "Flaticon Ios7 Set Filled";
+}

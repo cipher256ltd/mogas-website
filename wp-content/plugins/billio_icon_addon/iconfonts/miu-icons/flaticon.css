@@ -1,0 +1,1250 @@
+@font-face {
+	font-family: "Flaticon Miu";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-miu-add138:before {
+	content: "\e000";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add140:before {
+	content: "\e001";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add142:before {
+	content: "\e002";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add143:before {
+	content: "\e003";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add144:before {
+	content: "\e004";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add145:before {
+	content: "\e005";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add147:before {
+	content: "\e006";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add150:before {
+	content: "\e007";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add151:before {
+	content: "\e008";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add152:before {
+	content: "\e009";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add153:before {
+	content: "\e00a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-add154:before {
+	content: "\e00b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-alarm30:before {
+	content: "\e00c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-arrow591:before {
+	content: "\e00d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-arrow594:before {
+	content: "\e00e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-attachment14:before {
+	content: "\e00f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-attachment16:before {
+	content: "\e010";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-audio47:before {
+	content: "\e011";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-audio48:before {
+	content: "\e012";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-back43:before {
+	content: "\e013";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-back45:before {
+	content: "\e014";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-back48:before {
+	content: "\e015";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-battery140:before {
+	content: "\e016";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-battery141:before {
+	content: "\e017";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-battery142:before {
+	content: "\e018";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-birthday16:before {
+	content: "\e019";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-birthday17:before {
+	content: "\e01a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-black375:before {
+	content: "\e01b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-black379:before {
+	content: "\e01c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-black381:before {
+	content: "\e01d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-black382:before {
+	content: "\e01e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-black385:before {
+	content: "\e01f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-blackboard10:before {
+	content: "\e020";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-blackboard11:before {
+	content: "\e021";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-blackboard12:before {
+	content: "\e022";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-blackboard8:before {
+	content: "\e023";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-blackboard9:before {
+	content: "\e024";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-blank28:before {
+	content: "\e025";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-board1:before {
+	content: "\e026";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-book186:before {
+	content: "\e027";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-book189:before {
+	content: "\e028";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-bookmark29:before {
+	content: "\e029";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-bookmark30:before {
+	content: "\e02a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-box59:before {
+	content: "\e02b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-box60:before {
+	content: "\e02c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-button4:before {
+	content: "\e02d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cash14:before {
+	content: "\e02e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cellphone54:before {
+	content: "\e02f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cellphone56:before {
+	content: "\e030";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cellphone57:before {
+	content: "\e031";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cellphone58:before {
+	content: "\e032";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-chat52:before {
+	content: "\e033";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-chat56:before {
+	content: "\e034";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-chocolate4:before {
+	content: "\e035";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circle92:before {
+	content: "\e036";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular221:before {
+	content: "\e037";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular223:before {
+	content: "\e038";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular225:before {
+	content: "\e039";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular226:before {
+	content: "\e03a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular230:before {
+	content: "\e03b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular231:before {
+	content: "\e03c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-circular232:before {
+	content: "\e03d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clipboard69:before {
+	content: "\e03e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clipboard70:before {
+	content: "\e03f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clock73:before {
+	content: "\e040";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clock74:before {
+	content: "\e041";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clock77:before {
+	content: "\e042";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clockwise4:before {
+	content: "\e043";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-clockwise5:before {
+	content: "\e044";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cloud259:before {
+	content: "\e045";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cocktail24:before {
+	content: "\e046";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cocktail25:before {
+	content: "\e047";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-coffee60:before {
+	content: "\e048";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-coffee61:before {
+	content: "\e049";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cogwheel23:before {
+	content: "\e04a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-comment43:before {
+	content: "\e04b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-compass83:before {
+	content: "\e04c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-compass84:before {
+	content: "\e04d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-computer160:before {
+	content: "\e04e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-configuration15:before {
+	content: "\e04f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-copy20:before {
+	content: "\e050";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-copy21:before {
+	content: "\e051";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-copy22:before {
+	content: "\e052";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-copy25:before {
+	content: "\e053";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-counterclockwise3:before {
+	content: "\e054";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-counterclockwise4:before {
+	content: "\e055";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-counterclockwise6:before {
+	content: "\e056";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cross78:before {
+	content: "\e057";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cross80:before {
+	content: "\e058";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-crystal3:before {
+	content: "\e059";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-cupcake15:before {
+	content: "\e05a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-curved22:before {
+	content: "\e05b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-daily19:before {
+	content: "\e05c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dark54:before {
+	content: "\e05d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-decrease3:before {
+	content: "\e05e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-discharged1:before {
+	content: "\e05f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-documents18:before {
+	content: "\e060";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dollar153:before {
+	content: "\e061";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dollar154:before {
+	content: "\e062";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dollar155:before {
+	content: "\e063";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dollar156:before {
+	content: "\e064";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dollar157:before {
+	content: "\e065";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-dollars36:before {
+	content: "\e066";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-down65:before {
+	content: "\e067";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-download140:before {
+	content: "\e068";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-download143:before {
+	content: "\e069";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-download144:before {
+	content: "\e06a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-download145:before {
+	content: "\e06b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-drink46:before {
+	content: "\e06c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-email65:before {
+	content: "\e06d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-email68:before {
+	content: "\e06e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-email70:before {
+	content: "\e06f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-email71:before {
+	content: "\e070";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-email73:before {
+	content: "\e071";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-empty38:before {
+	content: "\e072";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-event3:before {
+	content: "\e073";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-event5:before {
+	content: "\e074";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-event7:before {
+	content: "\e075";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-facebook51:before {
+	content: "\e076";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-facebook52:before {
+	content: "\e077";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-favorites3:before {
+	content: "\e078";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-file63:before {
+	content: "\e079";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-file64:before {
+	content: "\e07a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-file65:before {
+	content: "\e07b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-file66:before {
+	content: "\e07c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-flag49:before {
+	content: "\e07d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-flag50:before {
+	content: "\e07e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-flag51:before {
+	content: "\e07f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-flag54:before {
+	content: "\e080";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-folder170:before {
+	content: "\e081";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-folder171:before {
+	content: "\e082";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-folder172:before {
+	content: "\e083";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-frame23:before {
+	content: "\e084";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-full38:before {
+	content: "\e085";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-full39:before {
+	content: "\e086";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-geometric12:before {
+	content: "\e087";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-glass47:before {
+	content: "\e088";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-glass48:before {
+	content: "\e089";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-global25:before {
+	content: "\e08a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-google114:before {
+	content: "\e08b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-google115:before {
+	content: "\e08c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-graphical7:before {
+	content: "\e08d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-graphical9:before {
+	content: "\e08e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-half32:before {
+	content: "\e08f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-half33:before {
+	content: "\e090";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-headphones31:before {
+	content: "\e091";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-headphones33:before {
+	content: "\e092";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-heart280:before {
+	content: "\e093";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-heart281:before {
+	content: "\e094";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-help16:before {
+	content: "\e095";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-horizontal34:before {
+	content: "\e096";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-horizontal35:before {
+	content: "\e097";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-house128:before {
+	content: "\e098";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-house129:before {
+	content: "\e099";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-images17:before {
+	content: "\e09a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-images19:before {
+	content: "\e09b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-images20:before {
+	content: "\e09c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-info21:before {
+	content: "\e09d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-information52:before {
+	content: "\e09e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-internet35:before {
+	content: "\e09f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-keyboard48:before {
+	content: "\e0a0";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-label22:before {
+	content: "\e0a1";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-label23:before {
+	content: "\e0a2";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-label24:before {
+	content: "\e0a3";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-laptop106:before {
+	content: "\e0a4";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-laptop107:before {
+	content: "\e0a5";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-left157:before {
+	content: "\e0a6";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-left164:before {
+	content: "\e0a7";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-less12:before {
+	content: "\e0a8";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-library12:before {
+	content: "\e0a9";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-locked33:before {
+	content: "\e0aa";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-locked35:before {
+	content: "\e0ab";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-login10:before {
+	content: "\e0ac";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-login11:before {
+	content: "\e0ad";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-logout10:before {
+	content: "\e0ae";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-logout11:before {
+	content: "\e0af";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-logout7:before {
+	content: "\e0b0";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-logout8:before {
+	content: "\e0b1";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-mail68:before {
+	content: "\e0b2";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-map89:before {
+	content: "\e0b3";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-menu42:before {
+	content: "\e0b4";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-menu45:before {
+	content: "\e0b5";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-mobile216:before {
+	content: "\e0b6";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-mobile218:before {
+	content: "\e0b7";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-money125:before {
+	content: "\e0b8";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-monitor76:before {
+	content: "\e0b9";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-more10:before {
+	content: "\e0ba";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-more11:before {
+	content: "\e0bb";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-more12:before {
+	content: "\e0bc";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-more13:before {
+	content: "\e0bd";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-more14:before {
+	content: "\e0be";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-music214:before {
+	content: "\e0bf";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-music215:before {
+	content: "\e0c0";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-music216:before {
+	content: "\e0c1";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-music217:before {
+	content: "\e0c2";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-mute31:before {
+	content: "\e0c3";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-mute33:before {
+	content: "\e0c4";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-new85:before {
+	content: "\e0c5";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-nine17:before {
+	content: "\e0c6";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-notebook42:before {
+	content: "\e0c7";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-notebook43:before {
+	content: "\e0c8";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-open199:before {
+	content: "\e0c9";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-opened26:before {
+	content: "\e0ca";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-options:before {
+	content: "\e0cb";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pencil82:before {
+	content: "\e0cc";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pencil83:before {
+	content: "\e0cd";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pencil84:before {
+	content: "\e0ce";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pencil86:before {
+	content: "\e0cf";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-phone348:before {
+	content: "\e0d0";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-phone349:before {
+	content: "\e0d1";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-phone350:before {
+	content: "\e0d2";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-photo177:before {
+	content: "\e0d3";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-photo182:before {
+	content: "\e0d4";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-photos11:before {
+	content: "\e0d5";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pinterest30:before {
+	content: "\e0d6";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pinterest31:before {
+	content: "\e0d7";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pizza12:before {
+	content: "\e0d8";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-pizza13:before {
+	content: "\e0d9";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-placeholder19:before {
+	content: "\e0da";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-placeholder20:before {
+	content: "\e0db";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-play79:before {
+	content: "\e0dc";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-play81:before {
+	content: "\e0dd";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-portfolio25:before {
+	content: "\e0de";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-portfolio26:before {
+	content: "\e0df";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-postcard5:before {
+	content: "\e0e0";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-postcard6:before {
+	content: "\e0e1";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-power98:before {
+	content: "\e0e2";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-power99:before {
+	content: "\e0e3";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-print33:before {
+	content: "\e0e4";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-printer78:before {
+	content: "\e0e5";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-questions1:before {
+	content: "\e0e6";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-reading19:before {
+	content: "\e0e7";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-recycle64:before {
+	content: "\e0e8";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-recycling11:before {
+	content: "\e0e9";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-refresh51:before {
+	content: "\e0ea";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-refresh52:before {
+	content: "\e0eb";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-refreshing1:before {
+	content: "\e0ec";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-restaurant40:before {
+	content: "\e0ed";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-restaurant41:before {
+	content: "\e0ee";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-restaurant42:before {
+	content: "\e0ef";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-restaurant43:before {
+	content: "\e0f0";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right140:before {
+	content: "\e0f1";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right145:before {
+	content: "\e0f2";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right147:before {
+	content: "\e0f3";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right149:before {
+	content: "\e0f4";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right150:before {
+	content: "\e0f5";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right151:before {
+	content: "\e0f6";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-right158:before {
+	content: "\e0f7";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-save16:before {
+	content: "\e0f8";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-saving3:before {
+	content: "\e0f9";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-search75:before {
+	content: "\e0fa";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-search76:before {
+	content: "\e0fb";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-semicircular6:before {
+	content: "\e0fc";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-semicircular7:before {
+	content: "\e0fd";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-settings42:before {
+	content: "\e0fe";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speaker79:before {
+	content: "\e0ff";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speaker82:before {
+	content: "\e100";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speaker85:before {
+	content: "\e101";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speaker88:before {
+	content: "\e102";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speech100:before {
+	content: "\e103";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speech98:before {
+	content: "\e104";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speed8:before {
+	content: "\e105";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-speedometer29:before {
+	content: "\e106";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-square154:before {
+	content: "\e107";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-square158:before {
+	content: "\e108";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-square159:before {
+	content: "\e109";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-square162:before {
+	content: "\e10a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-star156:before {
+	content: "\e10b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet78:before {
+	content: "\e10c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet79:before {
+	content: "\e10d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet80:before {
+	content: "\e10e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet81:before {
+	content: "\e10f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet82:before {
+	content: "\e110";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet83:before {
+	content: "\e111";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet84:before {
+	content: "\e112";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet85:before {
+	content: "\e113";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tablet86:before {
+	content: "\e114";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tag45:before {
+	content: "\e115";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-telephone96:before {
+	content: "\e116";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-telephone97:before {
+	content: "\e117";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tie2:before {
+	content: "\e118";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-tie3:before {
+	content: "\e119";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-triptych3:before {
+	content: "\e11a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-twitter43:before {
+	content: "\e11b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-twitter44:before {
+	content: "\e11c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-two312:before {
+	content: "\e11d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-two314:before {
+	content: "\e11e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-two315:before {
+	content: "\e11f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-two321:before {
+	content: "\e120";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-two324:before {
+	content: "\e121";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-unlocked24:before {
+	content: "\e122";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-unlocked25:before {
+	content: "\e123";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-up106:before {
+	content: "\e124";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-up113:before {
+	content: "\e125";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-upload88:before {
+	content: "\e126";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-upload90:before {
+	content: "\e127";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-upload93:before {
+	content: "\e128";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-upload94:before {
+	content: "\e129";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-upload95:before {
+	content: "\e12a";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-upper7:before {
+	content: "\e12b";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-video161:before {
+	content: "\e12c";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-video162:before {
+	content: "\e12d";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-voice21:before {
+	content: "\e12e";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-voice23:before {
+	content: "\e12f";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-whiteboard10:before {
+	content: "\e130";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-whiteboard8:before {
+	content: "\e131";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-whiteboard9:before {
+	content: "\e132";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-wine56:before {
+	content: "\e133";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-write18:before {
+	content: "\e134";
+	font-family: "Flaticon Miu";
+}
+.icon-miu-zoom57:before {
+	content: "\e135";
+	font-family: "Flaticon Miu";
+}

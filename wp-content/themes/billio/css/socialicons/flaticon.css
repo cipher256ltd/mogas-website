@@ -1,0 +1,36 @@
+@font-face {
+	font-family: "Billio Social Share";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="billio-ss-"]:before, [class*=" billio-ss-"]:before,
+[class^="billio-ss-"]:after, [class*=" billio-ss-"]:after {   
+	font-family: "Billio Social Share";
+    font-size: 32px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+.billio-ss-facebook51:before {
+	content: "\e000";
+}
+.billio-ss-facebook52:before {
+	content: "\e001";
+}
+.billio-ss-google114:before {
+	content: "\e002";
+}
+.billio-ss-google115:before {
+	content: "\e003";
+}
+.billio-ss-twitter43:before {
+	content: "\e004";
+}
+.billio-ss-twitter44:before {
+	content: "\e005";
+}

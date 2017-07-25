@@ -1,0 +1,31 @@
+/* rtl handle */
+#redux-header .display_header{float:right;}
+.redux-container #expand_options{float:right;}
+.redux-container .redux-action_bar{float:left;}
+#redux-footer #redux-share{float: right;}
+#redux-sidebar{float: right;position: relative;z-index: 2}
+#redux-sidebar #redux-group-menu li a{
+	padding:12px 14px 12px 4px; 
+	margin-right: auto;
+	margin-left: -2px;
+}
+#redux-sidebar #redux-group-menu li:hover a,
+#redux-sidebar #redux-group-menu li.active a{
+	margin-right: auto;
+	margin-left: -2px;
+}
+
+.redux-main{margin-right: 201px;margin-left: 0;border-right: 1px solid #D8D8D8;border-left: none;}
+.redux-container-switch .switch-options{margin-left:10px;float: right;margin-right: 0; }
+.redux-group-tab-link-a span.group_title{padding-left: 0;margin-right: 30px;}
+.redux-title:before {right:-25px;}
+
+.redux-main .redux-typography-container .select_wrapper{
+	float: right;
+}
+
+.icon-selection-preview{margin-left: auto;margin-right: -30px;}
+
+.redux-career-multi-text .redux-multi-text-remove,
+.redux-career-multi-text .input-group,
+.redux-career-multi-text span.drag{margin-left: auto;margin-right: 20px;}

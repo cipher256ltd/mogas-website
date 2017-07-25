@@ -1,0 +1,39 @@
+[12-May-2017 11:19:26 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[12-May-2017 11:19:26 UTC] WordPress database error Incorrect table name '' for query INSERT INTO `` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_key', 'BWk_:3lgW^[9ey~mDiz^B+]M@ykLl)VOwt]sA@GHaM7HxC_q):yfm{kWL1,cpDeW', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_print_scripts, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_default_scripts, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[12-May-2017 11:19:26 UTC] WordPress database error Incorrect table name '' for query INSERT INTO `` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_salt', 'TY5uR@q}u]<*N,yj ;WjZalyO]38=@.J$tKycb7!z)XGnCiz$LZp5zH<@/Tc4fBp', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_print_scripts, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_default_scripts, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:27:55 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:29:34 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.
+[17-May-2017 09:30:33 UTC] The get_product function is deprecated since version 3.0. Replace with wc_get_product.

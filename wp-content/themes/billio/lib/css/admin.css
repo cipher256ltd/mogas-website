@@ -1,0 +1,34 @@
+#TB_window {
+  z-index: 111111;
+}
+
+#TB_overlay {
+  z-index: 11001;
+}
+
+.mce-ico.mce-i-dt_code{
+	background: url("../images/dt_icon.png") -5px -5px no-repeat;
+}
+
+.mce-i-dt_icon, .mce-i-dt_button, .mce-i-dt_counto {
+	display: none!important;
+}
+
+.iconlist{
+	clear: both;
+}
+
+.iconlist li {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    vertical-align: top;
+    background: #FFF;
+}
+.iconlist li i {
+    padding: 10px;
+    display: block;
+    font-size: 64px;
+    line-height: 1;
+    font-style: normal;
+}

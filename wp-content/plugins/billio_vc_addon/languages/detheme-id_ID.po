@@ -1,0 +1,1729 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Detheme Visual Composer Add On\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2015-10-23 09:38+0700\n"
+"PO-Revision-Date: 2015-10-23 09:38+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme.com <support@detheme.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: billio_vc_addon.php:52
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: billio_vc_addon.php:54
+#, fuzzy, php-format
+msgid "By %s"
+msgstr "%s &#8220;%s&#8221; sudah terpasang."
+
+#: billio_vc_addon.php:73 lib/map.old.php:3171 lib/map.php:3090
+#, fuzzy
+msgid "Select"
+msgstr "Pilih"
+
+#: billio_vc_addon.php:74
+msgid "Insert Media"
+msgstr ""
+
+#: billio_vc_addon.php:75
+msgid "Select Media"
+msgstr ""
+
+#: billio_vc_addon.php:81
+#, fuzzy
+msgid "Search Icon"
+msgstr "Cari ikon"
+
+#: lib/map.old.php:16 lib/map.php:16
+msgid "Icon Box"
+msgstr "Kotak Ikon"
+
+#: lib/map.old.php:21 lib/map.old.php:163 lib/map.old.php:469
+#: lib/map.old.php:569 lib/map.old.php:808 lib/map.old.php:868
+#: lib/map.old.php:1162 lib/map.old.php:1567 lib/map.old.php:1699
+#: lib/map.old.php:1749 lib/map.old.php:1808 lib/map.old.php:2013
+#: lib/map.old.php:2126 lib/map.old.php:2177 lib/map.old.php:2274
+#: lib/map.old.php:2390 lib/map.old.php:2428 lib/map.old.php:2711
+#: lib/map.old.php:2865 lib/map.old.php:2971 lib/map.old.php:3002
+#: lib/map.old.php:3205 lib/map.old.php:3349 lib/map.php:22 lib/map.php:161
+#: lib/map.php:464 lib/map.php:562 lib/map.php:796 lib/map.php:856
+#: lib/map.php:1150 lib/map.php:1554 lib/map.php:1685 lib/map.php:1735
+#: lib/map.php:1929 lib/map.php:2041 lib/map.php:2091 lib/map.php:2186
+#: lib/map.php:2322 lib/map.php:2359 lib/map.php:2637 lib/map.php:2791
+#: lib/map.php:2890 lib/map.php:2921 lib/map.php:3124 lib/map.php:3260
+#, fuzzy
+msgid "deTheme"
+msgstr "Detheme 1 klik pasang demo"
+
+#: lib/map.old.php:22 lib/map.php:21
+msgid "Shows icon with various layouts"
+msgstr ""
+
+#: lib/map.old.php:27 lib/map.old.php:872 lib/map.old.php:1776
+#: lib/map.old.php:2018 lib/map.php:25 lib/map.php:859 lib/map.php:1933
+msgid "Icon"
+msgstr "Ikon"
+
+#: lib/map.old.php:32 lib/map.old.php:876 lib/map.old.php:1780
+#: lib/map.old.php:2022 lib/map.php:30 lib/map.php:863 lib/map.php:1937
+msgid "Select the icon to be displayed by clicking the icon."
+msgstr "Pilih ikon yang akan ditampilkan"
+
+#: lib/map.old.php:37 lib/map.php:35
+msgid "Icon Size"
+msgstr "Ukuran Ikon"
+
+#: lib/map.old.php:45 lib/map.php:43
+msgid "Icon Line Height"
+msgstr "Tinggi Baris Ikon"
+
+#: lib/map.old.php:52 lib/map.old.php:179 lib/map.old.php:1753 lib/map.php:50
+#: lib/map.php:174 lib/map.php:1739
+msgid "Layout type"
+msgstr "Tipe Tampilan"
+
+#: lib/map.old.php:58 lib/map.php:56
+msgid "Type 1: Squared Border Icon"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: lib/map.old.php:59 lib/map.php:57
+#, fuzzy
+msgid "Type 2: Circled Border Icon"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: lib/map.old.php:60 lib/map.php:58
+msgid "Type 3: Squared Border Icon with Counter"
+msgstr ""
+
+#: lib/map.old.php:61 lib/map.php:59
+msgid "Type 4: Squared Border Box"
+msgstr ""
+
+#: lib/map.old.php:62 lib/map.php:60
+msgid "Type 5: Circled Border and Transparent Icon"
+msgstr ""
+
+#: lib/map.old.php:63 lib/map.php:61
+msgid "Type 6: Squared Box With Hover Color"
+msgstr ""
+
+#: lib/map.old.php:64 lib/map.php:62
+msgid "Type 7: Circled boxes Icon On Left"
+msgstr ""
+
+#: lib/map.old.php:65 lib/map.php:63
+msgid "Type 8: Circled boxes Icon On Right"
+msgstr ""
+
+#: lib/map.old.php:69 lib/map.php:67
+msgid "Choose the icon layout you want to use."
+msgstr "Pilih model tampilan ikon yang akan digunakan"
+
+#: lib/map.old.php:72 lib/map.php:70
+#, fuzzy
+msgid "Iconbox heading"
+msgstr "Judul Kotak Ikon"
+
+#: lib/map.old.php:79 lib/map.php:77
+msgid "Iconbox Heading Color"
+msgstr "Warna Judul"
+
+#: lib/map.old.php:86 lib/map.php:84
+msgid "Iconbox Counter Number"
+msgstr ""
+
+#: lib/map.old.php:90 lib/map.php:88
+msgid "A value will count-up."
+msgstr ""
+
+#: lib/map.old.php:95 lib/map.php:93
+msgid "Iconbox text"
+msgstr "Kotak ikon dengan Teks"
+
+#: lib/map.old.php:99 lib/map.php:97
+msgid "Text info"
+msgstr ""
+
+#: lib/map.old.php:103 lib/map.php:101
+msgid "Link"
+msgstr "Tautan"
+
+#: lib/map.old.php:110 lib/map.php:108
+#, fuzzy
+msgid "Target"
+msgstr "Pilih halaman target link"
+
+#: lib/map.old.php:113 lib/map.php:111
+#, fuzzy
+msgid "Blank"
+msgstr "Template Kosongan Page Builder"
+
+#: lib/map.old.php:113 lib/map.php:111
+msgid "Self"
+msgstr ""
+
+#: lib/map.old.php:114 lib/map.php:112
+msgid "Link Target"
+msgstr "Sasaran Tautan"
+
+#: lib/map.old.php:118 lib/map.old.php:529 lib/map.old.php:831
+#: lib/map.old.php:1340 lib/map.old.php:1660 lib/map.old.php:1711
+#: lib/map.old.php:2457 lib/map.old.php:3018 lib/map.old.php:3274
+#: lib/map.old.php:3540 lib/map.php:116 lib/map.php:523 lib/map.php:819
+#: lib/map.php:1327 lib/map.php:1646 lib/map.php:1696 lib/map.php:2384
+#: lib/map.php:2937 lib/map.php:3185 lib/map.php:3451
+msgid "Animation Type"
+msgstr "Jenis Animasi"
+
+#: lib/map.old.php:123 lib/map.old.php:534 lib/map.old.php:836
+#: lib/map.old.php:1345 lib/map.old.php:1665 lib/map.old.php:1716
+#: lib/map.old.php:2462 lib/map.old.php:3023 lib/map.old.php:3279
+#: lib/map.old.php:3545 lib/map.php:121 lib/map.php:528 lib/map.php:824
+#: lib/map.php:1332 lib/map.php:1651 lib/map.php:1701 lib/map.php:2389
+#: lib/map.php:2942 lib/map.php:3190 lib/map.php:3456
+msgid "Scroll Spy not activated"
+msgstr ""
+
+#: lib/map.old.php:124 lib/map.old.php:535 lib/map.old.php:837
+#: lib/map.old.php:1346 lib/map.old.php:1666 lib/map.old.php:1717
+#: lib/map.old.php:2463 lib/map.old.php:3024 lib/map.old.php:3280
+#: lib/map.old.php:3546 lib/map.php:122 lib/map.php:529 lib/map.php:825
+#: lib/map.php:1333 lib/map.php:1652 lib/map.php:1702 lib/map.php:2390
+#: lib/map.php:2943 lib/map.php:3191 lib/map.php:3457
+msgid "The element fades in"
+msgstr ""
+
+#: lib/map.old.php:125 lib/map.old.php:536 lib/map.old.php:838
+#: lib/map.old.php:1347 lib/map.old.php:1667 lib/map.old.php:1718
+#: lib/map.old.php:2464 lib/map.old.php:3025 lib/map.old.php:3281
+#: lib/map.old.php:3547 lib/map.php:123 lib/map.php:530 lib/map.php:826
+#: lib/map.php:1334 lib/map.php:1653 lib/map.php:1703 lib/map.php:2391
+#: lib/map.php:2944 lib/map.php:3192 lib/map.php:3458
+msgid "The element scales up"
+msgstr ""
+
+#: lib/map.old.php:126 lib/map.old.php:537 lib/map.old.php:839
+#: lib/map.old.php:1348 lib/map.old.php:1668 lib/map.old.php:1719
+#: lib/map.old.php:2465 lib/map.old.php:3026 lib/map.old.php:3282
+#: lib/map.old.php:3548 lib/map.php:124 lib/map.php:531 lib/map.php:827
+#: lib/map.php:1335 lib/map.php:1654 lib/map.php:1704 lib/map.php:2392
+#: lib/map.php:2945 lib/map.php:3193 lib/map.php:3459
+msgid "The element scales down"
+msgstr ""
+
+#: lib/map.old.php:127 lib/map.old.php:538 lib/map.old.php:840
+#: lib/map.old.php:1349 lib/map.old.php:1669 lib/map.old.php:1720
+#: lib/map.old.php:2466 lib/map.old.php:3027 lib/map.old.php:3283
+#: lib/map.old.php:3549 lib/map.php:125 lib/map.php:532 lib/map.php:828
+#: lib/map.php:1336 lib/map.php:1655 lib/map.php:1705 lib/map.php:2393
+#: lib/map.php:2946 lib/map.php:3194 lib/map.php:3460
+msgid "The element slides in from the top"
+msgstr ""
+
+#: lib/map.old.php:128 lib/map.old.php:539 lib/map.old.php:841
+#: lib/map.old.php:1350 lib/map.old.php:1670 lib/map.old.php:1721
+#: lib/map.old.php:2467 lib/map.old.php:3028 lib/map.old.php:3284
+#: lib/map.old.php:3550 lib/map.php:126 lib/map.php:533 lib/map.php:829
+#: lib/map.php:1337 lib/map.php:1656 lib/map.php:1706 lib/map.php:2394
+#: lib/map.php:2947 lib/map.php:3195 lib/map.php:3461
+msgid "The element slides in from the bottom"
+msgstr ""
+
+#: lib/map.old.php:129 lib/map.old.php:540 lib/map.old.php:842
+#: lib/map.old.php:1351 lib/map.old.php:1671 lib/map.old.php:1722
+#: lib/map.old.php:2468 lib/map.old.php:3029 lib/map.old.php:3285
+#: lib/map.old.php:3551 lib/map.php:127 lib/map.php:534 lib/map.php:830
+#: lib/map.php:1338 lib/map.php:1657 lib/map.php:1707 lib/map.php:2395
+#: lib/map.php:2948 lib/map.php:3196 lib/map.php:3462
+msgid "The element slides in from the left"
+msgstr ""
+
+#: lib/map.old.php:130 lib/map.old.php:541 lib/map.old.php:843
+#: lib/map.old.php:1352 lib/map.old.php:1672 lib/map.old.php:1723
+#: lib/map.old.php:2469 lib/map.old.php:3030 lib/map.old.php:3286
+#: lib/map.old.php:3552 lib/map.php:128 lib/map.php:535 lib/map.php:831
+#: lib/map.php:1339 lib/map.php:1658 lib/map.php:1708 lib/map.php:2396
+#: lib/map.php:2949 lib/map.php:3197 lib/map.php:3463
+msgid "The element slides in from the right."
+msgstr ""
+
+#: lib/map.old.php:132 lib/map.old.php:543 lib/map.old.php:845
+#: lib/map.old.php:1354 lib/map.old.php:1674 lib/map.old.php:1725
+#: lib/map.old.php:2471 lib/map.old.php:3032 lib/map.old.php:3288
+#: lib/map.old.php:3554 lib/map.php:130 lib/map.php:537 lib/map.php:833
+#: lib/map.php:1341 lib/map.php:1660 lib/map.php:1710 lib/map.php:2398
+#: lib/map.php:2951 lib/map.php:3199 lib/map.php:3465
+#, fuzzy
+msgid "Scroll spy effects"
+msgstr "Efek scroll spy"
+
+#: lib/map.old.php:136 lib/map.old.php:547 lib/map.old.php:849
+#: lib/map.old.php:1358 lib/map.old.php:1678 lib/map.old.php:1729
+#: lib/map.old.php:2475 lib/map.old.php:3036 lib/map.old.php:3292
+#: lib/map.old.php:3559 lib/map.php:134 lib/map.php:541 lib/map.php:837
+#: lib/map.php:1345 lib/map.php:1664 lib/map.php:1714 lib/map.php:2402
+#: lib/map.php:2955 lib/map.php:3203 lib/map.php:3470
+#, fuzzy
+msgid "Animation Delay"
+msgstr "Jeda Animasi"
+
+#: lib/map.old.php:140 lib/map.old.php:551 lib/map.old.php:853
+#: lib/map.old.php:1362 lib/map.old.php:1682 lib/map.old.php:1733
+#: lib/map.old.php:2479 lib/map.old.php:3040 lib/map.old.php:3296
+#: lib/map.old.php:3563 lib/map.php:138 lib/map.php:545 lib/map.php:841
+#: lib/map.php:1349 lib/map.php:1668 lib/map.php:1718 lib/map.php:2406
+#: lib/map.php:2959 lib/map.php:3207 lib/map.php:3474
+msgid "The number of delay the animation effect of the icon. in milisecond"
+msgstr ""
+
+#: lib/map.old.php:146 lib/map.old.php:311 lib/map.php:144 lib/map.php:306
+#, fuzzy
+msgid "Css"
+msgstr "CSS Class tambahan"
+
+#: lib/map.old.php:148 lib/map.php:146
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: lib/map.old.php:149 lib/map.old.php:313 lib/map.php:147 lib/map.php:308
+msgid "Design options"
+msgstr "Opsi Disain"
+
+#: lib/map.old.php:157 lib/map.php:154
+msgid "Section Heading"
+msgstr "Judul Seksi"
+
+#: lib/map.old.php:164 lib/map.php:160
+msgid "Shows the heading title"
+msgstr ""
+
+#: lib/map.old.php:169 lib/map.php:164
+#, fuzzy
+msgid "Separator"
+msgstr "Pembatas"
+
+#: lib/map.old.php:173 lib/map.old.php:475 lib/map.old.php:1188
+#: lib/map.old.php:2218 lib/map.old.php:3260 lib/map.old.php:3491
+#: lib/map.old.php:3499 lib/map.old.php:3533 lib/map.php:168 lib/map.php:469
+#: lib/map.php:1175 lib/map.php:2131 lib/map.php:3171 lib/map.php:3402
+#: lib/map.php:3410 lib/map.php:3444
+msgid "Yes"
+msgstr "Ya"
+
+#: lib/map.old.php:174 lib/map.old.php:475 lib/map.old.php:1189
+#: lib/map.old.php:2219 lib/map.old.php:3261 lib/map.old.php:3491
+#: lib/map.old.php:3499 lib/map.old.php:3534 lib/map.php:169 lib/map.php:469
+#: lib/map.php:1176 lib/map.php:2132 lib/map.php:3172 lib/map.php:3402
+#: lib/map.php:3410 lib/map.php:3445
+msgid "No"
+msgstr "Tidak"
+
+#: lib/map.old.php:185 lib/map.php:180
+#, fuzzy
+msgid "Type 1: Borderer"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: lib/map.old.php:186 lib/map.php:181
+msgid "Type 2: Border Top-Bottom"
+msgstr ""
+
+#: lib/map.old.php:187 lib/map.php:182
+msgid "Type 3: Two Bottom Polkadot"
+msgstr ""
+
+#: lib/map.old.php:188 lib/map.php:183
+#, fuzzy
+msgid "Type 4: Color Background"
+msgstr "Model Latar"
+
+#: lib/map.old.php:189 lib/map.php:184
+#, fuzzy
+msgid "Type 5: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/map.old.php:190 lib/map.php:185
+#, fuzzy
+msgid "Type 6: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/map.old.php:191 lib/map.php:186
+#, fuzzy
+msgid "Type 7: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/map.old.php:192 lib/map.php:187
+#, fuzzy
+msgid "Type 8: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/map.old.php:193 lib/map.php:188
+#, fuzzy
+msgid "Type 9: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/map.old.php:194 lib/map.php:189
+msgid "Type 10: "
+msgstr ""
+
+#: lib/map.old.php:195 lib/map.php:190
+msgid "Type 11: "
+msgstr ""
+
+#: lib/map.old.php:196 lib/map.php:191
+#, fuzzy
+msgid "Type 12: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/map.old.php:197 lib/map.php:192
+msgid "Type 13: "
+msgstr ""
+
+#: lib/map.old.php:198 lib/map.php:193
+msgid "Type 14: "
+msgstr ""
+
+#: lib/map.old.php:203 lib/map.php:198
+#, fuzzy
+msgid "Separator Position"
+msgstr "Posisi Pembatas"
+
+#: lib/map.old.php:206 lib/map.old.php:222 lib/map.old.php:2936
+#: lib/map.php:201 lib/map.php:217 lib/map.php:2855
+msgid "Center"
+msgstr "Tengah"
+
+#: lib/map.old.php:206 lib/map.old.php:222 lib/map.old.php:824
+#: lib/map.old.php:1758 lib/map.old.php:2936 lib/map.php:201 lib/map.php:217
+#: lib/map.php:812 lib/map.php:2855
+msgid "Left"
+msgstr "Kiri"
+
+#: lib/map.old.php:206 lib/map.old.php:222 lib/map.old.php:825
+#: lib/map.old.php:1759 lib/map.old.php:2936 lib/map.php:201 lib/map.php:217
+#: lib/map.php:813 lib/map.php:2855
+msgid "Right"
+msgstr "Kanan"
+
+#: lib/map.old.php:211 lib/map.php:206
+#, fuzzy
+msgid "Text Heading"
+msgstr "Teks Judul"
+
+#: lib/map.old.php:219 lib/map.php:214
+msgid "Text Alignment"
+msgstr "Perataan Teks"
+
+#: lib/map.old.php:228 lib/map.php:223
+#, fuzzy
+msgid "Font Size"
+msgstr "Ukuran Huruf"
+
+#: lib/map.old.php:233 lib/map.php:228
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: lib/map.old.php:234 lib/map.old.php:2916 lib/map.php:229 lib/map.php:2835
+msgid "Large"
+msgstr "Besar"
+
+#: lib/map.old.php:235 lib/map.old.php:259 lib/map.old.php:283
+#: lib/map.old.php:2254 lib/map.old.php:2263 lib/map.old.php:2823
+#: lib/map.php:230 lib/map.php:254 lib/map.php:278 lib/map.php:2167
+#: lib/map.php:2176 lib/map.php:2745
+#, fuzzy
+msgid "Default"
+msgstr "Bawaan"
+
+#: lib/map.old.php:236 lib/map.old.php:2914 lib/map.php:231 lib/map.php:2833
+msgid "Small"
+msgstr "Kecil"
+
+#: lib/map.old.php:237 lib/map.php:232
+msgid "Extra small"
+msgstr "Sangat Kecil"
+
+#: lib/map.old.php:238 lib/map.php:233
+msgid "Custom Size"
+msgstr "Pakai Ukuran Lain"
+
+#: lib/map.old.php:243 lib/map.php:238
+msgid "Custom Font Size"
+msgstr "Ukuran Huruf"
+
+#: lib/map.old.php:252 lib/map.php:247
+#, fuzzy
+msgid "Font Style"
+msgstr "Model Huruf"
+
+#: lib/map.old.php:257 lib/map.php:252
+msgid "Italic"
+msgstr ""
+
+#: lib/map.old.php:258 lib/map.php:253
+#, fuzzy
+msgid "Oblique"
+msgstr "Italic"
+
+#: lib/map.old.php:260 lib/map.old.php:272 lib/map.php:255 lib/map.php:267
+msgid "Normal"
+msgstr ""
+
+#: lib/map.old.php:265 lib/map.php:260
+msgid "Font Weight"
+msgstr "Tebal Huruf"
+
+#: lib/map.old.php:270 lib/map.php:265
+#, fuzzy
+msgid "Bold"
+msgstr "Tebal"
+
+#: lib/map.old.php:271 lib/map.php:266
+#, fuzzy
+msgid "Bolder"
+msgstr "Lebih Tebal"
+
+#: lib/map.old.php:273 lib/map.php:268
+#, fuzzy
+msgid "lighter"
+msgstr "lebih terang"
+
+#: lib/map.old.php:288 lib/map.php:283
+#, fuzzy
+msgid "Line Height"
+msgstr "Tinggi Baris Ikon"
+
+#: lib/map.old.php:296 lib/map.php:291
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: lib/map.old.php:303 lib/map.php:298
+#, fuzzy
+msgid "Separator Color"
+msgstr "Warna Pembatas"
+
+#: lib/map.old.php:462 lib/map.php:457
+msgid "Price Item"
+msgstr "Item Harga"
+
+#: lib/map.old.php:473 lib/map.php:467
+msgid "Most popular"
+msgstr "Terpopuler"
+
+#: lib/map.old.php:480 lib/map.php:474
+msgid "Package Name"
+msgstr "Nama Paket"
+
+#: lib/map.old.php:486 lib/map.php:480
+msgid "Package Image"
+msgstr "Gambar Paket"
+
+#: lib/map.old.php:492 lib/map.php:486
+msgid "Price Unit"
+msgstr "Item Harga"
+
+#: lib/map.old.php:498 lib/map.php:492
+msgid "Currency Symbol"
+msgstr "Simbol Mata Uang"
+
+#: lib/map.old.php:504 lib/map.php:498
+msgid "Price"
+msgstr "Harga"
+
+#: lib/map.old.php:510 lib/map.php:504
+msgid "Package Detail"
+msgstr "Detil Paket"
+
+#: lib/map.old.php:513 lib/map.php:507
+msgid ""
+"Type package detail in single line (without breakline/enter). Each breakline "
+"is automatically detected as new detail item"
+msgstr ""
+
+#: lib/map.old.php:517 lib/map.php:511
+msgid "\"Button\" Link"
+msgstr ""
+
+#: lib/map.old.php:523 lib/map.php:517
+#, fuzzy
+msgid "\"Button\" Text"
+msgstr "Teks \"Tombol\""
+
+#: lib/map.old.php:561 lib/map.old.php:577 lib/map.php:555 lib/map.php:570
+msgid "Pricing Table"
+msgstr "Tabel Harga"
+
+#: lib/map.old.php:570 lib/map.php:563
+msgid "Shows price comparison table"
+msgstr ""
+
+#: lib/map.old.php:574 lib/map.old.php:813 lib/map.old.php:1167
+#: lib/map.old.php:1704 lib/map.old.php:2435 lib/map.old.php:2718
+#: lib/map.old.php:3005 lib/map.old.php:3208 lib/map.php:567 lib/map.php:801
+#: lib/map.php:1154 lib/map.php:1689 lib/map.php:2362 lib/map.php:2640
+#: lib/map.php:2924 lib/map.php:3127
+msgid "Module Title"
+msgstr "Judul Module"
+
+#: lib/map.old.php:581 lib/map.php:574
+msgid "Number of Price Column"
+msgstr "Jumlah Kolom Harga"
+
+#: lib/map.old.php:584 lib/map.php:577
+msgid "Three"
+msgstr "Tiga"
+
+#: lib/map.old.php:585 lib/map.php:578
+msgid "Four"
+msgstr "Empat"
+
+#: lib/map.old.php:801 lib/map.old.php:816 lib/map.php:790 lib/map.php:804
+msgid "Vertical Tab"
+msgstr ""
+
+#: lib/map.old.php:809 lib/map.php:797
+msgid "Shows customizable vertical tab"
+msgstr ""
+
+#: lib/map.old.php:820 lib/map.php:808
+#, fuzzy
+msgid "Navigation Position"
+msgstr "Posisi Navigasi"
+
+#: lib/map.old.php:827 lib/map.php:815
+#, fuzzy
+msgid "Navigation position"
+msgstr "Posisi Navigasi"
+
+#: lib/map.old.php:862 lib/map.php:850
+msgid "Tab Item"
+msgstr ""
+
+#: lib/map.old.php:880 lib/map.old.php:1572 lib/map.php:867 lib/map.php:1558
+#, fuzzy
+msgid "Main Title"
+msgstr "Judul Utama"
+
+#: lib/map.old.php:886 lib/map.old.php:1579 lib/map.php:873 lib/map.php:1565
+#, fuzzy
+msgid "Sub Title"
+msgstr "Sub Judul"
+
+#: lib/map.old.php:892 lib/map.old.php:1812 lib/map.php:879
+#, fuzzy
+msgid "Content"
+msgstr "Isi"
+
+#: lib/map.old.php:1155 lib/map.php:1142
+msgid "Carousel"
+msgstr ""
+
+#: lib/map.old.php:1163 lib/map.php:1151
+msgid "Shows element in carousel"
+msgstr ""
+
+#: lib/map.old.php:1170 lib/map.php:1157
+msgid "DT Carousel"
+msgstr ""
+
+#: lib/map.old.php:1174 lib/map.old.php:3518 lib/map.php:1161 lib/map.php:3429
+#, fuzzy
+msgid "Slide Speed"
+msgstr "Kecepatan Slide"
+
+#: lib/map.old.php:1178 lib/map.old.php:2228 lib/map.old.php:3522
+#: lib/map.php:1165 lib/map.php:2141 lib/map.php:3433
+#, fuzzy
+msgid "Slide speed (in millisecond). The lower value the faster slides"
+msgstr ""
+"Kecepatan slide ( dalam per seribu detik). Semakin kecil nilainya semakin "
+"cepat slide"
+
+#: lib/map.old.php:1182 lib/map.old.php:3527 lib/map.php:1169 lib/map.php:3438
+#, fuzzy
+msgid "Autoplay"
+msgstr "Mulai Otomatis"
+
+#: lib/map.old.php:1184 lib/map.old.php:2214 lib/map.old.php:3529
+#: lib/map.php:1171 lib/map.php:2127 lib/map.php:3440
+#, fuzzy
+msgid "Set Autoplay"
+msgstr "Jadikan Mulai Otomatis"
+
+#: lib/map.old.php:1194 lib/map.php:1181
+#, fuzzy
+msgid "Slide Interval"
+msgstr "Jeda Slide"
+
+#: lib/map.old.php:1198 lib/map.php:1185
+msgid "Slide Interval (in millisecond)"
+msgstr ""
+
+#: lib/map.old.php:1203 lib/map.php:1190
+msgid "Pagination"
+msgstr ""
+
+#: lib/map.old.php:1205 lib/map.php:1192
+msgid "Pagination Setting"
+msgstr ""
+
+#: lib/map.old.php:1209 lib/map.old.php:1600 lib/map.old.php:2764
+#: lib/map.old.php:2774 lib/map.old.php:2784 lib/map.php:1196 lib/map.php:1586
+#: lib/map.php:2686 lib/map.php:2696 lib/map.php:2706
+#, fuzzy
+msgid "Show"
+msgstr "Tampilkan"
+
+#: lib/map.old.php:1210 lib/map.old.php:2764 lib/map.old.php:2774
+#: lib/map.old.php:2784 lib/map.php:1197 lib/map.php:2686 lib/map.php:2696
+#: lib/map.php:2706
+#, fuzzy
+msgid "Hidden"
+msgstr "Sembunyikan"
+
+#: lib/map.old.php:1215 lib/map.old.php:1217 lib/map.php:1202 lib/map.php:1204
+#, fuzzy
+msgid "Pagination Type"
+msgstr "Tipe file tidak sesuai"
+
+#: lib/map.old.php:1221 lib/map.php:1208
+msgid "Standard"
+msgstr ""
+
+#: lib/map.old.php:1222 lib/map.old.php:2824 lib/map.php:1209 lib/map.php:2746
+#, fuzzy
+msgid "Custom Image"
+msgstr "Gambar Pilihan"
+
+#: lib/map.old.php:1223 lib/map.php:1210
+#, fuzzy
+msgid "Custom Icon"
+msgstr "Ikon Pilihan"
+
+#: lib/map.old.php:1229 lib/map.old.php:2941 lib/map.php:1223 lib/map.php:2860
+msgid "Color"
+msgstr "Warna"
+
+#: lib/map.old.php:1236 lib/map.php:1216
+#, fuzzy
+msgid "Pagination Preview"
+msgstr "Pra-Tayang"
+
+#: lib/map.old.php:1243 lib/map.old.php:2911 lib/map.php:1230 lib/map.php:2830
+msgid "Size"
+msgstr "Ukuran"
+
+#: lib/map.old.php:1250 lib/map.php:1237
+msgid "Pagination Image"
+msgstr ""
+
+#: lib/map.old.php:1258 lib/map.php:1245
+msgid "Thumbnail Width ( in percent )"
+msgstr ""
+
+#: lib/map.old.php:1266 lib/map.php:1253
+msgid "Pagination Icon"
+msgstr ""
+
+#: lib/map.old.php:1270 lib/map.php:1257
+msgid "The icon you want as pagination"
+msgstr "Pilih ikon untuk halaman"
+
+#: lib/map.old.php:1275 lib/map.old.php:2442 lib/map.old.php:3474
+#: lib/map.php:1262 lib/map.php:2369 lib/map.php:3385
+msgid "Number of Columns"
+msgstr "Jumlah Kolom"
+
+#: lib/map.old.php:1277 lib/map.old.php:2444 lib/map.old.php:3476
+#: lib/map.php:1264 lib/map.php:2371 lib/map.php:3387
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr ""
+
+#: lib/map.old.php:1280 lib/map.old.php:1293 lib/map.old.php:1306
+#: lib/map.old.php:1319 lib/map.old.php:1332 lib/map.old.php:2447
+#: lib/map.old.php:3394 lib/map.old.php:3411 lib/map.old.php:3428
+#: lib/map.old.php:3445 lib/map.old.php:3462 lib/map.php:1267 lib/map.php:1280
+#: lib/map.php:1293 lib/map.php:1306 lib/map.php:1319 lib/map.php:2374
+#: lib/map.php:3305 lib/map.php:3322 lib/map.php:3339 lib/map.php:3356
+#: lib/map.php:3373
+#, fuzzy
+msgid "One Column"
+msgstr "Satu Kolom"
+
+#: lib/map.old.php:1281 lib/map.old.php:1294 lib/map.old.php:1307
+#: lib/map.old.php:1320 lib/map.old.php:1333 lib/map.old.php:2448
+#: lib/map.old.php:3395 lib/map.old.php:3412 lib/map.old.php:3429
+#: lib/map.old.php:3446 lib/map.old.php:3463 lib/map.old.php:3479
+#: lib/map.php:1268 lib/map.php:1281 lib/map.php:1294 lib/map.php:1307
+#: lib/map.php:1320 lib/map.php:2375 lib/map.php:3306 lib/map.php:3323
+#: lib/map.php:3340 lib/map.php:3357 lib/map.php:3374 lib/map.php:3390
+#, fuzzy
+msgid "Two Columns"
+msgstr "Dua Kolom"
+
+#: lib/map.old.php:1282 lib/map.old.php:1295 lib/map.old.php:1308
+#: lib/map.old.php:1321 lib/map.old.php:1334 lib/map.old.php:2449
+#: lib/map.old.php:3396 lib/map.old.php:3413 lib/map.old.php:3430
+#: lib/map.old.php:3447 lib/map.old.php:3464 lib/map.old.php:3480
+#: lib/map.php:1269 lib/map.php:1282 lib/map.php:1295 lib/map.php:1308
+#: lib/map.php:1321 lib/map.php:2376 lib/map.php:3307 lib/map.php:3324
+#: lib/map.php:3341 lib/map.php:3358 lib/map.php:3375 lib/map.php:3391
+#, fuzzy
+msgid "Three Columns"
+msgstr "Tiga Kolom"
+
+#: lib/map.old.php:1283 lib/map.old.php:1296 lib/map.old.php:1309
+#: lib/map.old.php:1322 lib/map.old.php:1335 lib/map.old.php:2450
+#: lib/map.old.php:3397 lib/map.old.php:3414 lib/map.old.php:3431
+#: lib/map.old.php:3448 lib/map.old.php:3465 lib/map.old.php:3481
+#: lib/map.php:1270 lib/map.php:1283 lib/map.php:1296 lib/map.php:1309
+#: lib/map.php:1322 lib/map.php:2377 lib/map.php:3308 lib/map.php:3325
+#: lib/map.php:3342 lib/map.php:3359 lib/map.php:3376 lib/map.php:3392
+#, fuzzy
+msgid "Four Columns"
+msgstr "Empat Kolom"
+
+#: lib/map.old.php:1288 lib/map.old.php:3406 lib/map.php:1275 lib/map.php:3317
+msgid "Desktop Column"
+msgstr ""
+
+#: lib/map.old.php:1290 lib/map.php:1277
+msgid "items between 1200px and 1023px"
+msgstr ""
+
+#: lib/map.old.php:1301 lib/map.old.php:3423 lib/map.php:1288 lib/map.php:3334
+msgid "Desktop Small Column"
+msgstr ""
+
+#: lib/map.old.php:1303 lib/map.php:1290
+msgid "items between 1024px and 768px"
+msgstr ""
+
+#: lib/map.old.php:1314 lib/map.old.php:3440 lib/map.php:1301 lib/map.php:3351
+#, fuzzy
+msgid "Tablet Column"
+msgstr "Layar Tablet"
+
+#: lib/map.old.php:1316 lib/map.php:1303
+msgid "items between 768px and 600px"
+msgstr ""
+
+#: lib/map.old.php:1327 lib/map.old.php:3457 lib/map.php:1314 lib/map.php:3368
+#, fuzzy
+msgid "Mobile Column"
+msgstr "Layar Handphone"
+
+#: lib/map.old.php:1329 lib/map.php:1316
+msgid "items below 600px"
+msgstr ""
+
+#: lib/map.old.php:1563 lib/map.php:1550
+msgid "Custom Team Item"
+msgstr ""
+
+#: lib/map.old.php:1568 lib/map.php:1555
+msgid "Shows team description"
+msgstr ""
+
+#: lib/map.old.php:1585 lib/map.php:1571
+#, fuzzy
+msgid "Description"
+msgstr "Keterangan"
+
+#: lib/map.old.php:1591 lib/map.php:1577
+#, fuzzy
+msgid "Image"
+msgstr "Gambar"
+
+#: lib/map.old.php:1598 lib/map.php:1584
+#, fuzzy
+msgid "Social Link"
+msgstr "Tautan Sosial"
+
+#: lib/map.old.php:1600 lib/map.php:1586
+#, fuzzy
+msgid "Hide"
+msgstr "Tampilan/sembunyikan kontrol perbesaran"
+
+#: lib/map.old.php:1691 lib/map.old.php:1707 lib/map.php:1677 lib/map.php:1692
+msgid "Timeline"
+msgstr ""
+
+#: lib/map.old.php:1700 lib/map.php:1686
+msgid "Shows element in timeline view"
+msgstr ""
+
+#: lib/map.old.php:1742 lib/map.php:1727
+msgid "Timeline Item"
+msgstr ""
+
+#: lib/map.old.php:1765 lib/map.php:1751
+msgid "Icon Box Style"
+msgstr "Model Kotak Ikon"
+
+#: lib/map.old.php:1769 lib/map.old.php:2926 lib/map.php:1755 lib/map.php:2845
+msgid "Square"
+msgstr "Kotak"
+
+#: lib/map.old.php:1770 lib/map.old.php:2927 lib/map.php:1756 lib/map.php:2846
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: lib/map.old.php:1784 lib/map.old.php:2026 lib/map.old.php:2131
+#: lib/map.old.php:2394 lib/map.old.php:2974 lib/map.php:1941 lib/map.php:2045
+#: lib/map.php:2325 lib/map.php:2893
+#, fuzzy
+msgid "Title"
+msgstr "Judul "
+
+#: lib/map.old.php:1791
+#, fuzzy
+msgid "Text"
+msgstr "Teks"
+
+#: lib/map.old.php:1801
+#, fuzzy
+msgid "Timeline Separator"
+msgstr "Pembatas Timeline"
+
+#: lib/map.old.php:2007 lib/map.php:1923
+msgid "Progress Bar Item"
+msgstr ""
+
+#: lib/map.old.php:2014 lib/map.php:1930
+msgid "Shows the progress bar"
+msgstr ""
+
+#: lib/map.old.php:2033 lib/map.old.php:2138 lib/map.php:1948 lib/map.php:2052
+#, fuzzy
+msgid "Value"
+msgstr "Nilai"
+
+#: lib/map.old.php:2039 lib/map.old.php:2144 lib/map.php:1954 lib/map.php:2058
+#, fuzzy
+msgid "Units"
+msgstr "Satuan"
+
+#: lib/map.old.php:2045 lib/map.old.php:2156 lib/map.php:1960 lib/map.php:2070
+#, fuzzy
+msgid "Bar Color"
+msgstr "Warna Batang"
+
+#: lib/map.old.php:2051 lib/map.old.php:2162 lib/map.old.php:2948
+#: lib/map.php:1966 lib/map.php:2076 lib/map.php:2867
+#, fuzzy
+msgid "Background Color"
+msgstr "Warna Latar"
+
+#: lib/map.old.php:2120 lib/map.php:2035
+msgid "Circle Bar"
+msgstr ""
+
+#: lib/map.old.php:2127 lib/map.php:2042
+msgid "Shows the circle bar"
+msgstr ""
+
+#: lib/map.old.php:2150 lib/map.php:2064
+msgid "Bar Width"
+msgstr "Lebar Batang"
+
+#: lib/map.old.php:2172 lib/map.php:2086
+msgid "DT Twitter Slider"
+msgstr ""
+
+#: lib/map.old.php:2178 lib/map.php:2092
+msgid "Shows tweets from twitter account"
+msgstr ""
+
+#: lib/map.old.php:2182 lib/map.php:2095
+#, fuzzy
+msgid "Twitter Account:"
+msgstr "Akun Twitter"
+
+#: lib/map.old.php:2189 lib/map.php:2102
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: lib/map.old.php:2196 lib/map.php:2109
+#, fuzzy
+msgid "Date Format:"
+msgstr "Format Tanggal"
+
+#: lib/map.old.php:2198 lib/map.php:2111
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual "
+"month, %y: 2 digit year, %Y: 4 digit year"
+msgstr ""
+
+#: lib/map.old.php:2204 lib/map.php:2117
+#, fuzzy
+msgid "Template :"
+msgstr "Template Halaman"
+
+#: lib/map.old.php:2209 lib/map.php:2122
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+#: lib/map.old.php:2212 lib/map.php:2125
+#, fuzzy
+msgid "Auto Play:"
+msgstr "Mulai Otomatis"
+
+#: lib/map.old.php:2224 lib/map.php:2137
+#, fuzzy
+msgid "Transition Threshold (msec):"
+msgstr "Lama Pergantian (msec)"
+
+#: lib/map.old.php:2267 lib/map.php:2179
+#, fuzzy
+msgid "Countdown Timer"
+msgstr "Pewaktu Hitung Mundur"
+
+#: lib/map.old.php:2269 lib/map.php:2181
+msgid "Shows the countdown timer"
+msgstr ""
+
+#: lib/map.old.php:2278 lib/map.php:2189
+msgid "Countdown Box Color"
+msgstr "Warna Wadah"
+
+#: lib/map.old.php:2287 lib/map.php:2198
+msgid "Countdown Text Color"
+msgstr "Warna tek"
+
+#: lib/map.old.php:2296 lib/map.php:2207
+msgid "Countdown Label Color"
+msgstr "Warna label"
+
+#: lib/map.old.php:2315 lib/map.php:2243
+#, fuzzy
+msgid "Time"
+msgstr "Jam"
+
+#: lib/map.old.php:2317 lib/map.php:2245
+#, fuzzy, php-format
+msgid "Time format hour:minute. example: %s"
+msgstr "Format jam:menit. contoh: %s"
+
+#: lib/map.old.php:2323 lib/map.php:2252 lib/shortcode.php:817
+msgid "Day"
+msgstr "Hari"
+
+#: lib/map.old.php:2325 lib/map.php:2254
+#, php-format
+msgid "Fill with the day of the event. example: %s"
+msgstr ""
+
+#: lib/map.old.php:2331 lib/map.php:2261 lib/shortcode.php:815
+#, fuzzy
+msgid "Month"
+msgstr "Bulan"
+
+#: lib/map.old.php:2333 lib/map.php:2263
+msgid "Choose the month of the event"
+msgstr ""
+
+#: lib/map.old.php:2337 lib/map.php:2267
+msgid "January"
+msgstr ""
+
+#: lib/map.old.php:2338 lib/map.php:2268
+msgid "February"
+msgstr ""
+
+#: lib/map.old.php:2339 lib/map.php:2269
+msgid "March"
+msgstr ""
+
+#: lib/map.old.php:2340 lib/map.php:2270
+msgid "April"
+msgstr ""
+
+#: lib/map.old.php:2341 lib/map.php:2271
+msgid "May"
+msgstr "Mei"
+
+#: lib/map.old.php:2342 lib/map.php:2272
+msgid "June"
+msgstr ""
+
+#: lib/map.old.php:2343 lib/map.php:2273
+msgid "July"
+msgstr ""
+
+#: lib/map.old.php:2344 lib/map.php:2274
+msgid "August"
+msgstr ""
+
+#: lib/map.old.php:2345 lib/map.php:2275
+msgid "September"
+msgstr ""
+
+#: lib/map.old.php:2346 lib/map.php:2276
+msgid "October"
+msgstr ""
+
+#: lib/map.old.php:2347 lib/map.php:2277
+msgid "November"
+msgstr ""
+
+#: lib/map.old.php:2348 lib/map.php:2278
+msgid "December"
+msgstr ""
+
+#: lib/map.old.php:2353 lib/map.php:2284 lib/shortcode.php:814
+#, fuzzy
+msgid "Year"
+msgstr "Tahun"
+
+#: lib/map.old.php:2355 lib/map.php:2286
+#, php-format
+msgid "Fill with the year of the event. example: %d"
+msgstr ""
+
+#: lib/map.old.php:2361 lib/map.php:2293
+#, fuzzy
+msgid "On Complete Countdown Message"
+msgstr "Pesan jika pewaktu mundur selesai"
+
+#: lib/map.old.php:2364 lib/map.php:2296
+msgid "The content will show after countdown expired. Simple html allowed"
+msgstr ""
+
+#: lib/map.old.php:2368 lib/map.php:2300
+#, fuzzy
+msgid "Redirect Url after countdown is completed"
+msgstr "Arahan Tautan setelah pewaktu mundur selesai"
+
+#: lib/map.old.php:2370 lib/map.php:2302
+#, fuzzy
+msgid "If countdown expired, the page will be redirected to this url"
+msgstr "Jika pewaktu mundur selesai, halaman akan diteruskan ke tautan ini"
+
+#: lib/map.old.php:2382 lib/map.php:2314
+msgid "Partner Item"
+msgstr ""
+
+#: lib/map.old.php:2401 lib/map.php:2332
+#, fuzzy
+msgid "Image/Logo"
+msgstr "Gambar/Logo"
+
+#: lib/map.old.php:2408 lib/map.php:2339
+#, fuzzy
+msgid "Website"
+msgstr "Laman Web "
+
+#: lib/map.old.php:2418 lib/map.old.php:2438 lib/map.php:2349 lib/map.php:2365
+msgid "Partner"
+msgstr ""
+
+#: lib/map.old.php:2421 lib/map.php:2352
+msgid "Shows the detail of partners"
+msgstr ""
+
+#: lib/map.old.php:2451 lib/map.old.php:3399 lib/map.old.php:3416
+#: lib/map.old.php:3433 lib/map.old.php:3450 lib/map.old.php:3467
+#: lib/map.old.php:3482 lib/map.php:2378 lib/map.php:3310 lib/map.php:3327
+#: lib/map.php:3344 lib/map.php:3361 lib/map.php:3378 lib/map.php:3393
+#, fuzzy
+msgid "Six Columns"
+msgstr "6 kolom"
+
+#: lib/map.old.php:2704 lib/map.old.php:2721 lib/map.php:2630 lib/map.php:2643
+#, fuzzy
+msgid "Google Map"
+msgstr "Peta Google"
+
+#: lib/map.old.php:2706 lib/map.php:2632
+msgid "Shows the google map"
+msgstr ""
+
+#: lib/map.old.php:2725 lib/map.php:2647
+msgid "Latitude"
+msgstr ""
+
+#: lib/map.old.php:2728 lib/map.php:2650
+msgid "put your latitude coordinate your location, ex: -7.2852292"
+msgstr ""
+
+#: lib/map.old.php:2735 lib/map.php:2657
+msgid "Longitude"
+msgstr ""
+
+#: lib/map.old.php:2738 lib/map.php:2660
+msgid "put your longitude coordinate your location, ex: 112.6809869"
+msgstr ""
+
+#: lib/map.old.php:2745 lib/map.php:2667
+#, fuzzy
+msgid "Zoom Level"
+msgstr "Tingkat Perbesaran"
+
+#: lib/map.old.php:2748 lib/map.php:2670
+msgid "zoom level ypur map, higher value present more detail."
+msgstr ""
+
+#: lib/map.old.php:2759 lib/map.php:2681
+#, fuzzy
+msgid "Zoom Control"
+msgstr "Kontrol Perbesaran"
+
+#: lib/map.old.php:2762 lib/map.php:2684
+#, fuzzy
+msgid "Show/hide zoom control"
+msgstr "Tampilan/sembunyikan kontrol perbesaran"
+
+#: lib/map.old.php:2769 lib/map.php:2691
+msgid "Pan Control"
+msgstr ""
+
+#: lib/map.old.php:2772 lib/map.php:2694
+msgid "Show/hide pan control"
+msgstr ""
+
+#: lib/map.old.php:2779 lib/map.php:2701
+msgid "Street View Control"
+msgstr ""
+
+#: lib/map.old.php:2782 lib/map.php:2704
+msgid "Show/hide street view control"
+msgstr ""
+
+#: lib/map.old.php:2789 lib/map.php:2711
+#, fuzzy
+msgid "Mouse Scroll Wheel"
+msgstr "Efek scroll spy"
+
+#: lib/map.old.php:2792 lib/map.php:2714
+msgid "Disable/enable mouse scroll to control zoom"
+msgstr ""
+
+#: lib/map.old.php:2794 lib/map.php:2716
+#, fuzzy
+msgid "Enable"
+msgstr "Aktifkan"
+
+#: lib/map.old.php:2794 lib/map.php:2716
+#, fuzzy
+msgid "Disable"
+msgstr "Matikan"
+
+#: lib/map.old.php:2803 lib/map.php:2725
+msgid "Map Height"
+msgstr "Tinggi Peta"
+
+#: lib/map.old.php:2811 lib/map.php:2733
+#, fuzzy
+msgid "Map Width"
+msgstr "Lebar Peta"
+
+#: lib/map.old.php:2818 lib/map.php:2740
+#, fuzzy
+msgid "Map Marker"
+msgstr "Penanda Peta"
+
+#: lib/map.old.php:2829 lib/map.php:2751
+#, fuzzy
+msgid "Image Marker"
+msgstr "Gambar Penanda"
+
+#: lib/map.old.php:2834 lib/map.php:2756
+#, fuzzy
+msgid "Select image as marker your location on the map"
+msgstr "Pilihlah gambar yang digunakan penanda dalam peta"
+
+#: lib/map.old.php:2838 lib/map.php:2760
+#, fuzzy
+msgid "Map Style"
+msgstr "Model Peta"
+
+#: lib/map.old.php:2843 lib/map.php:2765
+msgid "Shades of Grey"
+msgstr ""
+
+#: lib/map.old.php:2844 lib/map.php:2766
+msgid "Midnight Commander"
+msgstr ""
+
+#: lib/map.old.php:2845 lib/map.php:2767
+msgid "Blue water"
+msgstr ""
+
+#: lib/map.old.php:2846 lib/map.php:2768
+msgid "Light Monochrome"
+msgstr ""
+
+#: lib/map.old.php:2847 lib/map.php:2769
+msgid "Neutral Blue"
+msgstr ""
+
+#: lib/map.old.php:2848 lib/map.php:2770
+msgid "Avocado World"
+msgstr ""
+
+#: lib/map.old.php:2849 lib/map.php:2771
+msgid "Nature"
+msgstr ""
+
+#: lib/map.old.php:2850 lib/map.php:2772
+msgid "Pastel Tones"
+msgstr ""
+
+#: lib/map.old.php:2860 lib/map.php:2786
+msgid "Social Box"
+msgstr ""
+
+#: lib/map.old.php:2866 lib/map.php:2792
+msgid "Shows the social icons and links"
+msgstr ""
+
+#: lib/map.old.php:2915 lib/map.php:2834
+msgid "Medium"
+msgstr "Sedang"
+
+#: lib/map.old.php:2923 lib/map.php:2842
+msgid "Shape"
+msgstr ""
+
+#: lib/map.old.php:2928 lib/map.php:2847
+msgid "Rounded"
+msgstr ""
+
+#: lib/map.old.php:2934 lib/map.php:2853
+#, fuzzy
+msgid "Align"
+msgstr "kerataan"
+
+#: lib/map.old.php:2963 lib/map.old.php:2981 lib/map.php:2882 lib/map.php:2900
+#, fuzzy
+msgid "Media"
+msgstr "Lewati file media"
+
+#: lib/map.old.php:2992 lib/map.php:2911
+msgid "Media Download"
+msgstr ""
+
+#: lib/map.old.php:2995 lib/map.php:2914
+msgid "Shows the list of available media"
+msgstr ""
+
+#: lib/map.old.php:3008 lib/map.old.php:3014 lib/map.php:2927 lib/map.php:2933
+msgid "Dropdown"
+msgstr ""
+
+#: lib/map.old.php:3012 lib/map.php:2931
+msgid "Heading Label"
+msgstr "Label Judul"
+
+#: lib/map.old.php:3198 lib/map.old.php:3211 lib/map.php:3117 lib/map.php:3130
+msgid "Document Viewer"
+msgstr ""
+
+#: lib/map.old.php:3200 lib/map.php:3119
+msgid "View document using google document viewer"
+msgstr ""
+
+#: lib/map.old.php:3215 lib/map.php:3134
+msgid "Document"
+msgstr ""
+
+#: lib/map.old.php:3237 lib/map.php:3156
+#, fuzzy
+msgid "Viewer"
+msgstr "pengunjung"
+
+#: lib/map.old.php:3242 lib/map.php:3161
+msgid "Google Docs Viewer"
+msgstr ""
+
+#: lib/map.old.php:3243 lib/map.php:3162
+msgid "Office Web Apps Viewer"
+msgstr ""
+
+#: lib/map.old.php:3245 lib/map.php:3164
+msgid ""
+"While Office Web Apps viewer is definitely a better option that Google Docs "
+"Viewer, a limitation is that it only works with Office Files, Google Docs "
+"Viewer can also handle PDFs, Photoshop files and even AutoCAD drawings"
+msgstr ""
+
+#: lib/map.old.php:3257 lib/map.php:3168
+msgid "Show Download Button"
+msgstr "Tampilkan Tombol Unduhan"
+
+#: lib/map.old.php:3267 lib/map.php:3178
+#, fuzzy
+msgid "Frame Height"
+msgstr "Tinggi Peta"
+
+#: lib/map.old.php:3271 lib/map.php:3182
+#, php-format
+msgid "in % or px"
+msgstr ""
+
+#: lib/map.old.php:3332 lib/map.php:3243
+msgid "Download"
+msgstr "Unduh"
+
+#: lib/map.old.php:3344 lib/map.php:3255
+msgid "Recruitment Grid"
+msgstr ""
+
+#: lib/map.old.php:3350 lib/map.php:3261
+msgid "Show the recuritment grid"
+msgstr ""
+
+#: lib/map.old.php:3353 lib/map.php:3264
+#, fuzzy
+msgid "Select Layout Type"
+msgstr "Pilih Tipe Tampilan"
+
+#: lib/map.old.php:3358 lib/map.php:3269
+#, fuzzy
+msgid "Slide Carousel"
+msgstr "Jeda Slide"
+
+#: lib/map.old.php:3359 lib/map.php:3270
+msgid "Isotope"
+msgstr ""
+
+#: lib/map.old.php:3363 lib/map.php:3274
+msgid "Isotope Type"
+msgstr ""
+
+#: lib/map.old.php:3368 lib/map.php:3279
+msgid "Masonry"
+msgstr ""
+
+#: lib/map.old.php:3369 lib/map.php:3280
+msgid "FitRows"
+msgstr ""
+
+#: lib/map.old.php:3374 lib/map.php:3285
+msgid "Gutter"
+msgstr ""
+
+#: lib/map.old.php:3381 lib/map.php:3292
+#, fuzzy
+msgid "Category"
+msgstr "Kategori"
+
+#: lib/map.old.php:3384 lib/map.php:3295
+msgid "Select one or more category"
+msgstr ""
+
+#: lib/map.old.php:3389 lib/map.php:3300
+#, fuzzy
+msgid "Column"
+msgstr "Kolom"
+
+#: lib/map.old.php:3391 lib/map.php:3302
+msgid "Number of columns on the screen resolution larger than 1200px"
+msgstr ""
+
+#: lib/map.old.php:3398 lib/map.old.php:3415 lib/map.old.php:3432
+#: lib/map.old.php:3449 lib/map.old.php:3466 lib/map.php:3309 lib/map.php:3326
+#: lib/map.php:3343 lib/map.php:3360 lib/map.php:3377
+#, fuzzy
+msgid "Five Columns"
+msgstr "5 kolom"
+
+#: lib/map.old.php:3408 lib/map.php:3319
+msgid "Number of columns on the screen resolution between 1200px and 1023px"
+msgstr ""
+
+#: lib/map.old.php:3425 lib/map.php:3336
+msgid "Number of columns on the screen resolution between 1024px and 768px"
+msgstr ""
+
+#: lib/map.old.php:3442 lib/map.php:3353
+msgid "Number of columns on the screen resolution between 768px and 600px"
+msgstr ""
+
+#: lib/map.old.php:3459 lib/map.php:3370
+msgid "Number of columns on the screen resolution below 600px"
+msgstr ""
+
+#: lib/map.old.php:3489 lib/map.php:3400
+msgid "Show Filter"
+msgstr "Tampilkan Penyaring"
+
+#: lib/map.old.php:3497 lib/map.php:3408
+msgid "Show \"All Job\" Filter"
+msgstr "Tampilkan Penyaring \"Semua Pekerjaan\""
+
+#: lib/map.old.php:3505 lib/map.php:3416
+msgid "All Job Label"
+msgstr "Label Semua Pekerjaan"
+
+#: lib/map.old.php:3507 lib/map.old.php:3861 lib/map.php:3418 lib/map.php:3772
+msgid "All Jobs"
+msgstr "Semua Pekerjaan"
+
+#: lib/map.old.php:3512 lib/map.php:3423
+msgid "Number of Posts to be displayed"
+msgstr "Jumlah posting yang ditampilkan"
+
+#: lib/map.old.php:3597 lib/map.old.php:3600 lib/map.old.php:3625
+#: lib/map.php:3507 lib/map.php:3510 lib/map.php:3535
+#, fuzzy
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: lib/map.old.php:3855 lib/map.php:3766
+#, fuzzy
+msgid "Toggle navigation"
+msgstr "Alih Navigasi"
+
+#: lib/map.old.php:3911 lib/map.old.php:3972 lib/map.php:3822 lib/map.php:3882
+msgid "Add New Icon"
+msgstr ""
+
+#: lib/map.old.php:3952 lib/map.php:3863
+msgid "No css font available, please check plugin folder <b>"
+msgstr ""
+
+#: lib/map.old.php:3991 lib/map.php:3901
+#, php-format
+msgid "No css font available, please check plugin folder <b>%s</b>"
+msgstr ""
+
+#: lib/map.old.php:4129 lib/map.php:4040
+msgid "Add Media"
+msgstr ""
+
+#: lib/map.old.php:4130 lib/map.php:4041
+msgid "Remove Media"
+msgstr ""
+
+#: lib/map.php:1744
+#, fuzzy
+msgid "Align Left"
+msgstr "Rata Kiri"
+
+#: lib/map.php:1745
+msgid "Align Right"
+msgstr "Rata Kanan"
+
+#: lib/map.php:2216
+#, fuzzy
+msgid "Countdown Type"
+msgstr "Warna tek"
+
+#: lib/map.php:2220
+#, fuzzy
+msgid "Fixed Date"
+msgstr "tanggal tetap"
+
+#: lib/map.php:2220
+#, fuzzy
+msgid "Evergreen"
+msgstr "tanggal mengambang"
+
+#: lib/map.php:2225
+msgid "Relative Time (minutes)"
+msgstr ""
+
+#: lib/map.php:2227
+msgid "Relative time from 1st page visit in minutes"
+msgstr ""
+
+#: lib/map.php:2234
+msgid "Cookie Lifetime (Hours)"
+msgstr ""
+
+#: lib/map.php:2236
+msgid "How long cookie store 1st page visit"
+msgstr ""
+
+#: lib/shortcode.php:561
+msgid "<i class=\"icon-left-open-big\"></i>"
+msgstr ""
+
+#: lib/shortcode.php:637
+#, fuzzy, php-format
+msgid "Detail to %s"
+msgstr "Detil ke %s"
+
+#: lib/shortcode.php:637
+#, fuzzy
+msgid "Read more"
+msgstr "Baca Selengkapnya"
+
+#: lib/shortcode.php:664
+msgid "<i class=\"icon-right-open-big\"></i>"
+msgstr ""
+
+#: lib/shortcode.php:807
+msgid "Years"
+msgstr "Tahun"
+
+#: lib/shortcode.php:808
+msgid "Months"
+msgstr "Bulan"
+
+#: lib/shortcode.php:809
+msgid "Weeks"
+msgstr "Minggu"
+
+#: lib/shortcode.php:810
+msgid "Days"
+msgstr "Hari"
+
+#: lib/shortcode.php:811
+msgid "Hours"
+msgstr "Jam"
+
+#: lib/shortcode.php:812
+msgid "Minutes"
+msgstr "Menit"
+
+#: lib/shortcode.php:813
+msgid "Seconds"
+msgstr "Detik"
+
+#: lib/shortcode.php:816
+msgid "Week"
+msgstr "Minggu"
+
+#: lib/shortcode.php:818
+msgid "Hour"
+msgstr "Jam"
+
+#: lib/shortcode.php:819
+msgid "Minute"
+msgstr "Menit"
+
+#: lib/shortcode.php:820
+msgid "Second"
+msgstr "Detik"
+
+#~ msgid "Pre Heading"
+#~ msgstr "Sebelum Judul"
+
+#~ msgid "Sub Heading"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Leave it blank to hide sub heading"
+#~ msgstr "Biarkan kosong jika tidak ingin ditampilkan"
+
+#~ msgid "Button Align"
+#~ msgstr "Posisi Tombol"
+
+#~ msgid "Line type"
+#~ msgstr "Tipe Garis"
+
+#~ msgid "One"
+#~ msgstr "Satu"
+
+#~ msgid "Two"
+#~ msgstr "Dua"
+
+#~ msgid "Package Heading"
+#~ msgstr "Judul Paket"
+
+#~ msgid "Image Position"
+#~ msgstr "Posisi Gambar"
+
+#~ msgid "Position"
+#~ msgstr "Posisi"
+
+#~ msgid "Headline"
+#~ msgstr "Judul"
+
+#~ msgid "Sub-Headline"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Optin Code"
+#~ msgstr "Kode Optin"
+
+#~ msgid "Choose Layout"
+#~ msgstr "Pilih Tampilan"
+
+#~ msgid "Button Text"
+#~ msgstr "Tek di Tombol"
+
+#~ msgid "Submit Button"
+#~ msgstr "Tombol Kirim"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Warna tek tombol"
+
+#~ msgid "Name Label"
+#~ msgstr "Judul Nama"
+
+#~ msgid "Button Color"
+#~ msgstr "Warna Tombol"
+
+#~ msgid "Button Gradient Color"
+#~ msgstr "Warna tombol gradasi"
+
+#~ msgid "Button Gradient Color To"
+#~ msgstr "Warna tombol gradasi ke"
+
+#~ msgid "Button Font Size"
+#~ msgstr "Ukuran Huruf Tombol"
+
+#~ msgid "Element Height"
+#~ msgstr "Tinggi Elemen"
+
+#, fuzzy
+#~ msgid "Inputbox Padding Vertical"
+#~ msgstr "Jarak Atas/Bawah"
+
+#, fuzzy
+#~ msgid "Inputbox Padding Horizontal"
+#~ msgstr "Jarak Menyamping"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Kelengkungan Tombol"
+
+#~ msgid "Full Width Button"
+#~ msgstr "Tombol melebar"
+
+#~ msgid "Your email"
+#~ msgstr "Email Kamu"
+
+#~ msgid "Your name"
+#~ msgstr "Nama Kamu"
+
+#~ msgid "Submit"
+#~ msgstr "Kirim"
+
+#, fuzzy
+#~ msgid "Popup Height"
+#~ msgstr "Tinggi Peta"
+
+#, fuzzy
+#~ msgid "Popup Width"
+#~ msgstr "Lebar Tombol"
+
+#~ msgid "Button Height"
+#~ msgstr "Tinggi Tombol"
+
+#~ msgid "Main Heading"
+#~ msgstr "Judul Utama"
+
+#~ msgid "Main Heading Font Size"
+#~ msgstr "Ukuran Huruf Judul Utama"
+
+#~ msgid "Main Heading Font Style"
+#~ msgstr "Model Huruf Judul Utama"
+
+#~ msgid "Main Heading Font Weight"
+#~ msgstr "Ketebalan Huruf Judul Utama"

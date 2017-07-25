@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Main Economist Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://mogas.mamboconnected.com
+Data file = /home/mogasmamboconnec/public_html/wp-content/uploads/2017/05/demo-content-import-file_2017-05-15__13-13-47.xml
+Widget file = /home/mogasmamboconnec/public_html/wp-content/uploads/2017/05/demo-widgets-import-file_2017-05-15__13-13-47.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Recent Posts - Latest News - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Pages Sidebar : 
+
+Advanced Sidebar Pages Menu - Browse - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Mobile Search : 
+
+Search - No Title - Imported
+
+Below Content Features : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+First Footer : 
+
+Text - No Title - Imported
+Recent Posts - Recent Posts - Imported
+Text - Subscribe - Imported
+
+Second Footer : 
+
+Text - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+After import setup ended!

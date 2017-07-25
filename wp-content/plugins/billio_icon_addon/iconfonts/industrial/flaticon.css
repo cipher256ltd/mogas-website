@@ -1,0 +1,46 @@
+@font-face {
+	font-family: "Flaticon Industrial";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-industry-industrial1:before {
+	content: "\e000";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-industrial2:before {
+	content: "\e001";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-industry1:before {
+	content: "\e002";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-industry2:before {
+	content: "\e003";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-industry:before {
+	content: "\e004";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-mechanic3:before {
+	content: "\e005";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-worker7:before {
+	content: "\e006";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-worker8:before {
+	content: "\e007";
+	font-family: "Flaticon Industrial";
+}
+.icon-industry-worker9:before {
+	content: "\e008";
+	font-family: "Flaticon Industrial";
+}

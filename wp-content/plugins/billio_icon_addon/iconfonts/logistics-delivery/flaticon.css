@@ -1,0 +1,410 @@
+@font-face {
+	font-family: "Flaticon Logistic";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-logistic-2440:before {
+	content: "\e000";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-2441:before {
+	content: "\e001";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-2442:before {
+	content: "\e002";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-air6:before {
+	content: "\e003";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-airplane66:before {
+	content: "\e004";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-airplane67:before {
+	content: "\e005";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-airplane68:before {
+	content: "\e006";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-barscode:before {
+	content: "\e007";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-black330:before {
+	content: "\e008";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-black331:before {
+	content: "\e009";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-boat17:before {
+	content: "\e00a";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-box49:before {
+	content: "\e00b";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-boxes1:before {
+	content: "\e00c";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-boxes2:before {
+	content: "\e00d";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-call36:before {
+	content: "\e00e";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-call37:before {
+	content: "\e00f";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-chronometer10:before {
+	content: "\e010";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-clipboard52:before {
+	content: "\e011";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-commercial15:before {
+	content: "\e012";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-container5:before {
+	content: "\e013";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-container6:before {
+	content: "\e014";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-containers:before {
+	content: "\e015";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-crane6:before {
+	content: "\e016";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-crane7:before {
+	content: "\e017";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivered:before {
+	content: "\e018";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery16:before {
+	content: "\e019";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery17:before {
+	content: "\e01a";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery18:before {
+	content: "\e01b";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery19:before {
+	content: "\e01c";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery20:before {
+	content: "\e01d";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery21:before {
+	content: "\e01e";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery22:before {
+	content: "\e01f";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery23:before {
+	content: "\e020";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery24:before {
+	content: "\e021";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery25:before {
+	content: "\e022";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery26:before {
+	content: "\e023";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery27:before {
+	content: "\e024";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery28:before {
+	content: "\e025";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery29:before {
+	content: "\e026";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery30:before {
+	content: "\e027";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery31:before {
+	content: "\e028";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery32:before {
+	content: "\e029";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery33:before {
+	content: "\e02a";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery34:before {
+	content: "\e02b";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery35:before {
+	content: "\e02c";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery36:before {
+	content: "\e02d";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery37:before {
+	content: "\e02e";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery38:before {
+	content: "\e02f";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-delivery39:before {
+	content: "\e030";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-fragile:before {
+	content: "\e031";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-free6:before {
+	content: "\e032";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-frontal19:before {
+	content: "\e033";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-identification4:before {
+	content: "\e034";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-international11:before {
+	content: "\e035";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-international12:before {
+	content: "\e036";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-international13:before {
+	content: "\e037";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-international14:before {
+	content: "\e038";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-international15:before {
+	content: "\e039";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-localization2:before {
+	content: "\e03a";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-locked14:before {
+	content: "\e03b";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-logistics1:before {
+	content: "\e03c";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-logistics2:before {
+	content: "\e03d";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-logistics3:before {
+	content: "\e03e";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-logistics4:before {
+	content: "\e03f";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-logistics5:before {
+	content: "\e040";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-logistics:before {
+	content: "\e041";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-man236:before {
+	content: "\e042";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-ocean3:before {
+	content: "\e043";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package10:before {
+	content: "\e044";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package11:before {
+	content: "\e045";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package12:before {
+	content: "\e046";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package13:before {
+	content: "\e047";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package7:before {
+	content: "\e048";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package8:before {
+	content: "\e049";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-package9:before {
+	content: "\e04a";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-packages1:before {
+	content: "\e04b";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-packages2:before {
+	content: "\e04c";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-person279:before {
+	content: "\e04d";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-phone322:before {
+	content: "\e04e";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-phone323:before {
+	content: "\e04f";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-placeholder8:before {
+	content: "\e050";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-protection3:before {
+	content: "\e051";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-sea8:before {
+	content: "\e052";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-sea9:before {
+	content: "\e053";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-search51:before {
+	content: "\e054";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-storage17:before {
+	content: "\e055";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-talking2:before {
+	content: "\e056";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-telephone90:before {
+	content: "\e057";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-telephone91:before {
+	content: "\e058";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-three110:before {
+	content: "\e059";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-train20:before {
+	content: "\e05a";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-triangular42:before {
+	content: "\e05b";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-up72:before {
+	content: "\e05c";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-verification5:before {
+	content: "\e05d";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-view10:before {
+	content: "\e05e";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-weight10:before {
+	content: "\e05f";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-weight11:before {
+	content: "\e060";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-woman93:before {
+	content: "\e061";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-wood5:before {
+	content: "\e062";
+	font-family: "Flaticon Logistic";
+}
+.icon-logistic-world77:before {
+	content: "\e063";
+	font-family: "Flaticon Logistic";
+}

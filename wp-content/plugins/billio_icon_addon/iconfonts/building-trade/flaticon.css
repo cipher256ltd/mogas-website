@@ -1,0 +1,322 @@
+@font-face {
+	font-family: "Flaticon Building Trade";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-building-adjusting:before {
+	content: "\e000";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-architecture1:before {
+	content: "\e001";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-architecture:before {
+	content: "\e002";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-attention1:before {
+	content: "\e003";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-ax2:before {
+	content: "\e004";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-barrow:before {
+	content: "\e005";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-brick3:before {
+	content: "\e006";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-bricks3:before {
+	content: "\e007";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-bricks4:before {
+	content: "\e008";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-brush20:before {
+	content: "\e009";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-construction10:before {
+	content: "\e00a";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-construction11:before {
+	content: "\e00b";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-construction12:before {
+	content: "\e00c";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-construction8:before {
+	content: "\e00d";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-construction9:before {
+	content: "\e00e";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-constructor2:before {
+	content: "\e00f";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-constructor3:before {
+	content: "\e010";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-constructor4:before {
+	content: "\e011";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-constructor5:before {
+	content: "\e012";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-crane8:before {
+	content: "\e013";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-crane9:before {
+	content: "\e014";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-demolition:before {
+	content: "\e015";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-drawing7:before {
+	content: "\e016";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-drawing8:before {
+	content: "\e017";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-drill6:before {
+	content: "\e018";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-drill7:before {
+	content: "\e019";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-electrical9:before {
+	content: "\e01a";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-exclamation19:before {
+	content: "\e01b";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-factory11:before {
+	content: "\e01c";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-folded30:before {
+	content: "\e01d";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-gear27:before {
+	content: "\e01e";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hammer40:before {
+	content: "\e01f";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hammer41:before {
+	content: "\e020";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hammer42:before {
+	content: "\e021";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hand121:before {
+	content: "\e022";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hand122:before {
+	content: "\e023";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hand123:before {
+	content: "\e024";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hand125:before {
+	content: "\e025";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hand126:before {
+	content: "\e026";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hexagonal5:before {
+	content: "\e027";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-hook3:before {
+	content: "\e028";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-machine10:before {
+	content: "\e029";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-nut:before {
+	content: "\e02a";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-pail:before {
+	content: "\e02b";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-paint54:before {
+	content: "\e02c";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-paint55:before {
+	content: "\e02d";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-painting34:before {
+	content: "\e02e";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-painting35:before {
+	content: "\e02f";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-pipes:before {
+	content: "\e030";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-roof1:before {
+	content: "\e031";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-rounded45:before {
+	content: "\e032";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-saw8:before {
+	content: "\e033";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-sawing:before {
+	content: "\e034";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-screw7:before {
+	content: "\e035";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-screwdriver18:before {
+	content: "\e036";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-shovel3:before {
+	content: "\e037";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-shovel4:before {
+	content: "\e038";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-smog:before {
+	content: "\e039";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-stair1:before {
+	content: "\e03a";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-street12:before {
+	content: "\e03b";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-street7:before {
+	content: "\e03c";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-traffic14:before {
+	content: "\e03d";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-transport6:before {
+	content: "\e03e";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-triangular45:before {
+	content: "\e03f";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-triangular46:before {
+	content: "\e040";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-truck27:before {
+	content: "\e041";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-truck28:before {
+	content: "\e042";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-truck29:before {
+	content: "\e043";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-two193:before {
+	content: "\e044";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-two195:before {
+	content: "\e045";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wall20:before {
+	content: "\e046";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wheelbarrow2:before {
+	content: "\e047";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wheelbarrow3:before {
+	content: "\e048";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-worker5:before {
+	content: "\e049";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wrench57:before {
+	content: "\e04a";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wrench58:before {
+	content: "\e04b";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wrench59:before {
+	content: "\e04c";
+	font-family: "Flaticon Building Trade";
+}
+.icon-building-wrench60:before {
+	content: "\e04d";
+	font-family: "Flaticon Building Trade";
+}

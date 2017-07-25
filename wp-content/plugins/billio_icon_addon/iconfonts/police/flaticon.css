@@ -1,0 +1,90 @@
+@font-face {
+	font-family: "Flaticon Police";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-police-bullet5:before {
+	content: "\e000";
+	font-family: "Flaticon Police";
+}
+.icon-police-glasses13:before {
+	content: "\e001";
+	font-family: "Flaticon Police";
+}
+.icon-police-hat6:before {
+	content: "\e002";
+	font-family: "Flaticon Police";
+}
+.icon-police-lantern11:before {
+	content: "\e003";
+	font-family: "Flaticon Police";
+}
+.icon-police-police10:before {
+	content: "\e004";
+	font-family: "Flaticon Police";
+}
+.icon-police-police11:before {
+	content: "\e005";
+	font-family: "Flaticon Police";
+}
+.icon-police-police12:before {
+	content: "\e006";
+	font-family: "Flaticon Police";
+}
+.icon-police-police13:before {
+	content: "\e007";
+	font-family: "Flaticon Police";
+}
+.icon-police-police14:before {
+	content: "\e008";
+	font-family: "Flaticon Police";
+}
+.icon-police-police15:before {
+	content: "\e009";
+	font-family: "Flaticon Police";
+}
+.icon-police-police16:before {
+	content: "\e00a";
+	font-family: "Flaticon Police";
+}
+.icon-police-police3:before {
+	content: "\e00b";
+	font-family: "Flaticon Police";
+}
+.icon-police-police4:before {
+	content: "\e00c";
+	font-family: "Flaticon Police";
+}
+.icon-police-police5:before {
+	content: "\e00d";
+	font-family: "Flaticon Police";
+}
+.icon-police-police6:before {
+	content: "\e00e";
+	font-family: "Flaticon Police";
+}
+.icon-police-police7:before {
+	content: "\e00f";
+	font-family: "Flaticon Police";
+}
+.icon-police-police8:before {
+	content: "\e010";
+	font-family: "Flaticon Police";
+}
+.icon-police-police9:before {
+	content: "\e011";
+	font-family: "Flaticon Police";
+}
+.icon-police-policeman1:before {
+	content: "\e012";
+	font-family: "Flaticon Police";
+}
+.icon-police-sniper1:before {
+	content: "\e013";
+	font-family: "Flaticon Police";
+}

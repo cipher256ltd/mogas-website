@@ -1,0 +1,1618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework\n"
+"POT-Creation-Date: 2015-04-15 09:28+0700\n"
+"PO-Revision-Date: 2015-04-15 09:28+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: ReduxFramework <language@reduxframework.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ReduxCore\n"
+"X-Poedit-SearchPath-1: ReduxCore/languages\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: option\n"
+
+#: ReduxCore/framework.php:45
+msgid "Stylesheet is missing."
+msgstr ""
+
+#: ReduxCore/framework.php:126 ReduxCore/framework.php:132
+#: ReduxCore/framework.php:271 ReduxCore/framework.php:273
+#: option/config.php:117
+msgid "Options"
+msgstr "Optiuni"
+
+#: ReduxCore/framework.php:285
+msgid "Options panel created using"
+msgstr "Panoul de control a fost creat folosind"
+
+#: ReduxCore/framework.php:285
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: ReduxCore/framework.php:1047
+#, fuzzy
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+"Sunt modificari care nu au fost salavate. Doriti sa efectuati salvarea acum ?"
+
+#: ReduxCore/framework.php:1048
+#, fuzzy
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Sunteti sigur ? Restarea va anula valorile schimbate."
+
+#: ReduxCore/framework.php:1049
+#, fuzzy
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Sunteti sigur ? Restarea va anula valorile schimbate."
+
+#: ReduxCore/framework.php:1050
+#, fuzzy
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Optiunile curente vor fi schimbate cu valorile din acest set. Doriti sa "
+"continuati ?"
+
+#: ReduxCore/framework.php:1309 option/config.php:820
+msgid "Default"
+msgstr "Predefinit"
+
+#: ReduxCore/framework.php:1621
+msgid "License number not valid, please try again."
+msgstr ""
+
+#: ReduxCore/framework.php:1654
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Atentie - Acest panou de control nu va functiona corect fara javascript!"
+
+#: ReduxCore/framework.php:1708
+msgid "Expand"
+msgstr "Extinde"
+
+#: ReduxCore/framework.php:1710 ReduxCore/framework.php:1939
+msgid "Save Changes"
+msgstr ""
+
+#: ReduxCore/framework.php:1712 ReduxCore/framework.php:1941
+msgid "Reset Section"
+msgstr ""
+
+#: ReduxCore/framework.php:1714 ReduxCore/framework.php:1943
+msgid "Reset All"
+msgstr ""
+
+#: ReduxCore/framework.php:1717 ReduxCore/framework.php:1946
+msgid "Working..."
+msgstr "Procesare..."
+
+#: ReduxCore/framework.php:1724
+msgid "Settings Imported!"
+msgstr "Setari importate!"
+
+#: ReduxCore/framework.php:1726
+msgid "Settings Saved!"
+msgstr "Setari salvate!"
+
+#: ReduxCore/framework.php:1730
+msgid "Settings have changed, you should save them!"
+msgstr "Setarile au fost modificate, ar trebui sa le salvati!"
+
+#: ReduxCore/framework.php:1731
+msgid "error(s) were found!"
+msgstr "eroare(i) gasita(e)!"
+
+#: ReduxCore/framework.php:1732
+msgid "warning(s) were found!"
+msgstr "atentionare(i) gasita(e)!"
+
+#: ReduxCore/framework.php:1791
+msgid "Import / Export"
+msgstr "Importa / Exporta"
+
+#: ReduxCore/framework.php:1806
+msgid "Options Object"
+msgstr "Optiuni Obiect"
+
+#: ReduxCore/framework.php:1820 ReduxCore/framework.php:1906
+msgid "System Info"
+msgstr "Informatii Sistem"
+
+#: ReduxCore/framework.php:1857
+msgid "Import / Export Options"
+msgstr "Importa/Exporta Optiuni"
+
+#: ReduxCore/framework.php:1858
+msgid "Import Options"
+msgstr "Importa Optiuni"
+
+#: ReduxCore/framework.php:1859
+msgid "Import from file"
+msgstr "Importa din fisier"
+
+#: ReduxCore/framework.php:1859
+msgid "Import from URL"
+msgstr "Importa de la adresa URL"
+
+#: ReduxCore/framework.php:1864
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Alege fisierul backup mai jos si apasa Importa pentru a restaura setarile "
+"dintr-o copie de backup."
+
+#: ReduxCore/framework.php:1874
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Insereaza adresa optiunilor din alt site si apasa Importa pentru a incarca "
+"optiunile din acel site."
+
+#: ReduxCore/framework.php:1881
+msgid "Import"
+msgstr "Importa"
+
+#: ReduxCore/framework.php:1881
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ATENTIE! Se vor suprascrie toate optiunile, va rugam avansati cu precautie!"
+
+#: ReduxCore/framework.php:1883
+msgid "Export Options"
+msgstr "Exporta Optiuni"
+
+#: ReduxCore/framework.php:1885
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"De aici puteti copia/descarca optiunile curente. Va rugam sa le salvati intr-"
+"un loc sigur in caz de probleme folositi-le pentru a restaura setarile "
+"acestui site (sau oricarui altul)."
+
+#: ReduxCore/framework.php:1889
+msgid "Copy"
+msgstr "Copiere"
+
+#: ReduxCore/framework.php:1889
+msgid "Download"
+msgstr "Descarcare"
+
+#: ReduxCore/framework.php:1889
+msgid "Copy Link"
+msgstr "Copie Link"
+
+#: ReduxCore/framework.php:2218
+#, php-format
+msgid "Your website using %s template"
+msgstr ""
+
+#: ReduxCore/framework.php:2219
+msgid ""
+"Please enter your Item Purchase Code to get theme & plugin update "
+"notification"
+msgstr ""
+
+#: ReduxCore/framework.php:2221
+msgid "Register Template"
+msgstr ""
+
+#: ReduxCore/framework.php:2222
+msgid "Hide this notice"
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:65
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr "Adauga mai mult"
+
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:82
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:90
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:96
+msgid "Edit Icon"
+msgstr ""
+
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:82
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:90
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:96
+#: ReduxCore/inc/fields/media/field_media.php:156
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:80
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:83
+msgid "Remove"
+msgstr "Sterge"
+
+#: ReduxCore/inc/fields/color/field_color.php:72
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr "De la"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr "La"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr "Adauga/Editeaza Galerie"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr "Goleste Galerie"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr "Normal"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr "Hover"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr "Activ"
+
+#: ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ReduxCore/inc/fields/media/field_media.php:150
+msgid "Upload"
+msgstr "Upload"
+
+#: ReduxCore/inc/fields/menu/field_menu.php:54
+#: ReduxCore/inc/fields/select/field_select.php:78
+#: ReduxCore/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr "Selecteaza un articol"
+
+#: ReduxCore/inc/fields/menu/field_menu.php:80
+#: ReduxCore/inc/fields/select/field_select.php:119
+#: ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr "Nici un articol de acest tip gasit"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:125
+msgid "All"
+msgstr ""
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:149
+msgid "Top"
+msgstr "Sus"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:156 option/config.php:369
+#: option/config.php:1107
+msgid "Right"
+msgstr "Dreapta"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:163
+msgid "Bottom"
+msgstr "Jos"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:170 option/config.php:370
+#: option/config.php:1106
+msgid "Left"
+msgstr "Stanga"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:181
+#: ReduxCore/inc/fields/spacing/field_spacing.php:182
+msgid "Units"
+msgstr "Unitate"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:108
+msgid "Font family"
+msgstr "Familie font"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:148
+msgid "Standard Fonts"
+msgstr ""
+
+#: ReduxCore/inc/fields/typography/field_typography.php:204
+#: ReduxCore/inc/fields/typography/field_typography.php:208
+msgid "Font style"
+msgstr "Stil font"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:208
+#: option/config.php:423
+msgid "Style"
+msgstr "Stil"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:234
+msgid "Font subsets"
+msgstr "Subset font"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:235
+msgid "Subsets"
+msgstr "Subset"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:235
+msgid "Font script"
+msgstr "Script font"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:253
+msgid "Size"
+msgstr "Marime"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:262
+msgid "Height"
+msgstr "Inaltime"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Word Spacing"
+msgstr "Spatiu cuvinte"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:278
+msgid "Letter Spacing"
+msgstr "Spatiu litere"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:292
+msgid "Backup Font Family"
+msgstr "Famile font rezerva"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:312
+msgid "Font color"
+msgstr "Culoare font"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:606
+msgid "Google Webfonts"
+msgstr ""
+
+#: ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+#: ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+msgid "This field must be a valid color value."
+msgstr "Acest camp trebuie sa contina o valoare culoare valida"
+
+#: ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Trebuie sa furnizati o lista numerica separata prin virgula pentru acest "
+"camp."
+
+#: ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr "Campul trebuie sa fie valid ca data."
+
+#: ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr "Trebuie sa furnizati o adesa de email valida pentru aceasta optiune."
+
+#: ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Nu trebuie sa introduceti tag HTML in acest camp, toate tagurile HTML au "
+"fost sterse."
+
+#: ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Nu trebuie sa introduceti caractere speciale in acest camp, toate "
+"carcaterele speciale au fost sterse."
+
+#: ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr "Trebuie sa furnizati o valoare numerica pentru aceasta optiune."
+
+#: ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr "Trebuie sa furnizati o adresa URL valida pentru aceasta optiune."
+
+#: option/config.php:54
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: option/config.php:66
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: option/config.php:67
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: option/config.php:71
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: option/config.php:72
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: option/config.php:116
+#, fuzzy
+msgid "Theme Options"
+msgstr "Optiuni"
+
+#: option/config.php:134 option/config.php:671
+msgid "General"
+msgstr ""
+
+#: option/config.php:139
+msgid "General Settings"
+msgstr ""
+
+#: option/config.php:145
+msgid "Main Layout"
+msgstr ""
+
+#: option/config.php:146
+msgid "Select main layout for the site"
+msgstr ""
+
+#: option/config.php:170
+#, php-format
+msgid "%s Layout"
+msgstr ""
+
+#: option/config.php:171
+#, fuzzy, php-format
+msgid "Select layout for the %s page"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:187
+msgid "Boxed Layout"
+msgstr ""
+
+#: option/config.php:188
+msgid "Enable or Disable the boxed layout"
+msgstr ""
+
+#: option/config.php:190 option/config.php:244 option/config.php:262
+#: option/config.php:281 option/config.php:340 option/config.php:348
+#: option/config.php:415 option/config.php:573 option/config.php:665
+#: option/config.php:693 option/config.php:702 option/config.php:711
+#: option/config.php:720 option/config.php:845 option/config.php:870
+#: option/config.php:907 option/config.php:940 option/config.php:973
+#: option/config.php:1022 option/config.php:1031 option/config.php:1089
+#: option/config.php:1118 option/config.php:1158 option/config.php:1265
+msgid "On"
+msgstr ""
+
+#: option/config.php:191 option/config.php:245 option/config.php:263
+#: option/config.php:282 option/config.php:341 option/config.php:349
+#: option/config.php:416 option/config.php:574 option/config.php:666
+#: option/config.php:694 option/config.php:703 option/config.php:712
+#: option/config.php:721 option/config.php:846 option/config.php:871
+#: option/config.php:908 option/config.php:941 option/config.php:974
+#: option/config.php:1023 option/config.php:1032 option/config.php:1090
+#: option/config.php:1119 option/config.php:1159 option/config.php:1266
+msgid "Off"
+msgstr ""
+
+#: option/config.php:197
+msgid "Boxed Background Image"
+msgstr ""
+
+#: option/config.php:198
+msgid "Select image for the boxed background layout"
+msgstr ""
+
+#: option/config.php:206
+msgid "Boxed Background Color"
+msgstr ""
+
+#: option/config.php:207
+msgid "Select color for the boxed background layout"
+msgstr ""
+
+#: option/config.php:214
+msgid "Favicon Image"
+msgstr ""
+
+#: option/config.php:215
+msgid "Select image for the favicon"
+msgstr ""
+
+#: option/config.php:218
+msgid "Upload your image (.png,.ico, .jpg) with size 16x16 pixel"
+msgstr ""
+
+#: option/config.php:224
+msgid "404 Page"
+msgstr ""
+
+#: option/config.php:225
+#, fuzzy
+msgid "Select the 404 page"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:227 option/config.php:728 option/config.php:1167
+#: option/config.php:1175
+msgid "Create New Page"
+msgstr ""
+
+#: option/config.php:242 option/config.php:260
+#, php-format
+msgid "%s Title"
+msgstr ""
+
+#: option/config.php:274 option/config.php:278
+msgid "Page Loader"
+msgstr ""
+
+#: option/config.php:279
+msgid "Enable or Disable the page loader"
+msgstr ""
+
+#: option/config.php:289 option/config.php:347 option/config.php:580
+#: option/config.php:843 option/config.php:905 option/config.php:1003
+msgid "Background Color"
+msgstr ""
+
+#: option/config.php:290
+#, fuzzy
+msgid "Select color for the page loader background"
+msgstr "Culoare font"
+
+#: option/config.php:298
+msgid "Ball 1 Color"
+msgstr ""
+
+#: option/config.php:299
+msgid "Select color for the first ball on the page loader"
+msgstr ""
+
+#: option/config.php:307
+msgid "Ball 2 Color"
+msgstr ""
+
+#: option/config.php:308
+msgid "Select color for the second ball on the page loader"
+msgstr ""
+
+#: option/config.php:316
+msgid "Ball 3 Color"
+msgstr ""
+
+#: option/config.php:317
+msgid "Select color for the third ball on the page loader"
+msgstr ""
+
+#: option/config.php:325
+msgid "Ball 4 Color"
+msgstr ""
+
+#: option/config.php:326
+msgid "Select color for the fourth ball on the page loader"
+msgstr ""
+
+#: option/config.php:333 option/config.php:337
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: option/config.php:338
+msgid "Enable or Disable the sticky sidebar"
+msgstr ""
+
+#: option/config.php:350
+msgid ""
+"Enable or Disable the background color as well as select the background color"
+msgstr ""
+
+#: option/config.php:365
+msgid "Position"
+msgstr ""
+
+#: option/config.php:366
+msgid "Select position for the sticky sidebar"
+msgstr ""
+
+#: option/config.php:377
+msgid "Top Margin"
+msgstr ""
+
+#: option/config.php:378
+msgid "Adjust the sticky sidebar position from the top (in pixel)"
+msgstr ""
+
+#: option/config.php:380 option/config.php:390
+msgid "Please enter number."
+msgstr ""
+
+#: option/config.php:387
+msgid "Other Margin"
+msgstr ""
+
+#: option/config.php:388
+msgid "Adjust the sticky sidebar position from its surrounding (in pixel)"
+msgstr ""
+
+#: option/config.php:396
+msgid "Comments"
+msgstr ""
+
+#: option/config.php:412
+#, php-format
+msgid "%s Comment"
+msgstr ""
+
+#: option/config.php:413
+#, php-format
+msgid "Enable or Disable comment on the %s"
+msgstr ""
+
+#: option/config.php:429
+msgid "Primary Color"
+msgstr ""
+
+#: option/config.php:430
+msgid "Select primary color for the theme"
+msgstr ""
+
+#: option/config.php:439
+#, fuzzy
+msgid "Secondary Color"
+msgstr "Culoare font"
+
+#: option/config.php:440
+msgid "Select secondary color for the theme"
+msgstr ""
+
+#: option/config.php:448
+msgid "Body Text Color"
+msgstr ""
+
+#: option/config.php:449
+#, fuzzy
+msgid "Select color for the body text"
+msgstr "Culoare font"
+
+#: option/config.php:457
+msgid "Body Background Color"
+msgstr ""
+
+#: option/config.php:458
+msgid "Select color for the body background"
+msgstr ""
+
+#: option/config.php:465
+msgid "Body Background Image"
+msgstr ""
+
+#: option/config.php:468
+msgid "Select image for the body background"
+msgstr ""
+
+#: option/config.php:474
+msgid "Body Background Image Style"
+msgstr ""
+
+#: option/config.php:475
+msgid "Select style for the body background image"
+msgstr ""
+
+#: option/config.php:477
+#, fuzzy
+msgid "Cover"
+msgstr "Hover"
+
+#: option/config.php:478
+msgid "Cover All"
+msgstr ""
+
+#: option/config.php:479
+msgid "Contain"
+msgstr ""
+
+#: option/config.php:480
+msgid "No Repeat"
+msgstr ""
+
+#: option/config.php:481
+msgid "Repeat"
+msgstr ""
+
+#: option/config.php:482
+msgid "Parallax"
+msgstr ""
+
+#: option/config.php:483
+msgid "Parallax All"
+msgstr ""
+
+#: option/config.php:484
+msgid "Fixed"
+msgstr ""
+
+#: option/config.php:490
+msgid "Body Text Font"
+msgstr ""
+
+#: option/config.php:491
+msgid "Select font properties for the body text"
+msgstr ""
+
+#: option/config.php:505
+msgid "Heading Text Font"
+msgstr ""
+
+#: option/config.php:506
+msgid "Select font properties for the heading text"
+msgstr ""
+
+#: option/config.php:520
+msgid "Section Heading Text Font"
+msgstr ""
+
+#: option/config.php:521
+msgid "Select font properties for the section heading text"
+msgstr ""
+
+#: option/config.php:536
+msgid "Quote Text Font"
+msgstr ""
+
+#: option/config.php:537
+msgid "Select font properties for the quote text"
+msgstr ""
+
+#: option/config.php:551
+msgid "Heading Text Style"
+msgstr ""
+
+#: option/config.php:552
+msgid "Select style for the heading text"
+msgstr ""
+
+#: option/config.php:554
+msgid "Uppercase"
+msgstr ""
+
+#: option/config.php:555
+msgid "Capitalize"
+msgstr ""
+
+#: option/config.php:556 option/config.php:986
+msgid "None"
+msgstr ""
+
+#: option/config.php:564 option/config.php:570
+msgid "Top Bar"
+msgstr ""
+
+#: option/config.php:571
+msgid "Enable or Disable the Top Bar"
+msgstr ""
+
+#: option/config.php:581
+#, fuzzy
+msgid "Select color for the top bar"
+msgstr "Culoare font"
+
+#: option/config.php:589
+#, fuzzy
+msgid "Font Color"
+msgstr "Culoare font"
+
+#: option/config.php:590
+#, fuzzy
+msgid "Select font color for the top bar"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:596
+msgid "Left Section"
+msgstr ""
+
+#: option/config.php:601 option/config.php:630
+msgid "Type of Element"
+msgstr ""
+
+#: option/config.php:602
+msgid "Select element to be displayed on the left section of top bar"
+msgstr ""
+
+#: option/config.php:604 option/config.php:618 option/config.php:633
+#: option/config.php:648
+msgid "Custom Text"
+msgstr ""
+
+#: option/config.php:605 option/config.php:634
+msgid "Menu"
+msgstr ""
+
+#: option/config.php:606 option/config.php:635
+#, fuzzy
+msgid "Icon from Menu"
+msgstr "Importa din fisier"
+
+#: option/config.php:612 option/config.php:643
+#, fuzzy
+msgid "Select Menu Source"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:613
+msgid "Select menu that will be displayed on the left section of top bar"
+msgstr ""
+
+#: option/config.php:619
+msgid "Write any text that will be displayed on the left section of top bar"
+msgstr ""
+
+#: option/config.php:620
+msgid "Left topbar custom text"
+msgstr ""
+
+#: option/config.php:625
+msgid "Right Section"
+msgstr ""
+
+#: option/config.php:631
+msgid "Select element to be displayed on the right section of top bar"
+msgstr ""
+
+#: option/config.php:642
+msgid "Select menu that will be displayed on the right section of top bar"
+msgstr ""
+
+#: option/config.php:649
+msgid "Write any text that will be displayed on the right section of top bar"
+msgstr ""
+
+#: option/config.php:650
+msgid "Right topbar custom text"
+msgstr ""
+
+#: option/config.php:656
+msgid "Main Navigation"
+msgstr ""
+
+#: option/config.php:662
+msgid "Navigation Bar"
+msgstr ""
+
+#: option/config.php:663
+msgid "Enable or Disable the Navigation Bar"
+msgstr ""
+
+#: option/config.php:676
+msgid "Layout Type"
+msgstr ""
+
+#: option/config.php:677
+msgid "Select layout for the navigation bar"
+msgstr ""
+
+#: option/config.php:679
+msgid "Logo on Left"
+msgstr ""
+
+#: option/config.php:680
+msgid "Logo on Center"
+msgstr ""
+
+#: option/config.php:681
+msgid "Logo on Right"
+msgstr ""
+
+#: option/config.php:682
+msgid "Vertical Menu on Left"
+msgstr ""
+
+#: option/config.php:683
+msgid "Static Navigation with post-nav Area"
+msgstr ""
+
+#: option/config.php:690
+msgid "Sticky Menu"
+msgstr ""
+
+#: option/config.php:691
+msgid "Enable or Disable the sticky menu"
+msgstr ""
+
+#: option/config.php:699
+msgid "Search Bar"
+msgstr ""
+
+#: option/config.php:700
+msgid "Enable or Disable the search bar"
+msgstr ""
+
+#: option/config.php:708
+msgid "Shopping Cart "
+msgstr ""
+
+#: option/config.php:709
+msgid "Enable or Disable Woocommerce shopping cart"
+msgstr ""
+
+#: option/config.php:717
+msgid "Show Post Menu Page"
+msgstr ""
+
+#: option/config.php:718
+msgid "Allow show/hide Show Post Menu Page"
+msgstr ""
+
+#: option/config.php:726
+#, fuzzy
+msgid "Select Post Menu Page"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:733 option/config.php:897
+msgid "Logo"
+msgstr ""
+
+#: option/config.php:736
+msgid "Set logo image."
+msgstr ""
+
+#: option/config.php:737
+msgid "Select the default logo for the site"
+msgstr ""
+
+#: option/config.php:743 option/config.php:930
+msgid "Logo (Sticky)"
+msgstr ""
+
+#: option/config.php:746 option/config.php:932
+msgid "Select the default logo when in sticky mode"
+msgstr ""
+
+#: option/config.php:752
+msgid "Logo Alt Text"
+msgstr ""
+
+#: option/config.php:753
+msgid "Adjust the logo alt text"
+msgstr ""
+
+#: option/config.php:759
+#, fuzzy
+msgid "Logo Width"
+msgstr "Lungime"
+
+#: option/config.php:760
+msgid "Adjust the logo width (in pixel)"
+msgstr ""
+
+#: option/config.php:762
+msgid "leave blank or put \"0\" if no set"
+msgstr ""
+
+#: option/config.php:769
+msgid "Logo Top Margin"
+msgstr ""
+
+#: option/config.php:770
+msgid "Adjust the logo position from the top (in pixel)"
+msgstr ""
+
+#: option/config.php:777
+msgid "Logo Left Margin"
+msgstr ""
+
+#: option/config.php:778
+msgid "Adjust the logo position from the left (in pixel)"
+msgstr ""
+
+#: option/config.php:785
+msgid "Logo Top Padding"
+msgstr ""
+
+#: option/config.php:786
+msgid "Adjust the logo top padding (in pixel)"
+msgstr ""
+
+#: option/config.php:793
+msgid "Logo Top Margin (Sticky)"
+msgstr ""
+
+#: option/config.php:794
+msgid "Adjust the logo top margin when in sticky mode (in pixel)"
+msgstr ""
+
+#: option/config.php:801
+msgid "Navigation Bar Height"
+msgstr ""
+
+#: option/config.php:802
+#, php-format
+msgid "Adjust the navigation bar in em (Default: %dem)"
+msgstr ""
+
+#: option/config.php:809 option/config.php:993
+msgid "Background Image"
+msgstr ""
+
+#: option/config.php:810
+msgid "Select image to cover the navigation bar"
+msgstr ""
+
+#: option/config.php:816
+msgid "Background Image Style"
+msgstr ""
+
+#: option/config.php:817
+msgid "Select the background image style for the navigation bar"
+msgstr ""
+
+#: option/config.php:818
+msgid "Cover the whole Navigation Bar"
+msgstr ""
+
+#: option/config.php:819
+msgid "Fit image into the Navigation Bar"
+msgstr ""
+
+#: option/config.php:828
+msgid "Horizontal Position(%)"
+msgstr ""
+
+#: option/config.php:829
+msgid "Adjust the horizontal percentage position of the background image"
+msgstr ""
+
+#: option/config.php:836
+msgid "Vertical Position(%)"
+msgstr ""
+
+#: option/config.php:837
+msgid "Adjust the vertical percentage position of the background image"
+msgstr ""
+
+#: option/config.php:844 option/config.php:906
+msgid ""
+"Enable or disable. If background color is disabled, it will be displayed in "
+"transparent"
+msgstr ""
+
+#: option/config.php:860 option/config.php:922
+#, fuzzy
+msgid "Navigation Bar Font Color"
+msgstr "Culoare font"
+
+#: option/config.php:861 option/config.php:923
+msgid "Select the font color for the navigation bar"
+msgstr ""
+
+#: option/config.php:868 option/config.php:938
+msgid "Background Color (Sticky)"
+msgstr ""
+
+#: option/config.php:869 option/config.php:939
+msgid ""
+"Enable or disable. If background color is disabled, it will be displayed in "
+"transparent when in sticky mode"
+msgstr ""
+
+#: option/config.php:884 option/config.php:955
+msgid "Navigation Bar Font Color (Sticky)"
+msgstr ""
+
+#: option/config.php:885 option/config.php:956
+msgid "Select the font color for the navigation bar when in sticky mode"
+msgstr ""
+
+#: option/config.php:892
+msgid "Homepage"
+msgstr ""
+
+#: option/config.php:899
+msgid "Select the logo that will be displayed at homepage"
+msgstr ""
+
+#: option/config.php:965 option/config.php:970
+#, fuzzy
+msgid "Banner"
+msgstr "Inaltime"
+
+#: option/config.php:971
+msgid "Enable or Disable the Banner"
+msgstr ""
+
+#: option/config.php:979
+msgid "Background Banner Type"
+msgstr ""
+
+#: option/config.php:980
+msgid "Select background banner type that fills the banner section area"
+msgstr ""
+
+#: option/config.php:983
+msgid "Page Banner Image"
+msgstr ""
+
+#: option/config.php:984
+#, fuzzy
+msgid "Image"
+msgstr "Lungime"
+
+#: option/config.php:985
+msgid "Color"
+msgstr ""
+
+#: option/config.php:996
+msgid "Select image for the banner background"
+msgstr ""
+
+#: option/config.php:1004
+msgid "Select color for the banner background"
+msgstr ""
+
+#: option/config.php:1011
+#, fuzzy
+msgid "Banner Height"
+msgstr "Inaltime"
+
+#: option/config.php:1012
+msgid "Adjust the banner height (in pixel)"
+msgstr ""
+
+#: option/config.php:1019
+msgid "Banner on homepage"
+msgstr ""
+
+#: option/config.php:1020
+msgid "Enable or Disable the banner on homepage"
+msgstr ""
+
+#: option/config.php:1028
+msgid "Page Title"
+msgstr ""
+
+#: option/config.php:1029
+msgid "Enable or Disable the page title"
+msgstr ""
+
+#: option/config.php:1037
+msgid "Page Title Top Margin"
+msgstr ""
+
+#: option/config.php:1038
+msgid "Adjust the page title space margin from the top (in pixel)"
+msgstr ""
+
+#: option/config.php:1046
+msgid "Page Title Color"
+msgstr ""
+
+#: option/config.php:1047
+#, fuzzy
+msgid "Select color for the page title"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:1060
+msgid "Shop Page Tittle"
+msgstr ""
+
+#: option/config.php:1061
+msgid "Set the page title for the Woocommerce page"
+msgstr ""
+
+#: option/config.php:1062
+msgid "Shop"
+msgstr ""
+
+#: option/config.php:1070
+msgid "Shop Background Image"
+msgstr ""
+
+#: option/config.php:1071
+msgid "Select image for the Woocommerce page background"
+msgstr ""
+
+#: option/config.php:1080 option/config.php:1086
+msgid "Footer"
+msgstr ""
+
+#: option/config.php:1087
+msgid "Enable or Disable footer"
+msgstr ""
+
+#: option/config.php:1095
+msgid "Footer Text"
+msgstr ""
+
+#: option/config.php:1096
+msgid ""
+"Type in the text that will be show on footer area <br>You can use the "
+"following shortcodes in your footer text"
+msgstr ""
+
+#: option/config.php:1097
+#, php-format
+msgid "%s, The Awesome Theme. All right reserved."
+msgstr ""
+
+#: option/config.php:1103
+msgid "Footer Text Position"
+msgstr ""
+
+#: option/config.php:1104
+msgid "Select position for the footer text"
+msgstr ""
+
+#: option/config.php:1115
+#, fuzzy
+msgid "Footer Widget"
+msgstr "Lungime"
+
+#: option/config.php:1116
+msgid "Enable or Disable footer widget"
+msgstr ""
+
+#: option/config.php:1124
+#, fuzzy
+msgid "Footer Widget Columns"
+msgstr "Culoare font"
+
+#: option/config.php:1125
+msgid ""
+"Select number of column for the footer widget <br>You can set the footer "
+"widget on Appearance > Widgets > Bottom Widget Area"
+msgstr ""
+
+#: option/config.php:1126
+msgid "One Column"
+msgstr ""
+
+#: option/config.php:1127
+msgid "Two Columns"
+msgstr ""
+
+#: option/config.php:1128
+msgid "Three Columns"
+msgstr ""
+
+#: option/config.php:1129
+msgid "Four Columns"
+msgstr ""
+
+#: option/config.php:1138
+msgid "Footer Background Color"
+msgstr ""
+
+#: option/config.php:1139
+#, fuzzy
+msgid "Select color for the footer background"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:1147
+#, fuzzy
+msgid "Footer Font Color"
+msgstr "Culoare font"
+
+#: option/config.php:1148
+#, fuzzy
+msgid "Select color for the footer font"
+msgstr "Culoare font"
+
+#: option/config.php:1155
+msgid "Pre and Post Footer"
+msgstr ""
+
+#: option/config.php:1156
+msgid "Enable or Disable pre and post footer area"
+msgstr ""
+
+#: option/config.php:1164
+#, fuzzy
+msgid "Pre Footer Page"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:1165
+msgid "Select page for the pre footer"
+msgstr ""
+
+#: option/config.php:1172
+#, fuzzy
+msgid "Post Footer Page"
+msgstr "Selecteaza un articol"
+
+#: option/config.php:1173
+msgid "Select page for the post footer"
+msgstr ""
+
+#: option/config.php:1185
+msgid "Simple Recruitment"
+msgstr ""
+
+#: option/config.php:1190
+msgid "Job Description Fields"
+msgstr ""
+
+#: option/config.php:1191
+msgid "Manage the field that will be displayed on the job description"
+msgstr ""
+
+#: option/config.php:1197
+msgid "Email Address"
+msgstr ""
+
+#: option/config.php:1198
+msgid ""
+"Target email address for the application form. If your'e using multiple "
+"email addresses separate them using comma. Leave it blank if you're using "
+"site's admin email"
+msgstr ""
+
+#: option/config.php:1203
+msgid "Attachment Type"
+msgstr ""
+
+#: option/config.php:1204
+msgid "Select the attachment type allowed in the application form"
+msgstr ""
+
+#: option/config.php:1222
+msgid "Attachment Size"
+msgstr ""
+
+#: option/config.php:1223
+msgid "Set the maximum attachment size allowed in KB, etc: 1024 form 1MB size"
+msgstr ""
+
+#: option/config.php:1229
+msgid "Application Form Heading Text"
+msgstr ""
+
+#: option/config.php:1230
+msgid ""
+"Please complete the form below to send an application for the selected job "
+"{job_title}."
+msgstr ""
+
+#: option/config.php:1231
+msgid "Set the heading text for the application Form"
+msgstr ""
+
+#: option/config.php:1232 option/config.php:1240
+msgid "Shortcode:{job_title}, {job_link} "
+msgstr ""
+
+#: option/config.php:1237
+msgid "Email to Friend Form Heading Text"
+msgstr ""
+
+#: option/config.php:1238
+msgid "Set the heading text for the \"Email to Friend\" Form"
+msgstr ""
+
+#: option/config.php:1239
+msgid "Please complete the form below to tell a friend about job {job_title}."
+msgstr ""
+
+#: option/config.php:1245
+msgid "Confirmation Message"
+msgstr ""
+
+#: option/config.php:1246
+msgid ""
+"Message that will be displayed when the application has been successfully "
+"sent"
+msgstr ""
+
+#: option/config.php:1256
+msgid "Advanced Settings"
+msgstr ""
+
+#: option/config.php:1261
+msgid "Development Mode"
+msgstr ""
+
+#: option/config.php:1262
+msgid "Activate if web running development"
+msgstr ""
+
+#: option/config.php:1263
+msgid "Several webhosting chached .css file, so must activate this mode"
+msgstr ""
+
+#: option/config.php:1271
+msgid "CSS Code"
+msgstr ""
+
+#: option/config.php:1272
+#, php-format
+msgid "Put your CSS code in here<br/>Your css code will saving at %s"
+msgstr ""
+
+#: option/config.php:1280
+msgid "Javascript Code"
+msgstr ""
+
+#: option/config.php:1281
+msgid ""
+"Put your Javascript code in here. <br> The code will be loaded at the end of "
+"every page"
+msgstr ""
+
+#: option/config.php:1284
+msgid "Be careful!"
+msgstr ""
+
+#: option/config.php:1295
+msgid "Theme Information & Update"
+msgstr ""
+
+#: option/config.php:1296
+#, php-format
+msgid "The Awesome Wordpress Theme by %s"
+msgstr ""
+
+#: option/config.php:1299
+msgid "Item Purchase Number"
+msgstr ""
+
+#: option/config.php:1304
+#, php-format
+msgid "purchase number from %s. ex:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+msgstr ""
+
+#: option/config.php:1317
+msgid "Documentation"
+msgstr ""
+
+#: option/config.php:2637
+msgid "Filesystem error."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Pick a background color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Pick a font color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Menu Height"
+#~ msgstr "Inaltime"
+
+#, fuzzy
+#~ msgid "Menu Font Color"
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Pick ball 1 color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Pick ball 2 color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Pick ball 3 color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Pick ball 4 color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Default: %s."
+#~ msgstr "Predefinit"
+
+#, fuzzy
+#~ msgid "Styling Options"
+#~ msgstr "Optiuni"
+
+#, fuzzy
+#~ msgid "Pick a color for Body Text Color."
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Gallery"
+#~ msgstr "Goleste Galerie"
+
+#~ msgid "Reset to Defaults"
+#~ msgstr "Restare la predefinit"
+
+#~ msgid "Show Object in Javascript Console Object"
+#~ msgstr "Afiseaza obiect in Consola Javascript"
+
+#~ msgid "Border style"
+#~ msgstr "Stil margine"
+
+#~ msgid "Width"
+#~ msgstr "Lungime"
+
+#~ msgid "height"
+#~ msgstr "Inaltime"
+
+#~ msgid "New"
+#~ msgstr "Nou"
+
+#~ msgid "Delete"
+#~ msgstr "Sterge"
+
+#~ msgid "Add"
+#~ msgstr "Adauga"
+
+#~ msgid "Password"
+#~ msgstr "Parola"
+
+#~ msgid "Username"
+#~ msgstr "Nume utilizator"
+
+#~ msgid "Delete Slide"
+#~ msgstr "Sterge slide"
+
+#~ msgid "Add Slide"
+#~ msgstr "Adauga Slide"
+
+#~ msgid "Redux Framework has an embedded demo."
+#~ msgstr "Redux Framework are modalitate Demo incorporata."
+
+#~ msgid "Click here to activate the sample config file."
+#~ msgstr "Apasati aici pentru a activa fisierul de configurare model."
+
+#~ msgid "Deactivate Demo Mode"
+#~ msgstr "Dezactivati modalitate Demo"
+
+#~ msgid "Activate Demo Mode"
+#~ msgstr "Activati modalitate Demo"
+
+#, fuzzy
+#~ msgid ""
+#~ "Input your backup json code below and hit Import to restore your sites "
+#~ "options from a backup."
+#~ msgstr ""
+#~ "Alege fisierul backup mai jos si apasa Importa pentru a restaura setarile "
+#~ "dintr-o copie de backup."
+
+#, fuzzy
+#~ msgid "Image Width"
+#~ msgstr "Lungime"
+
+#, fuzzy
+#~ msgid "Close Button Color"
+#~ msgstr "Culoare font"
+
+#, fuzzy
+#~ msgid "Link"
+#~ msgstr "Copie Link"
+
+#~ msgid "Border size"
+#~ msgstr "Marime margine"

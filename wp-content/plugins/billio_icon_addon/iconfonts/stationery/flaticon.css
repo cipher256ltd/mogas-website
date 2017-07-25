@@ -1,0 +1,1298 @@
+@font-face {
+	font-family: "Flaticon Stationery";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-stationery-1002:before {
+	content: "\e000";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-10k:before {
+	content: "\e001";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-1500:before {
+	content: "\e002";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-2000:before {
+	content: "\e003";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-200:before {
+	content: "\e004";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-20141:before {
+	content: "\e005";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-2014:before {
+	content: "\e006";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-5000:before {
+	content: "\e007";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-5001:before {
+	content: "\e008";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-almanac1:before {
+	content: "\e009";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-almanac:before {
+	content: "\e00a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-arrow473:before {
+	content: "\e00b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-audio34:before {
+	content: "\e00c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-baby44:before {
+	content: "\e00d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-bar12:before {
+	content: "\e00e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-billboard:before {
+	content: "\e00f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-black192:before {
+	content: "\e010";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-black193:before {
+	content: "\e011";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-blackboard2:before {
+	content: "\e012";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-blank21:before {
+	content: "\e013";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book103:before {
+	content: "\e014";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book104:before {
+	content: "\e015";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book105:before {
+	content: "\e016";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book106:before {
+	content: "\e017";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book107:before {
+	content: "\e018";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book108:before {
+	content: "\e019";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book109:before {
+	content: "\e01a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book110:before {
+	content: "\e01b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book111:before {
+	content: "\e01c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book112:before {
+	content: "\e01d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book113:before {
+	content: "\e01e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book114:before {
+	content: "\e01f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book115:before {
+	content: "\e020";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-book116:before {
+	content: "\e021";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-books10:before {
+	content: "\e022";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-books8:before {
+	content: "\e023";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-books9:before {
+	content: "\e024";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-box37:before {
+	content: "\e025";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-brochure1:before {
+	content: "\e026";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-brochure2:before {
+	content: "\e027";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-brochure3:before {
+	content: "\e028";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-brochure4:before {
+	content: "\e029";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-brochure:before {
+	content: "\e02a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business37:before {
+	content: "\e02b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business38:before {
+	content: "\e02c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business39:before {
+	content: "\e02d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business40:before {
+	content: "\e02e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business41:before {
+	content: "\e02f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business42:before {
+	content: "\e030";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business43:before {
+	content: "\e031";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business44:before {
+	content: "\e032";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business45:before {
+	content: "\e033";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business46:before {
+	content: "\e034";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business47:before {
+	content: "\e035";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business48:before {
+	content: "\e036";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business50:before {
+	content: "\e037";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-business51:before {
+	content: "\e038";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-calendar55:before {
+	content: "\e039";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-calligraphy11:before {
+	content: "\e03a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-calligraphy12:before {
+	content: "\e03b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-camera51:before {
+	content: "\e03c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-card17:before {
+	content: "\e03d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-cardboard:before {
+	content: "\e03e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-cards7:before {
+	content: "\e03f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-cargo10:before {
+	content: "\e040";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-catalog1:before {
+	content: "\e041";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-catalog2:before {
+	content: "\e042";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-catalog3:before {
+	content: "\e043";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-catalog:before {
+	content: "\e044";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-choosing1:before {
+	content: "\e045";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-choosing2:before {
+	content: "\e046";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-choosing:before {
+	content: "\e047";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-circles4:before {
+	content: "\e048";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-circular72:before {
+	content: "\e049";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-circular73:before {
+	content: "\e04a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-circular76:before {
+	content: "\e04b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-cmyk:before {
+	content: "\e04c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-color2:before {
+	content: "\e04d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-color3:before {
+	content: "\e04e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-colors1:before {
+	content: "\e04f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-colors2:before {
+	content: "\e050";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-colors:before {
+	content: "\e051";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-concert:before {
+	content: "\e052";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-contrast5:before {
+	content: "\e053";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-couple47:before {
+	content: "\e054";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-crosshair7:before {
+	content: "\e055";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-cup29:before {
+	content: "\e056";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-cylindrical5:before {
+	content: "\e057";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-daily1:before {
+	content: "\e058";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-daily2:before {
+	content: "\e059";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-delivery11:before {
+	content: "\e05a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-delivery12:before {
+	content: "\e05b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-design1:before {
+	content: "\e05c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-desk3:before {
+	content: "\e05d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-diptych:before {
+	content: "\e05e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-double45:before {
+	content: "\e05f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-dropper4:before {
+	content: "\e060";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-dropper5:before {
+	content: "\e061";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope10:before {
+	content: "\e062";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope11:before {
+	content: "\e063";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope12:before {
+	content: "\e064";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope13:before {
+	content: "\e065";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope14:before {
+	content: "\e066";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope15:before {
+	content: "\e067";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope16:before {
+	content: "\e068";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope17:before {
+	content: "\e069";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope18:before {
+	content: "\e06a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope19:before {
+	content: "\e06b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope20:before {
+	content: "\e06c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope21:before {
+	content: "\e06d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope22:before {
+	content: "\e06e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope23:before {
+	content: "\e06f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope24:before {
+	content: "\e070";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope25:before {
+	content: "\e071";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope27:before {
+	content: "\e072";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope6:before {
+	content: "\e073";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope7:before {
+	content: "\e074";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope8:before {
+	content: "\e075";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-envelope9:before {
+	content: "\e076";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-event:before {
+	content: "\e077";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-fan5:before {
+	content: "\e078";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-fixing:before {
+	content: "\e079";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-flyer1:before {
+	content: "\e07a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-flyer:before {
+	content: "\e07b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-foldable:before {
+	content: "\e07c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded20:before {
+	content: "\e07d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded21:before {
+	content: "\e07e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded22:before {
+	content: "\e07f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded23:before {
+	content: "\e080";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded24:before {
+	content: "\e081";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded25:before {
+	content: "\e082";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded26:before {
+	content: "\e083";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folded27:before {
+	content: "\e084";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folder69:before {
+	content: "\e085";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-folder70:before {
+	content: "\e086";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-food15:before {
+	content: "\e087";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-four35:before {
+	content: "\e088";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-graph14:before {
+	content: "\e089";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-heat2:before {
+	content: "\e08a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-ink3:before {
+	content: "\e08b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-ink4:before {
+	content: "\e08c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-ink5:before {
+	content: "\e08d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-jar11:before {
+	content: "\e08e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-label8:before {
+	content: "\e08f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-label9:before {
+	content: "\e090";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-letter17:before {
+	content: "\e091";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-letter18:before {
+	content: "\e092";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-light53:before {
+	content: "\e093";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-light54:before {
+	content: "\e094";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-long11:before {
+	content: "\e095";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-long12:before {
+	content: "\e096";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-long13:before {
+	content: "\e097";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-long14:before {
+	content: "\e098";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-long15:before {
+	content: "\e099";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-long16:before {
+	content: "\e09a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-magnifier6:before {
+	content: "\e09b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-magnifier7:before {
+	content: "\e09c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-menu21:before {
+	content: "\e09d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-mini14:before {
+	content: "\e09e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-monthly1:before {
+	content: "\e09f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-mouse20:before {
+	content: "\e0a0";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-mouse21:before {
+	content: "\e0a1";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-music164:before {
+	content: "\e0a2";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-newspaper10:before {
+	content: "\e0a3";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-notebook22:before {
+	content: "\e0a4";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-notepad8:before {
+	content: "\e0a5";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-office20:before {
+	content: "\e0a6";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-open114:before {
+	content: "\e0a7";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-open115:before {
+	content: "\e0a8";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-open116:before {
+	content: "\e0a9";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-open117:before {
+	content: "\e0aa";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-open118:before {
+	content: "\e0ab";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-open119:before {
+	content: "\e0ac";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-packing1:before {
+	content: "\e0ad";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-packing:before {
+	content: "\e0ae";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-pack:before {
+	content: "\e0af";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-painting24:before {
+	content: "\e0b0";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-painting25:before {
+	content: "\e0b1";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-painting26:before {
+	content: "\e0b2";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-painting27:before {
+	content: "\e0b3";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-painting28:before {
+	content: "\e0b4";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper58:before {
+	content: "\e0b5";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper59:before {
+	content: "\e0b6";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper60:before {
+	content: "\e0b7";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper61:before {
+	content: "\e0b8";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper62:before {
+	content: "\e0b9";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper63:before {
+	content: "\e0ba";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper64:before {
+	content: "\e0bb";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper65:before {
+	content: "\e0bc";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper66:before {
+	content: "\e0bd";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper67:before {
+	content: "\e0be";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper68:before {
+	content: "\e0bf";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper69:before {
+	content: "\e0c0";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper70:before {
+	content: "\e0c1";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper71:before {
+	content: "\e0c2";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper72:before {
+	content: "\e0c3";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper73:before {
+	content: "\e0c4";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper74:before {
+	content: "\e0c5";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-paper75:before {
+	content: "\e0c6";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-papers1:before {
+	content: "\e0c7";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-papers2:before {
+	content: "\e0c8";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-party4:before {
+	content: "\e0c9";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-pencil36:before {
+	content: "\e0ca";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-pendrive4:before {
+	content: "\e0cb";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-pendrive5:before {
+	content: "\e0cc";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-photo36:before {
+	content: "\e0cd";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-postcard1:before {
+	content: "\e0ce";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-postcard:before {
+	content: "\e0cf";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-poster:before {
+	content: "\e0d0";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-presentation6:before {
+	content: "\e0d1";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print10:before {
+	content: "\e0d2";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print11:before {
+	content: "\e0d3";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print12:before {
+	content: "\e0d4";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print13:before {
+	content: "\e0d5";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print14:before {
+	content: "\e0d6";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print15:before {
+	content: "\e0d7";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print16:before {
+	content: "\e0d8";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print17:before {
+	content: "\e0d9";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print18:before {
+	content: "\e0da";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print19:before {
+	content: "\e0db";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print20:before {
+	content: "\e0dc";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print21:before {
+	content: "\e0dd";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print6:before {
+	content: "\e0de";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print7:before {
+	content: "\e0df";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print8:before {
+	content: "\e0e0";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-print9:before {
+	content: "\e0e1";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printed1:before {
+	content: "\e0e2";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printed2:before {
+	content: "\e0e3";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printed3:before {
+	content: "\e0e4";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printed4:before {
+	content: "\e0e5";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printed5:before {
+	content: "\e0e6";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printed6:before {
+	content: "\e0e7";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer39:before {
+	content: "\e0e8";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer40:before {
+	content: "\e0e9";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer41:before {
+	content: "\e0ea";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer42:before {
+	content: "\e0eb";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer43:before {
+	content: "\e0ec";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer44:before {
+	content: "\e0ed";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer45:before {
+	content: "\e0ee";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer46:before {
+	content: "\e0ef";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer47:before {
+	content: "\e0f0";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer48:before {
+	content: "\e0f1";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer49:before {
+	content: "\e0f2";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer50:before {
+	content: "\e0f3";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer51:before {
+	content: "\e0f4";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer52:before {
+	content: "\e0f5";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer53:before {
+	content: "\e0f6";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer54:before {
+	content: "\e0f7";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer55:before {
+	content: "\e0f8";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer56:before {
+	content: "\e0f9";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer57:before {
+	content: "\e0fa";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printer58:before {
+	content: "\e0fb";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing10:before {
+	content: "\e0fc";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing11:before {
+	content: "\e0fd";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing12:before {
+	content: "\e0fe";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing13:before {
+	content: "\e0ff";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing14:before {
+	content: "\e100";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing15:before {
+	content: "\e101";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing16:before {
+	content: "\e102";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing17:before {
+	content: "\e103";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing18:before {
+	content: "\e104";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing2:before {
+	content: "\e105";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing3:before {
+	content: "\e106";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing4:before {
+	content: "\e107";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing5:before {
+	content: "\e108";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing6:before {
+	content: "\e109";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing7:before {
+	content: "\e10a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing8:before {
+	content: "\e10b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-printing9:before {
+	content: "\e10c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-prints:before {
+	content: "\e10d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-publicity:before {
+	content: "\e10e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-rectangles:before {
+	content: "\e10f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-rectangular40:before {
+	content: "\e110";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-rectangular41:before {
+	content: "\e111";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-rectangular42:before {
+	content: "\e112";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-recycle37:before {
+	content: "\e113";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-rounded34:before {
+	content: "\e114";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-ruler10:before {
+	content: "\e115";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-shirt4:before {
+	content: "\e116";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-spring14:before {
+	content: "\e117";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-spring15:before {
+	content: "\e118";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-spring16:before {
+	content: "\e119";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-square70:before {
+	content: "\e11a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stack13:before {
+	content: "\e11b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stack14:before {
+	content: "\e11c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stacked5:before {
+	content: "\e11d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stacked6:before {
+	content: "\e11e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stacked7:before {
+	content: "\e11f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stamp4:before {
+	content: "\e120";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stamp5:before {
+	content: "\e121";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stamp6:before {
+	content: "\e122";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-standing53:before {
+	content: "\e123";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-star75:before {
+	content: "\e124";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stationery1:before {
+	content: "\e125";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stationery2:before {
+	content: "\e126";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stationery3:before {
+	content: "\e127";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-stationery:before {
+	content: "\e128";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-tablet44:before {
+	content: "\e129";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-text65:before {
+	content: "\e12a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-text66:before {
+	content: "\e12b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-text67:before {
+	content: "\e12c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-text68:before {
+	content: "\e12d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-three66:before {
+	content: "\e12e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-triangular29:before {
+	content: "\e12f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-trifold5:before {
+	content: "\e130";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-trifold6:before {
+	content: "\e131";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-triptych1:before {
+	content: "\e132";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-triptych:before {
+	content: "\e133";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-tshirt17:before {
+	content: "\e134";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-vector13:before {
+	content: "\e135";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-vector14:before {
+	content: "\e136";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall10:before {
+	content: "\e137";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall11:before {
+	content: "\e138";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall12:before {
+	content: "\e139";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall13:before {
+	content: "\e13a";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall14:before {
+	content: "\e13b";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall15:before {
+	content: "\e13c";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall8:before {
+	content: "\e13d";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wall9:before {
+	content: "\e13e";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-wheel12:before {
+	content: "\e13f";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-writing12:before {
+	content: "\e140";
+	font-family: "Flaticon Stationery";
+}
+.icon-stationery-writing13:before {
+	content: "\e141";
+	font-family: "Flaticon Stationery";
+}

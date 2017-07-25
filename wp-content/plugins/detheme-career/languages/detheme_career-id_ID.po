@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Detheme Simple Career\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2015-04-16 14:12+0700\n"
+"PO-Revision-Date: 2015-04-16 14:12+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme.com <support@detheme.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: detheme_career.php:28
+msgid "Recruitments"
+msgstr "Pelowongan"
+
+#: detheme_career.php:29
+msgid "Recruitment"
+msgstr "Lowongan"
+
+#: detheme_career.php:30
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: detheme_career.php:51
+#, php-format
+msgid "%s Category"
+msgstr "Kategori %s"
+
+#: detheme_career.php:51
+msgid "Category"
+msgstr "Kategori"
+
+#: detheme_career.php:63
+msgid "Career Jobs Field"
+msgstr "Uraian Pekerjaan"
+
+#: detheme_career.php:69
+msgid "Employment Type"
+msgstr "Jenis Karyawan"
+
+#: detheme_career.php:70
+msgid "Specialism"
+msgstr "Spesialisasi"
+
+#: detheme_career.php:71
+msgid "Region"
+msgstr "Regional"
+
+#: detheme_career.php:72
+msgid "Location"
+msgstr "Lokasi"
+
+#: detheme_career.php:73
+msgid "Salary Description"
+msgstr "Gaji Ditawarkan"
+
+#: detheme_career.php:159
+msgid "Start Date"
+msgstr "Tanggal Mulai"
+
+#: detheme_career.php:180 detheme_career.php:225
+msgid "Month"
+msgstr "Bulan"
+
+#: detheme_career.php:185 detheme_career.php:230
+#, php-format
+msgid "%1$s-%2$s"
+msgstr ""
+
+#: detheme_career.php:189 detheme_career.php:234
+#, fuzzy
+msgid "Day"
+msgstr "%d hari"
+
+#: detheme_career.php:190 detheme_career.php:235
+msgid "Year"
+msgstr "Tahun"
+
+#: detheme_career.php:191 detheme_career.php:236
+msgid "Hour"
+msgstr "Jam"
+
+#: detheme_career.php:192 detheme_career.php:237
+msgid "Minute"
+msgstr "Menit"
+
+#: detheme_career.php:196 detheme_career.php:241
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+msgstr ""
+
+#: detheme_career.php:204
+msgid "Close Date"
+msgstr "Tanggal Selesai"
+
+#: detheme_career.php:261
+#, fuzzy
+msgid "Title"
+msgstr "Judul:"
+
+#: detheme_career.php:262
+#, fuzzy
+msgid "Author"
+msgstr "Meta Penulis"
+
+#: detheme_career.php:263
+msgid "Categories"
+msgstr "Kategori"
+
+#: detheme_career.php:264
+#, fuzzy
+msgid "Date"
+msgstr "Tanggal Berakhir"
+
+#: templates/dtcareer.php:20
+msgid "Job Description"
+msgstr "Penjelasan Lowongan"
+
+#~ msgid "End Date"
+#~ msgstr "Tanggal Berakhir"
+
+#, fuzzy
+#~ msgid "Portfolio Settings"
+#~ msgstr "Kategori Portofolio"
+
+#~ msgid "Icon Box"
+#~ msgstr "Kotak Ikon"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "The icon you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Layout type"
+#~ msgstr "Tipe Tampilan"
+
+#~ msgid "Type 1: Squared Border Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "The icon layout you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Color Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Iconbox text"
+#~ msgstr "Kotak Ikon"
+
+#, fuzzy
+#~ msgid "Section Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Type 2: No Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Pre Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Main Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Sub  Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Line type"
+#~ msgstr "Tipe Tampilan"
+
+#, fuzzy
+#~ msgid "Package Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Package Detail"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "The icon you want as pagination"
+#~ msgstr "Pilih ikon yang akan ditampilkan"

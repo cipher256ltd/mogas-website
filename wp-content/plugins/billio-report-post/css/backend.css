@@ -1,0 +1,19 @@
+/* BACK END */
+[class^="flaticondr-"]:before, [class*=" flaticondr-"]:before,
+[class^="flaticondr-"]:after, [class*=" flaticondr-"]:after {   
+    font-size: 50px;
+    line-height: 60px;
+	margin-left: 0;
+}
+
+#document_name {
+	max-width: 150px;
+	text-align: center;
+	padding: 20px 0;
+}
+
+#document_name a { 
+	text-decoration: none; 
+	display: block; 
+	padding: 10px;
+}

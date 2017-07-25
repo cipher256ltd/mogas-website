@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Billio 1.0\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-02-24 15:52+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: support@detheme.com\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+
+msgid "Dismiss this notice"
+msgstr "Hilangkan pemberitahuan ini"
+
+msgid "This theme requires the following plugins: %1$s."
+msgstr "Tema ini membutuhkan plugin -  plugin: %1$s."
+
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Tema ini membutuhkan plugin: %1$s."
+
+msgid "Begin installing plugin"
+msgstr ""
+
+msgid "Begin installing plugins"
+msgstr ""
+
+msgid "Install Required Plugins"
+msgstr ""
+
+msgid "Install Plugins"
+msgstr ""
+
+msgid "Installing Plugin: %s"
+msgstr ""
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Activate installed plugin"
+msgstr ""
+
+msgid "Activate installed plugins"
+msgstr ""
+
+#, fuzzy
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Tema ini membutuhkan plugin: %1$s."
+
+#, fuzzy
+msgid "This theme recommends the following plugins: %1$s."
+msgstr "Tema ini membutuhkan plugin -  plugin: %1$s."
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+msgid ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr ""
+
+msgid "Source"
+msgstr "Sumber"
+
+msgid "Type"
+msgstr "Tipe"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Install"
+msgstr "Pasang"
+
+msgid "Activate"
+msgstr "Aktifkan"
+
+msgid "External Link"
+msgstr "link dari luar"
+
+msgid "Private Repository"
+msgstr ""
+
+msgid "Pre-Packaged"
+msgstr ""
+
+msgid "WordPress Repository"
+msgstr ""
+
+msgid "Required"
+msgstr "Dibutuhkan"
+
+msgid "Recommended"
+msgstr ""
+
+msgid "Not Installed"
+msgstr "Belum dipasang"
+
+msgid "Installed But Not Activated"
+msgstr ""
+
+#~ msgid "Error 404"
+#~ msgstr "Galat 404"
+
+#~ msgid "Go back to Our Homepage"
+#~ msgstr "Kembali ke Beranda Kami"
+
+#~ msgid "Page not found"
+#~ msgstr "Halaman tidak ditemukan"
+
+#~ msgid "Load More"
+#~ msgstr "Selanjutnya"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Arsip Kategori: %s"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Komentar ditutup"
+
+#~ msgid "% Comments"
+#~ msgstr "% Komentar"
+
+#~ msgid "No Comments"
+#~ msgstr "Tanpa komentar"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 komentar"
+
+#~ msgid "Detail to %s"
+#~ msgstr "Detil ke %s"
+
+#~ msgid "Project Description"
+#~ msgstr "Keterangan Proyek"
+
+#~ msgid "Project Detail"
+#~ msgstr "Detil Proyek"
+
+#~ msgid "Related Project"
+#~ msgstr "Proyek Yang Berkaitan"
+
+#~ msgid "Tags"
+#~ msgstr "Penanda"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Hasil pencarian untuk: %s"
+
+#~ msgid "Previous"
+#~ msgstr "Sebelumnya"
+
+#~ msgid "Next"
+#~ msgstr "Selanjutnya"
+
+#~ msgid "All Projects"
+#~ msgstr "Semua Proyek"
+
+#~ msgid "Left"
+#~ msgstr "Kiri"
+
+#~ msgid "Center"
+#~ msgstr "Tengah"
+
+#~ msgid "Right"
+#~ msgstr "Kanan"
+
+#~ msgid "No Sidebar"
+#~ msgstr "Tanpa Sidebar"
+
+#~ msgid "Hide title"
+#~ msgstr "Sembunyikan Judul"
+
+#~ msgid "Disable Lightbox 1st Visit"
+#~ msgstr "Matikan penyembul kunjungan pertama"
+
+#~ msgid "Page Loader"
+#~ msgstr "Preloader Halaman"
+
+#~ msgid "Disable Page Loader"
+#~ msgstr "Matikan Preloader"
+
+#~ msgid "Disable Exit Popup"
+#~ msgstr "Matikan Penyembul Pergi"
+
+#~ msgid "Sidebar Position"
+#~ msgstr "Posisi Sidebar"
+
+#~ msgid "Search"
+#~ msgstr "Pencarian"
+
+#~ msgid "Size"
+#~ msgstr "Ukuran"
+
+#~ msgid "Large"
+#~ msgstr "Besar"
+
+#~ msgid "Small"
+#~ msgstr "Kecil"
+
+#~ msgid "Medium"
+#~ msgstr "Sedang"
+
+#~ msgid "Extra small"
+#~ msgstr "Kecil banget"
+
+#~ msgid "Title:"
+#~ msgstr "Judul:"
+
+#~ msgid "Popular"
+#~ msgstr "Populer"
+
+#~ msgid "Recent"
+#~ msgstr "Terkini"
+
+#~ msgid "Comments"
+#~ msgstr "Komentar"
+
+#~ msgid "Select the button's style, ie the button's colour"
+#~ msgstr "Pilih model tombol, seperti warna tombol"
+
+#~ msgid "Button skin"
+#~ msgstr "Corak tombol"
+
+#~ msgid "Dark (default)"
+#~ msgstr "Gelap (standar)"
+
+#~ msgid "Select the button's skin"
+#~ msgstr "Pilih corak tombol"
+
+#~ msgid "Button Target"
+#~ msgstr "Halaman Target"
+
+#~ msgid "Select the button's target"
+#~ msgstr "Pilih halaman target link"
+
+#~ msgid "Button Text"
+#~ msgstr "Teks Tombol"
+
+#~ msgid "Icon Size"
+#~ msgstr "Ukuran Ikon"
+
+#~ msgid "Select the button's color"
+#~ msgstr "Pilih warna tombol"
+
+#~ msgid "Circle"
+#~ msgstr "Bundar"
+
+#, fuzzy
+#~ msgid "Select the button's style"
+#~ msgstr "Pilih model tombol"
+
+#~ msgid "by %s"
+#~ msgstr "Oleh %s"
+
+#~ msgid "You are here"
+#~ msgstr "Kamu disini"
+
+#~ msgid "Home"
+#~ msgstr "Beranda"
+
+#~ msgid "Share"
+#~ msgstr "Bagikan"
+
+#~ msgid "Background Image"
+#~ msgstr "Gambar Latar"
+
+#~ msgid "Set background image"
+#~ msgstr "Pilihlah gambar latar"
+
+#~ msgid "Remove background image"
+#~ msgstr "Hapus gambar latar"
+
+#~ msgid "Background Style"
+#~ msgstr "Model Gambar Latar"
+
+#~ msgid "Blank - Page Builder"
+#~ msgstr "Template Kosongan Page Builder"
+
+#~ msgid "Blank - Default"
+#~ msgstr "Template Kosongan"
+
+#~ msgid "Woocommerce Page"
+#~ msgstr "Halaman woocommerce"
+
+#~ msgid "Fullwidth"
+#~ msgstr "Penuh layar"
+
+#~ msgid "Post SEO"
+#~ msgstr "Setingan SEO"
+
+#~ msgid "Page SEO"
+#~ msgstr "SEO Halaman"
+
+#~ msgid "Meta Author"
+#~ msgstr "Meta Penulis"
+
+#~ msgid "Meta Keyword"
+#~ msgstr "Meta Kata Kunci"
+
+#~ msgid ""
+#~ "Type your meta keyword separed by comma. Googlebot loves it if it's not "
+#~ "exceeding 160 characters or 20 words."
+#~ msgstr ""
+#~ "Ketik kata kunci dipisahkan dengan koma. Pranala google menyukai yang "
+#~ "tidak lebih 160 huruf atau 20 kata"
+
+#~ msgid "Meta Description"
+#~ msgstr "Meta Diskripsi"
+
+#~ msgid ""
+#~ "Type your meta description. Googlebot loves it if it's not exceeding 160 "
+#~ "characters or 20 words."
+#~ msgstr ""
+#~ "Ketik meta diskripsi. Pranala google menyukai yang tidak lebih 160 huruf "
+#~ "atau 20 kata"
+
+#~ msgid "The Awesome Wordpress Theme by djavaweb"
+#~ msgstr "Template ciamik untuk Wordpress oleh Djavaweb"
+
+#~ msgid "Your website using %s template"
+#~ msgstr "Situs kamu menggunakan template %s"
+
+#~ msgid "Register Template"
+#~ msgstr "Daftarkan Template"
+
+#~ msgid "%d day"
+#~ msgstr "%d hari"
+
+#~ msgid "%d days"
+#~ msgstr "%d hari"
+
+#~ msgid "%s template license will expired in %s."
+#~ msgstr "Lisensi template %s akan berakhir %s lagi."
+
+#~ msgid "You can extend license"
+#~ msgstr "Kamu dapat memperpanjang"
+
+#~ msgid "%s template license was expired."
+#~ msgstr "Lisensi template %s sudah berakhir. "
+
+#~ msgid "Renew License"
+#~ msgstr "Perbaharui Lisensi"
+
+#~ msgid "License key using by system to update support"
+#~ msgstr "Kode lisensi digunakan oleh sistem untuk mendukung pembaharuan"
+
+#~ msgid "or"
+#~ msgstr "atau"

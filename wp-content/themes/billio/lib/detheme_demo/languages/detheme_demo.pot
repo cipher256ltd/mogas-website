@@ -1,0 +1,120 @@
+# Copyright (C) 2014 the detheme WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Detheme Demo Installer 1.0\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Atawai <support@detheme.com>\n"
+"Language-Team: LANGUAGE <support@detheme.com>\n"
+
+#: one click install
+msgid "Sorry, there has been an error."
+msgstr ""
+
+msgid "The file does not exist, please try again."
+msgstr ""
+
+msgid "Failed to import category %s"
+msgstr ""
+
+msgid "Failed to import post tag %s"
+msgstr ""
+
+msgid "Failed to import %s %s"
+msgstr ""
+
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+msgid "Invalid file type"
+msgstr ""
+
+msgid "Remote server did not respond"
+msgstr ""
+
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+msgid "Remote file is incorrect size"
+msgstr ""
+
+msgid "Zero size file downloaded"
+msgstr ""
+
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+msgid "Detheme One Click Demo Importer"
+msgstr ""
+
+msgid "Demo Install"
+msgstr ""
+
+msgid "Detheme Demo Importer"
+msgstr ""
+
+msgid "WARNING:"
+msgstr ""
+
+msgid "Recommended for fresh install only"
+msgstr ""
+
+msgid "import demo content complete"
+msgstr ""
+
+msgid "import demo content incomplete"
+msgstr ""
+
+msgid "Return to Import Demo"
+msgstr ""
+
+msgid "Import Options"
+msgstr ""
+
+msgid "Skip content"
+msgstr ""
+
+msgid "Skip theme option"
+msgstr ""
+
+msgid "Skip sidebar widget"
+msgstr ""
+
+msgid "Skip media"
+msgstr ""
+
+msgid "Skip menu"
+msgstr ""
+
+msgid "Skip revolution slider demo"
+msgstr ""
+
+msgid "Skip layer slider demo"
+msgstr ""
+
+msgid "Skip woocommerce demo"
+msgstr ""
+
+msgid "Import Demo"
+msgstr ""
+#: end install demo
+
+msgid "Demo package not found"
+msgstr ""

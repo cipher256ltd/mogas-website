@@ -1,0 +1,74 @@
+@font-face {
+	font-family: "Flaticon Construction";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon-counstruction-concrete1:before {
+	content: "\e000";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-concrete:before {
+	content: "\e001";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-construction13:before {
+	content: "\e002";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-construction14:before {
+	content: "\e003";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-construction15:before {
+	content: "\e004";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-construction16:before {
+	content: "\e005";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-construction17:before {
+	content: "\e006";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-excavator1:before {
+	content: "\e007";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-excavator2:before {
+	content: "\e008";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-excavator3:before {
+	content: "\e009";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-excavator4:before {
+	content: "\e00a";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-forklift2:before {
+	content: "\e00b";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-roller1:before {
+	content: "\e00c";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-tractor2:before {
+	content: "\e00d";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-tractor3:before {
+	content: "\e00e";
+	font-family: "Flaticon Construction";
+}
+.icon-counstruction-truck30:before {
+	content: "\e00f";
+	font-family: "Flaticon Construction";
+}

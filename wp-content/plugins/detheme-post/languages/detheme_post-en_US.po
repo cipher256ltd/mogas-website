@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Detheme Portfolio\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2015-03-06 11:02+0700\n"
+"PO-Revision-Date: 2015-03-06 11:02+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme.com <support@detheme.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: detheme_post.php:26
+msgid "Detheme Posts"
+msgstr ""
+
+#: detheme_post.php:27
+msgid "dtpost"
+msgstr ""
+
+#: detheme_post.php:28
+msgid "Add New"
+msgstr ""
+
+#: detheme_post.php:95
+#, php-format
+msgid "%s Category"
+msgstr ""
+
+#: detheme_post.php:95
+msgid "Category"
+msgstr ""
+
+#: detheme_post.php:106
+msgid "Detheme Post Settings"
+msgstr ""
+
+#: detheme_post.php:106
+msgid "Settings"
+msgstr ""
+
+#: detheme_post.php:122
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: detheme_post.php:129
+msgid "Label Name"
+msgstr ""
+
+#: detheme_post.php:134
+msgid "Singular Name"
+msgstr ""
+
+#: detheme_post.php:139
+msgid "Rewrite Slug"
+msgstr ""
+
+#: detheme_post.php:146
+msgid "Save Changes"
+msgstr ""
+
+#: detheme_post.php:155
+msgid "Image"
+msgstr ""
+
+#: detheme_post.php:156
+msgid "Title"
+msgstr ""
+
+#: detheme_post.php:157
+msgid "Author"
+msgstr ""
+
+#: detheme_post.php:158
+msgid "Categories"
+msgstr ""
+
+#: detheme_post.php:159
+msgid "Date"
+msgstr ""
+
+#~ msgid "Icon Box"
+#~ msgstr "Kotak Ikon"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "The icon you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Layout type"
+#~ msgstr "Tipe Tampilan"
+
+#~ msgid "Type 1: Squared Border Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "The icon layout you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Color Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Iconbox text"
+#~ msgstr "Kotak Ikon"
+
+#, fuzzy
+#~ msgid "Section Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Type 2: No Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Pre Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Main Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Sub  Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Line type"
+#~ msgstr "Tipe Tampilan"
+
+#, fuzzy
+#~ msgid "Package Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Package Detail"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "The icon you want as pagination"
+#~ msgstr "Pilih ikon yang akan ditampilkan"

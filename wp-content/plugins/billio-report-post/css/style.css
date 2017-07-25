@@ -1,0 +1,64 @@
+/* FRONT END */
+.dt_report_item {
+	padding: 70px 20px 30px ;
+	margin: 0 10px 20px 10px !important;
+	border-bottom: 1px solid #000;
+}
+
+.dt_report_pre_title { font-size: 40px; line-height: 1; }
+.dt_report_title { font-size: 24px; line-height: 1; }
+
+.dt_report_button {
+	float: left;
+	margin-top: 30px;
+}
+
+.dt_report_button a {
+	padding: 12px 15px;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #000;
+}
+
+.dt_report_button a:hover {
+	color: #fff;
+	background-color: #888;
+}
+
+.dt_report_button i:before {
+	font-size: 22px !important;
+	margin-right: 10px;
+}
+
+.dt_report_pagination {
+	text-align: center;
+	margin: 60px 0;
+}
+
+.dt_report_pagination .page-numbers { 
+	display: inline; 
+	background-color: #ececec;
+	padding: 6px 12px;
+}
+
+.dt_report_pagination .page-numbers.current { 
+	background-color: #000;
+	color: #fff;
+}
+
+.dt_report_pagination .next.page-numbers span:after {
+	content: "\25B6";
+}
+
+.dt_report_pagination .prev.page-numbers span:after {
+	content: "\25C0";
+}
+
+
+.rtl .dt_report_pagination .next.page-numbers span:after {
+	content: "\25C0";
+}
+
+.rtl .dt_report_pagination .prev.page-numbers span:after {
+	content: "\25B6";
+}

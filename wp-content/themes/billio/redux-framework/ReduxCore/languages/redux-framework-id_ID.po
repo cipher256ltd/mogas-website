@@ -1,0 +1,1862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework v3.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-15 09:21+0700\n"
+"PO-Revision-Date: 2015-04-15 09:23+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: ReduxFramework v3.0.1 <language@reduxframework.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ReduxCore\n"
+"X-Poedit-SearchPath-1: ReduxCore/languages\n"
+"X-Poedit-SearchPath-2: option\n"
+
+#: ReduxCore/framework.php:45
+msgid "Stylesheet is missing."
+msgstr ""
+
+#: ReduxCore/framework.php:126 ReduxCore/framework.php:132
+#: ReduxCore/framework.php:271 ReduxCore/framework.php:273
+#: option/config.php:117
+msgid "Options"
+msgstr "Pilihan"
+
+#: ReduxCore/framework.php:285
+msgid "Options panel created using"
+msgstr "Panel Pilihan Theme ini dibuat dengan"
+
+#: ReduxCore/framework.php:285
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: ReduxCore/framework.php:1047
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+"Perubahan yang kamu lakukan tidak disimpan. Semua mau disimpan sekarang?"
+
+#: ReduxCore/framework.php:1048
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Kamu yakin? Reset menyebabkan semua setingan akan hilang"
+
+#: ReduxCore/framework.php:1049
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Kamu yakin? Reset menyebabkan semua setingan di seksi ini akan hilang"
+
+#: ReduxCore/framework.php:1050
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Semua pilihan ini akan diubah dengan nilai yang ditetapkan dalam preset "
+"berikut. Apakah kamu akan melanjutkan?"
+
+#: ReduxCore/framework.php:1309 option/config.php:820
+msgid "Default"
+msgstr "Standar"
+
+#: ReduxCore/framework.php:1621
+msgid "License number not valid, please try again."
+msgstr ""
+
+#: ReduxCore/framework.php:1654
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Perhatian- Panel options ini tidak dapat bekerja baik tanpa javascript!"
+
+#: ReduxCore/framework.php:1708
+msgid "Expand"
+msgstr "Kembangkan"
+
+#: ReduxCore/framework.php:1710 ReduxCore/framework.php:1939
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: ReduxCore/framework.php:1712 ReduxCore/framework.php:1941
+msgid "Reset Section"
+msgstr "Reset Bagian Ini"
+
+#: ReduxCore/framework.php:1714 ReduxCore/framework.php:1943
+msgid "Reset All"
+msgstr "Reset Semua"
+
+#: ReduxCore/framework.php:1717 ReduxCore/framework.php:1946
+msgid "Working..."
+msgstr "Tunggu sebentar..."
+
+#: ReduxCore/framework.php:1724
+msgid "Settings Imported!"
+msgstr "Pengaturan Berhasil Diimpor!"
+
+#: ReduxCore/framework.php:1726
+msgid "Settings Saved!"
+msgstr "Pengaturan Berhasil Disimpan!"
+
+#: ReduxCore/framework.php:1730
+msgid "Settings have changed, you should save them!"
+msgstr "Settingan telah berubah, silakan disimpan ( klik tombol Simpan )"
+
+#: ReduxCore/framework.php:1731
+msgid "error(s) were found!"
+msgstr "terdapat error"
+
+#: ReduxCore/framework.php:1732
+msgid "warning(s) were found!"
+msgstr "ditemukan peringatan (warning)"
+
+#: ReduxCore/framework.php:1791
+msgid "Import / Export"
+msgstr "Impor / Ekspor"
+
+#: ReduxCore/framework.php:1806
+msgid "Options Object"
+msgstr "Data Object Options"
+
+#: ReduxCore/framework.php:1820 ReduxCore/framework.php:1906
+msgid "System Info"
+msgstr "Informasi System"
+
+#: ReduxCore/framework.php:1857
+msgid "Import / Export Options"
+msgstr "Pilihan Impor/Ekspor"
+
+#: ReduxCore/framework.php:1858
+msgid "Import Options"
+msgstr "Pilihan Impor"
+
+#: ReduxCore/framework.php:1859
+msgid "Import from file"
+msgstr "Impor dari berkas"
+
+#: ReduxCore/framework.php:1859
+msgid "Import from URL"
+msgstr "Impor dari URL"
+
+#: ReduxCore/framework.php:1864
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Masukkan berkas cadangan dibawah ini lalu klik tombol Impor untuk "
+"menggunakan settingan dari berkas cadangan."
+
+#: ReduxCore/framework.php:1874
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr "Masukkan URL berkas cadangan, dan klik tombol Impor."
+
+#: ReduxCore/framework.php:1881
+msgid "Import"
+msgstr "Impor"
+
+#: ReduxCore/framework.php:1881
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"PERHATIAN! Prosedur berikut akan melakukan penimpaan semua settingan yang "
+"ada, pastikan semua sesuai."
+
+#: ReduxCore/framework.php:1883
+msgid "Export Options"
+msgstr "Pilihan Ekspor"
+
+#: ReduxCore/framework.php:1885
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Anda dapat menyalin/mendonwload settingan saat ini. Simpan baik-baik sebagai "
+"cadangan bila terjadi hal-hal yang tidak diinginkan, atau dapat digunakan "
+"untuk mengembalikan settingan pada situs ini ( atau situs mana saja dengan "
+"pilihan settingan yang sama )"
+
+#: ReduxCore/framework.php:1889
+msgid "Copy"
+msgstr "Salin"
+
+#: ReduxCore/framework.php:1889
+msgid "Download"
+msgstr "Unduh"
+
+#: ReduxCore/framework.php:1889
+msgid "Copy Link"
+msgstr "Salin Link"
+
+#: ReduxCore/framework.php:2218
+#, php-format
+msgid "Your website using %s template"
+msgstr ""
+
+#: ReduxCore/framework.php:2219
+msgid ""
+"Please enter your Item Purchase Code to get theme & plugin update "
+"notification"
+msgstr ""
+
+#: ReduxCore/framework.php:2221
+msgid "Register Template"
+msgstr ""
+
+#: ReduxCore/framework.php:2222
+msgid "Hide this notice"
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:65
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr "Tambah"
+
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:82
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:90
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:96
+msgid "Edit Icon"
+msgstr ""
+
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:82
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:90
+#: ReduxCore/inc/fields/career_multi_text/field_career_multi_text.php:96
+#: ReduxCore/inc/fields/media/field_media.php:156
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:80
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:83
+msgid "Remove"
+msgstr "Hapus"
+
+#: ReduxCore/inc/fields/color/field_color.php:72
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr "Transparan"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr "Dari"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr "Hingga"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr "Tambah/Hapus Galeri"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr "Bersihkan Galeri"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr "Reguler"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr "Hover"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr "Active"
+
+#: ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ReduxCore/inc/fields/media/field_media.php:150
+msgid "Upload"
+msgstr "Unggah"
+
+#: ReduxCore/inc/fields/menu/field_menu.php:54
+#: ReduxCore/inc/fields/select/field_select.php:78
+#: ReduxCore/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr "Pilih"
+
+#: ReduxCore/inc/fields/menu/field_menu.php:80
+#: ReduxCore/inc/fields/select/field_select.php:119
+#: ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr "Tidak ada pilihan untuk field jenis berikut"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:125
+msgid "All"
+msgstr ""
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:149
+msgid "Top"
+msgstr "Atas"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:156 option/config.php:369
+#: option/config.php:1107
+msgid "Right"
+msgstr "Kanan"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:163
+msgid "Bottom"
+msgstr "Bawah"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:170 option/config.php:370
+#: option/config.php:1106
+msgid "Left"
+msgstr "Kiri"
+
+#: ReduxCore/inc/fields/spacing/field_spacing.php:181
+#: ReduxCore/inc/fields/spacing/field_spacing.php:182
+msgid "Units"
+msgstr "Satuan"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:108
+msgid "Font family"
+msgstr "Jenis Huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:148
+msgid "Standard Fonts"
+msgstr ""
+
+#: ReduxCore/inc/fields/typography/field_typography.php:204
+#: ReduxCore/inc/fields/typography/field_typography.php:208
+msgid "Font style"
+msgstr "Model Huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:208
+#: option/config.php:423
+msgid "Style"
+msgstr "Model"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:234
+msgid "Font subsets"
+msgstr "Subset Huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:235
+msgid "Subsets"
+msgstr "Subset"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:235
+msgid "Font script"
+msgstr "Bentuk Huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:253
+msgid "Size"
+msgstr "Ukuran"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:262
+msgid "Height"
+msgstr "Tinggi"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Word Spacing"
+msgstr "Jarak antar kata"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:278
+msgid "Letter Spacing"
+msgstr "Jarak antar huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:292
+msgid "Backup Font Family"
+msgstr "Cadangan Jenis Huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:312
+msgid "Font color"
+msgstr "Warna Huruf"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:606
+msgid "Google Webfonts"
+msgstr ""
+
+#: ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+#: ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+msgid "This field must be a valid color value."
+msgstr "Masukkan hanya nilai warna yang valid"
+
+#: ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Masukkan daftar berupa barisan angka dibatasi tanda koma ( comma separated "
+"list )"
+
+#: ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr "Masukkan format data yang valid"
+
+#: ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr "Masukkan format email yang valid"
+
+#: ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"Anda tidak dapat memasukkan segala format HTML pada field ini, semua tag "
+"HTML akan dihapus"
+
+#: ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"Anda tidak dapat memasukkan spesial karakter pada field ini, semua spesial "
+"karakter akan dihapus"
+
+#: ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr "Masukkan nilai numerik"
+
+#: ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr "Masukkan URL yang valid"
+
+#: option/config.php:54
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: option/config.php:66
+#, php-format
+msgid "By %s"
+msgstr "Oleh %s"
+
+#: option/config.php:67
+#, php-format
+msgid "Version %s"
+msgstr "Versi %s"
+
+#: option/config.php:71
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: option/config.php:72
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: option/config.php:116
+msgid "Theme Options"
+msgstr "Setelan Tema"
+
+#: option/config.php:134 option/config.php:671
+msgid "General"
+msgstr "Umum"
+
+#: option/config.php:139
+msgid "General Settings"
+msgstr "Konfigurasi Umum"
+
+#: option/config.php:145
+msgid "Main Layout"
+msgstr "Layout Utama"
+
+#: option/config.php:146
+msgid "Select main layout for the site"
+msgstr "Pilih layout utama untuk tampilan situs"
+
+#: option/config.php:170
+#, php-format
+msgid "%s Layout"
+msgstr "Layout %s"
+
+#: option/config.php:171
+#, php-format
+msgid "Select layout for the %s page"
+msgstr "Pilih layout untuk halaman %s"
+
+#: option/config.php:187
+msgid "Boxed Layout"
+msgstr "Layout Box"
+
+#: option/config.php:188
+msgid "Enable or Disable the boxed layout"
+msgstr "Aktifkan atau Non-aktifkan layout box"
+
+#: option/config.php:190 option/config.php:244 option/config.php:262
+#: option/config.php:281 option/config.php:340 option/config.php:348
+#: option/config.php:415 option/config.php:573 option/config.php:665
+#: option/config.php:693 option/config.php:702 option/config.php:711
+#: option/config.php:720 option/config.php:845 option/config.php:870
+#: option/config.php:907 option/config.php:940 option/config.php:973
+#: option/config.php:1022 option/config.php:1031 option/config.php:1089
+#: option/config.php:1118 option/config.php:1158 option/config.php:1265
+msgid "On"
+msgstr "Nyala"
+
+#: option/config.php:191 option/config.php:245 option/config.php:263
+#: option/config.php:282 option/config.php:341 option/config.php:349
+#: option/config.php:416 option/config.php:574 option/config.php:666
+#: option/config.php:694 option/config.php:703 option/config.php:712
+#: option/config.php:721 option/config.php:846 option/config.php:871
+#: option/config.php:908 option/config.php:941 option/config.php:974
+#: option/config.php:1023 option/config.php:1032 option/config.php:1090
+#: option/config.php:1119 option/config.php:1159 option/config.php:1266
+msgid "Off"
+msgstr "Mati"
+
+#: option/config.php:197
+msgid "Boxed Background Image"
+msgstr "Gambar Latar Layout Box"
+
+#: option/config.php:198
+msgid "Select image for the boxed background layout"
+msgstr "Pilih gambar latar untuk layout box"
+
+#: option/config.php:206
+msgid "Boxed Background Color"
+msgstr "Warna Latar Layout Box"
+
+#: option/config.php:207
+msgid "Select color for the boxed background layout"
+msgstr "Pilih warna latar untuk layout box"
+
+#: option/config.php:214
+msgid "Favicon Image"
+msgstr "Gambar Favicon"
+
+#: option/config.php:215
+msgid "Select image for the favicon"
+msgstr "Pilih gambar untuk favicon"
+
+#: option/config.php:218
+msgid "Upload your image (.png,.ico, .jpg) with size 16x16 pixel"
+msgstr "Unggah gambar (.png,.ico,.jpg) dengan ukuran 16x16 pixel"
+
+#: option/config.php:224
+msgid "404 Page"
+msgstr "Halaman 404"
+
+#: option/config.php:225
+msgid "Select the 404 page"
+msgstr "Pilih halaman untuk halaman 404"
+
+#: option/config.php:227 option/config.php:728 option/config.php:1167
+#: option/config.php:1175
+msgid "Create New Page"
+msgstr "Buat Halaman Baru"
+
+#: option/config.php:242 option/config.php:260
+#, php-format
+msgid "%s Title"
+msgstr "Judul %s"
+
+#: option/config.php:274 option/config.php:278
+msgid "Page Loader"
+msgstr "Pemuat Halaman"
+
+#: option/config.php:279
+msgid "Enable or Disable the page loader"
+msgstr "Aktifkan atau Non-aktifkan pemuat halaman"
+
+#: option/config.php:289 option/config.php:347 option/config.php:580
+#: option/config.php:843 option/config.php:905 option/config.php:1003
+msgid "Background Color"
+msgstr "Warna Latar"
+
+#: option/config.php:290
+msgid "Select color for the page loader background"
+msgstr "Pilih warna latar untuk pemuat halaman"
+
+#: option/config.php:298
+msgid "Ball 1 Color"
+msgstr "Warna Bola 1"
+
+#: option/config.php:299
+msgid "Select color for the first ball on the page loader"
+msgstr "Pilih warna bola 1 untuk pemuat halaman"
+
+#: option/config.php:307
+msgid "Ball 2 Color"
+msgstr "Warna Bola 2"
+
+#: option/config.php:308
+msgid "Select color for the second ball on the page loader"
+msgstr "Pilih warna bola 2 untuk pemuat halaman"
+
+#: option/config.php:316
+msgid "Ball 3 Color"
+msgstr "Warna Bola 3"
+
+#: option/config.php:317
+msgid "Select color for the third ball on the page loader"
+msgstr "Pilih warna bola 3 untuk pemuat halaman"
+
+#: option/config.php:325
+msgid "Ball 4 Color"
+msgstr "Warna Bola 4"
+
+#: option/config.php:326
+msgid "Select color for the fourth ball on the page loader"
+msgstr "Pilih warna bola 4 untuk pemuat halaman"
+
+#: option/config.php:333 option/config.php:337
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: option/config.php:338
+msgid "Enable or Disable the sticky sidebar"
+msgstr "Aktifkan atau Non-aktifkan sticky sidebar"
+
+#: option/config.php:350
+msgid ""
+"Enable or Disable the background color as well as select the background color"
+msgstr "Aktifkan atau Non-aktifkan warna latar dan juga pilih warna latar"
+
+#: option/config.php:365
+msgid "Position"
+msgstr "Posisi"
+
+#: option/config.php:366
+msgid "Select position for the sticky sidebar"
+msgstr "Pilih posisi untuk sticky sidebar"
+
+#: option/config.php:377
+msgid "Top Margin"
+msgstr "Batas Atas"
+
+#: option/config.php:378
+msgid "Adjust the sticky sidebar position from the top (in pixel)"
+msgstr "Set batas posisi sticky sidebar dari sisi atas (dalam pixel)"
+
+#: option/config.php:380 option/config.php:390
+msgid "Please enter number."
+msgstr "Silahkan masukkan angka"
+
+#: option/config.php:387
+msgid "Other Margin"
+msgstr "Batas Lainnya"
+
+#: option/config.php:388
+msgid "Adjust the sticky sidebar position from its surrounding (in pixel)"
+msgstr "Set batas posisi sticky sidebar dari sisi lainnya (dalam pixel)"
+
+#: option/config.php:396
+msgid "Comments"
+msgstr "Komentar"
+
+#: option/config.php:412
+#, php-format
+msgid "%s Comment"
+msgstr "Komentar di %s"
+
+#: option/config.php:413
+#, php-format
+msgid "Enable or Disable comment on the %s"
+msgstr "Aktifkan atau Non-aktifkan komentar di %s"
+
+#: option/config.php:429
+msgid "Primary Color"
+msgstr "Warna Primer"
+
+#: option/config.php:430
+msgid "Select primary color for the theme"
+msgstr "Pilih primary warna untuk the theme"
+
+#: option/config.php:439
+msgid "Secondary Color"
+msgstr "Warna Sekunder"
+
+#: option/config.php:440
+msgid "Select secondary color for the theme"
+msgstr "Pilih secondary warna untuk the theme"
+
+#: option/config.php:448
+msgid "Body Text Color"
+msgstr "Warna Teks"
+
+#: option/config.php:449
+msgid "Select color for the body text"
+msgstr "Pilih warna teks utama"
+
+#: option/config.php:457
+msgid "Body Background Color"
+msgstr "Warna Latar Utama"
+
+#: option/config.php:458
+msgid "Select color for the body background"
+msgstr "Pilih warna latar utama"
+
+#: option/config.php:465
+msgid "Body Background Image"
+msgstr "Gambar Latar Utama"
+
+#: option/config.php:468
+msgid "Select image for the body background"
+msgstr "Pilih gambar latar utama"
+
+#: option/config.php:474
+msgid "Body Background Image Style"
+msgstr "Model Gambar Latar Utama"
+
+#: option/config.php:475
+msgid "Select style for the body background image"
+msgstr "Pilih model untuk gambar latar utama"
+
+#: option/config.php:477
+msgid "Cover"
+msgstr ""
+
+#: option/config.php:478
+msgid "Cover All"
+msgstr ""
+
+#: option/config.php:479
+msgid "Contain"
+msgstr ""
+
+#: option/config.php:480
+msgid "No Repeat"
+msgstr ""
+
+#: option/config.php:481
+msgid "Repeat"
+msgstr ""
+
+#: option/config.php:482
+msgid "Parallax"
+msgstr ""
+
+#: option/config.php:483
+msgid "Parallax All"
+msgstr ""
+
+#: option/config.php:484
+msgid "Fixed"
+msgstr ""
+
+#: option/config.php:490
+msgid "Body Text Font"
+msgstr "Tipe Huruf Utama"
+
+#: option/config.php:491
+msgid "Select font properties for the body text"
+msgstr "Pilih tipe huruf untuk isi"
+
+#: option/config.php:505
+msgid "Heading Text Font"
+msgstr "Tipe Huruf Judul"
+
+#: option/config.php:506
+msgid "Select font properties for the heading text"
+msgstr "Pilih tipe huruf untuk judul"
+
+#: option/config.php:520
+msgid "Section Heading Text Font"
+msgstr "Tipe Huruf Judul Grup"
+
+#: option/config.php:521
+msgid "Select font properties for the section heading text"
+msgstr "Pilih tipe huruf untuk judul grup"
+
+#: option/config.php:536
+msgid "Quote Text Font"
+msgstr "Tipe Huruf Kutipan"
+
+#: option/config.php:537
+msgid "Select font properties for the quote text"
+msgstr "Pilih tipe huruf untuk kutipan"
+
+#: option/config.php:551
+msgid "Heading Text Style"
+msgstr "Model Huruf Judul"
+
+#: option/config.php:552
+msgid "Select style for the heading text"
+msgstr "Pilih model huruf untuk judul"
+
+#: option/config.php:554
+msgid "Uppercase"
+msgstr "Huruf Besar"
+
+#: option/config.php:555
+msgid "Capitalize"
+msgstr "Huruf Kapital"
+
+#: option/config.php:556 option/config.php:986
+msgid "None"
+msgstr "Tidak Ada"
+
+#: option/config.php:564 option/config.php:570
+msgid "Top Bar"
+msgstr "Panel Atas"
+
+#: option/config.php:571
+msgid "Enable or Disable the Top Bar"
+msgstr "Aktifkan atau Non-aktifkan panel atas"
+
+#: option/config.php:581
+msgid "Select color for the top bar"
+msgstr "Pilih warna latar panel atas"
+
+#: option/config.php:589
+msgid "Font Color"
+msgstr "Warna Huruf"
+
+#: option/config.php:590
+msgid "Select font color for the top bar"
+msgstr "Pilih warna huruf untuk panel atas"
+
+#: option/config.php:596
+msgid "Left Section"
+msgstr "Bagian Kiri"
+
+#: option/config.php:601 option/config.php:630
+msgid "Type of Element"
+msgstr "Tipe Elemen"
+
+#: option/config.php:602
+msgid "Select element to be displayed on the left section of top bar"
+msgstr ""
+"Pilih tipe elemen yang akan ditampilkan di sisi bagian kiri dari panel atas"
+
+#: option/config.php:604 option/config.php:618 option/config.php:633
+#: option/config.php:648
+msgid "Custom Text"
+msgstr "Teks Kustom"
+
+#: option/config.php:605 option/config.php:634
+msgid "Menu"
+msgstr "Menu"
+
+#: option/config.php:606 option/config.php:635
+msgid "Icon from Menu"
+msgstr "Ikon dari menu"
+
+#: option/config.php:612 option/config.php:643
+msgid "Select Menu Source"
+msgstr "Menu"
+
+#: option/config.php:613
+msgid "Select menu that will be displayed on the left section of top bar"
+msgstr "Pilih menu yang akan ditampilkan di bagian kiri dari panel atas"
+
+#: option/config.php:619
+msgid "Write any text that will be displayed on the left section of top bar"
+msgstr "Tulis teks yang akan ditampilkan di bagian kiri dari panel atas"
+
+#: option/config.php:620
+msgid "Left topbar custom text"
+msgstr "Panel kiri atas teks bebas"
+
+#: option/config.php:625
+msgid "Right Section"
+msgstr "Bagian Kanan"
+
+#: option/config.php:631
+msgid "Select element to be displayed on the right section of top bar"
+msgstr ""
+"Pilih tipe elemen yang akan ditampilkan di sisi bagian kanan dari panel atas"
+
+#: option/config.php:642
+msgid "Select menu that will be displayed on the right section of top bar"
+msgstr "Pilih menu yang akan ditampilkan di bagian kanan dari panel atas"
+
+#: option/config.php:649
+msgid "Write any text that will be displayed on the right section of top bar"
+msgstr "Tulis teks yang akan ditampilkan di bagian kanan dari panel atas"
+
+#: option/config.php:650
+msgid "Right topbar custom text"
+msgstr "Panel kanan atas teks bebas"
+
+#: option/config.php:656
+msgid "Main Navigation"
+msgstr "Navigasi Utama"
+
+#: option/config.php:662
+msgid "Navigation Bar"
+msgstr "Papan Navigasi"
+
+#: option/config.php:663
+msgid "Enable or Disable the Navigation Bar"
+msgstr "Aktifkan atau Non-aktifkan papan navigasi"
+
+#: option/config.php:676
+msgid "Layout Type"
+msgstr "Tipe Layout"
+
+#: option/config.php:677
+msgid "Select layout for the navigation bar"
+msgstr "Pilih layout untuk papan navigasi"
+
+#: option/config.php:679
+msgid "Logo on Left"
+msgstr "Logo di kiri"
+
+#: option/config.php:680
+msgid "Logo on Center"
+msgstr "Logo di tengah"
+
+#: option/config.php:681
+msgid "Logo on Right"
+msgstr "Logo di kanan"
+
+#: option/config.php:682
+msgid "Vertical Menu on Left"
+msgstr "Menu berdiri di sisi kiri"
+
+#: option/config.php:683
+msgid "Static Navigation with post-nav Area"
+msgstr "Navigasi statis dengan area pasca navigasi"
+
+#: option/config.php:690
+msgid "Sticky Menu"
+msgstr ""
+
+#: option/config.php:691
+msgid "Enable or Disable the sticky menu"
+msgstr "Aktifkan atau Non-aktifkan sticky menu"
+
+#: option/config.php:699
+msgid "Search Bar"
+msgstr "Panel Pencarian"
+
+#: option/config.php:700
+msgid "Enable or Disable the search bar"
+msgstr "Aktifkan atau Non-aktifkan panel pencarian"
+
+#: option/config.php:708
+msgid "Shopping Cart "
+msgstr "Keranjang Belanja"
+
+#: option/config.php:709
+msgid "Enable or Disable Woocommerce shopping cart"
+msgstr "Aktifkan atau Non-aktifkan keranjang belanja WooCommerce"
+
+#: option/config.php:717
+msgid "Show Post Menu Page"
+msgstr "Tampilkan Halaman dibawah Menu"
+
+#: option/config.php:718
+msgid "Allow show/hide Show Post Menu Page"
+msgstr "Menampilkan atau menyembunyikan halaman dibawah Menu"
+
+#: option/config.php:726
+msgid "Select Post Menu Page"
+msgstr "Pilih Halaman dibawah Menu"
+
+#: option/config.php:733 option/config.php:897
+msgid "Logo"
+msgstr ""
+
+#: option/config.php:736
+msgid "Set logo image."
+msgstr "Pilih gambar logo."
+
+#: option/config.php:737
+msgid "Select the default logo for the site"
+msgstr "Pilih logo utama untuk situs"
+
+#: option/config.php:743 option/config.php:930
+msgid "Logo (Sticky)"
+msgstr ""
+
+#: option/config.php:746 option/config.php:932
+msgid "Select the default logo when in sticky mode"
+msgstr "Pilih logo ketika di mode sticky"
+
+#: option/config.php:752
+msgid "Logo Alt Text"
+msgstr "Teks Alt Logo"
+
+#: option/config.php:753
+msgid "Adjust the logo alt text"
+msgstr "Masukkan teks untuk logo alt"
+
+#: option/config.php:759
+msgid "Logo Width"
+msgstr "Lebar Logo"
+
+#: option/config.php:760
+msgid "Adjust the logo width (in pixel)"
+msgstr "Set lebar logo (dalam pixel)"
+
+#: option/config.php:762
+msgid "leave blank or put \"0\" if no set"
+msgstr "biarkan kosong atau tulis \"0\" jika tidak ingin disetel"
+
+#: option/config.php:769
+msgid "Logo Top Margin"
+msgstr "Batas Atas Logo"
+
+#: option/config.php:770
+msgid "Adjust the logo position from the top (in pixel)"
+msgstr "Set batas atas logo (dalam pixel)"
+
+#: option/config.php:777
+msgid "Logo Left Margin"
+msgstr "Batas Kiri Logo"
+
+#: option/config.php:778
+msgid "Adjust the logo position from the left (in pixel)"
+msgstr "Set batas kiri logo (dalam pixel)"
+
+#: option/config.php:785
+msgid "Logo Top Padding"
+msgstr "Padding Atas Logo"
+
+#: option/config.php:786
+msgid "Adjust the logo top padding (in pixel)"
+msgstr "Set padding atas logo (dalam pixel)"
+
+#: option/config.php:793
+msgid "Logo Top Margin (Sticky)"
+msgstr "Batas Atas Logo (Stikty)"
+
+#: option/config.php:794
+msgid "Adjust the logo top margin when in sticky mode (in pixel)"
+msgstr "Set batas atas logo ketika mode sticky (dalam pixel)"
+
+#: option/config.php:801
+msgid "Navigation Bar Height"
+msgstr "Tinggi Panel Navigasi"
+
+#: option/config.php:802
+#, php-format
+msgid "Adjust the navigation bar in em (Default: %dem)"
+msgstr "Set tinggi panel navigasi dalam satuan em (Default: %dem)"
+
+#: option/config.php:809 option/config.php:993
+msgid "Background Image"
+msgstr "Gambar Latar"
+
+#: option/config.php:810
+msgid "Select image to cover the navigation bar"
+msgstr "Pilih gambar latar untuk papan navigasi"
+
+#: option/config.php:816
+msgid "Background Image Style"
+msgstr "Model Gambar Latar"
+
+#: option/config.php:817
+msgid "Select the background image style for the navigation bar"
+msgstr "Pilih model gambar latar untuk papan navigasi"
+
+#: option/config.php:818
+msgid "Cover the whole Navigation Bar"
+msgstr "Isi seluruh papan navigasi"
+
+#: option/config.php:819
+msgid "Fit image into the Navigation Bar"
+msgstr "Gambar disesuaikan ke dalam papan navigasi"
+
+#: option/config.php:828
+msgid "Horizontal Position(%)"
+msgstr "Posisi Horizontal (%)"
+
+#: option/config.php:829
+msgid "Adjust the horizontal percentage position of the background image"
+msgstr "Set persentase posisi dari gambar latar secara horizontal"
+
+#: option/config.php:836
+msgid "Vertical Position(%)"
+msgstr "Posisi Vertical (%)"
+
+#: option/config.php:837
+msgid "Adjust the vertical percentage position of the background image"
+msgstr "Set persentase posisi dari gambar latar secara vertikal"
+
+#: option/config.php:844 option/config.php:906
+msgid ""
+"Enable or disable. If background color is disabled, it will be displayed in "
+"transparent"
+msgstr "Aktifkan atau Non-aktifkan warna latar dan juga pilih warna latar"
+
+#: option/config.php:860 option/config.php:922
+msgid "Navigation Bar Font Color"
+msgstr "Warna Huruf Papan Navigasi"
+
+#: option/config.php:861 option/config.php:923
+msgid "Select the font color for the navigation bar"
+msgstr "Pilih the font warna untuk the navigation bar"
+
+#: option/config.php:868 option/config.php:938
+msgid "Background Color (Sticky)"
+msgstr "Warna Latar (Sticky)"
+
+#: option/config.php:869 option/config.php:939
+msgid ""
+"Enable or disable. If background color is disabled, it will be displayed in "
+"transparent when in sticky mode"
+msgstr ""
+"Aktifkan atau Non-aktifkan warna latar dan juga pilih warna latar ketika di "
+"mode sticky"
+
+#: option/config.php:884 option/config.php:955
+msgid "Navigation Bar Font Color (Sticky)"
+msgstr "Warna Huruf Panel Navigasi (Sticky)"
+
+#: option/config.php:885 option/config.php:956
+msgid "Select the font color for the navigation bar when in sticky mode"
+msgstr "Pilih warna huruf untuk the panel navigasi ketika di mode sticky"
+
+#: option/config.php:892
+msgid "Homepage"
+msgstr "Halaman Beranda"
+
+#: option/config.php:899
+msgid "Select the logo that will be displayed at homepage"
+msgstr "Pilih logo yang akan ditampilkan di beranda"
+
+#: option/config.php:965 option/config.php:970
+msgid "Banner"
+msgstr ""
+
+#: option/config.php:971
+msgid "Enable or Disable the Banner"
+msgstr "Aktifkan atau Non-aktifkan Banner"
+
+#: option/config.php:979
+msgid "Background Banner Type"
+msgstr "Tipe Latar Banner"
+
+#: option/config.php:980
+msgid "Select background banner type that fills the banner section area"
+msgstr "Pilih tipe latar untuk banner"
+
+#: option/config.php:983
+msgid "Page Banner Image"
+msgstr "Gambar Baner Halaman"
+
+#: option/config.php:984
+msgid "Image"
+msgstr "Gambar"
+
+#: option/config.php:985
+msgid "Color"
+msgstr "Warna"
+
+#: option/config.php:996
+msgid "Select image for the banner background"
+msgstr "Pilih gambar latar untuk banner"
+
+#: option/config.php:1004
+msgid "Select color for the banner background"
+msgstr "Pilih warna latar untuk banner"
+
+#: option/config.php:1011
+msgid "Banner Height"
+msgstr "Tinggi Baner"
+
+#: option/config.php:1012
+msgid "Adjust the banner height (in pixel)"
+msgstr "Set tinggi banner (dalam pixel)"
+
+#: option/config.php:1019
+msgid "Banner on homepage"
+msgstr "Banner di Beranda"
+
+#: option/config.php:1020
+msgid "Enable or Disable the banner on homepage"
+msgstr "Aktifkan atau Non-aktifkan banner di beranda"
+
+#: option/config.php:1028
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+#: option/config.php:1029
+msgid "Enable or Disable the page title"
+msgstr "Aktifkan atau Non-aktifkan judul halaman"
+
+#: option/config.php:1037
+msgid "Page Title Top Margin"
+msgstr "Batas Atas Judul Halaman"
+
+#: option/config.php:1038
+msgid "Adjust the page title space margin from the top (in pixel)"
+msgstr "Set batas judul halaman dari sisi atas (dalam pixel)"
+
+#: option/config.php:1046
+msgid "Page Title Color"
+msgstr "Warna Judul Halaman"
+
+#: option/config.php:1047
+msgid "Select color for the page title"
+msgstr "Pilih warna untuk judul halaman"
+
+#: option/config.php:1060
+msgid "Shop Page Tittle"
+msgstr "Judul Halaman Toko"
+
+#: option/config.php:1061
+msgid "Set the page title for the Woocommerce page"
+msgstr "Set judul halaman untuk halaman WooCommerce"
+
+#: option/config.php:1062
+msgid "Shop"
+msgstr "Toko"
+
+#: option/config.php:1070
+msgid "Shop Background Image"
+msgstr "Latar Gambar Latar Toko"
+
+#: option/config.php:1071
+msgid "Select image for the Woocommerce page background"
+msgstr "Pilih gambar latar untuk halaman WooCommerce"
+
+#: option/config.php:1080 option/config.php:1086
+msgid "Footer"
+msgstr ""
+
+#: option/config.php:1087
+msgid "Enable or Disable footer"
+msgstr "Aktifkan atau Non-aktifkan footer"
+
+#: option/config.php:1095
+msgid "Footer Text"
+msgstr "Teks Footer"
+
+#: option/config.php:1096
+msgid ""
+"Type in the text that will be show on footer area <br>You can use the "
+"following shortcodes in your footer text"
+msgstr ""
+"Masukkan teks yang akan ditampilkan di footer <br> Anda dapat menggunakan "
+"shortcode berikut ke dalam teks footer"
+
+#: option/config.php:1097
+#, php-format
+msgid "%s, The Awesome Theme. All right reserved."
+msgstr "%s, Template yang mengagumkan. All Right reserved."
+
+#: option/config.php:1103
+msgid "Footer Text Position"
+msgstr "Posisi Teks Footer"
+
+#: option/config.php:1104
+msgid "Select position for the footer text"
+msgstr "Pilih posisi untuk teks  footer"
+
+#: option/config.php:1115
+msgid "Footer Widget"
+msgstr "Widget Footer"
+
+#: option/config.php:1116
+msgid "Enable or Disable footer widget"
+msgstr "Aktifkan atau Non-aktifkan widget footer"
+
+#: option/config.php:1124
+msgid "Footer Widget Columns"
+msgstr "Kolom Widget Footer"
+
+#: option/config.php:1125
+msgid ""
+"Select number of column for the footer widget <br>You can set the footer "
+"widget on Appearance > Widgets > Bottom Widget Area"
+msgstr ""
+"Pilih jumlah kolom untuk widget footer <br> Anda dapat mengatur widget "
+"footer melalui Tampilan > Widget > Bottom Widget Area"
+
+#: option/config.php:1126
+msgid "One Column"
+msgstr "Satu Kolom"
+
+#: option/config.php:1127
+msgid "Two Columns"
+msgstr "Dua Kolom"
+
+#: option/config.php:1128
+msgid "Three Columns"
+msgstr "Tiga Kolom"
+
+#: option/config.php:1129
+msgid "Four Columns"
+msgstr "Empat Kolom"
+
+#: option/config.php:1138
+msgid "Footer Background Color"
+msgstr "Warna Latar di Footer"
+
+#: option/config.php:1139
+msgid "Select color for the footer background"
+msgstr "Pilih warna latar untuk footer"
+
+#: option/config.php:1147
+msgid "Footer Font Color"
+msgstr "Warna Huruf Footer"
+
+#: option/config.php:1148
+msgid "Select color for the footer font"
+msgstr "Pilih warna huruf untuk footer"
+
+#: option/config.php:1155
+msgid "Pre and Post Footer"
+msgstr ""
+
+#: option/config.php:1156
+msgid "Enable or Disable pre and post footer area"
+msgstr "Aktifkan atau Non-aktifkan pre dan post footer"
+
+#: option/config.php:1164
+msgid "Pre Footer Page"
+msgstr "Halaman Pre Footer"
+
+#: option/config.php:1165
+msgid "Select page for the pre footer"
+msgstr "Pilih halaman untuk pre footer"
+
+#: option/config.php:1172
+msgid "Post Footer Page"
+msgstr "Halaman Post Footer"
+
+#: option/config.php:1173
+msgid "Select page for the post footer"
+msgstr "Pilih halaman untuk post footer"
+
+#: option/config.php:1185
+msgid "Simple Recruitment"
+msgstr "Pelowongan Sederhana"
+
+#: option/config.php:1190
+msgid "Job Description Fields"
+msgstr "Field Diskripsi Pekerjaan"
+
+#: option/config.php:1191
+msgid "Manage the field that will be displayed on the job description"
+msgstr ""
+
+#: option/config.php:1197
+msgid "Email Address"
+msgstr "Alamat Surel"
+
+#: option/config.php:1198
+msgid ""
+"Target email address for the application form. If your'e using multiple "
+"email addresses separate them using comma. Leave it blank if you're using "
+"site's admin email"
+msgstr ""
+
+#: option/config.php:1203
+msgid "Attachment Type"
+msgstr "Jenis Lampiran"
+
+#: option/config.php:1204
+msgid "Select the attachment type allowed in the application form"
+msgstr ""
+
+#: option/config.php:1222
+msgid "Attachment Size"
+msgstr "Ukuran Lampiran"
+
+#: option/config.php:1223
+msgid "Set the maximum attachment size allowed in KB, etc: 1024 form 1MB size"
+msgstr ""
+"Ukuran maksimal lampiran dalam satuan KB, contoh: 1024 untuk ukuran 1Mb"
+
+#: option/config.php:1229
+msgid "Application Form Heading Text"
+msgstr ""
+
+#: option/config.php:1230
+msgid ""
+"Please complete the form below to send an application for the selected job "
+"{job_title}."
+msgstr ""
+
+#: option/config.php:1231
+msgid "Set the heading text for the application Form"
+msgstr ""
+
+#: option/config.php:1232 option/config.php:1240
+msgid "Shortcode:{job_title}, {job_link} "
+msgstr ""
+
+#: option/config.php:1237
+msgid "Email to Friend Form Heading Text"
+msgstr ""
+
+#: option/config.php:1238
+msgid "Set the heading text for the \"Email to Friend\" Form"
+msgstr ""
+
+#: option/config.php:1239
+msgid "Please complete the form below to tell a friend about job {job_title}."
+msgstr ""
+
+#: option/config.php:1245
+msgid "Confirmation Message"
+msgstr ""
+
+#: option/config.php:1246
+msgid ""
+"Message that will be displayed when the application has been successfully "
+"sent"
+msgstr "Pesan yang akan ditampil setelah lamaran berhasil dikirimkan"
+
+#: option/config.php:1256
+msgid "Advanced Settings"
+msgstr "Lanjutan"
+
+#: option/config.php:1261
+msgid "Development Mode"
+msgstr ""
+
+#: option/config.php:1262
+msgid "Activate if web running development"
+msgstr ""
+
+#: option/config.php:1263
+msgid "Several webhosting chached .css file, so must activate this mode"
+msgstr ""
+
+#: option/config.php:1271
+msgid "CSS Code"
+msgstr "Kode CSS"
+
+#: option/config.php:1272
+#, php-format
+msgid "Put your CSS code in here<br/>Your css code will saving at %s"
+msgstr "Masukkan kode CSS anda di sini. <br/>Kode anda akan disimpan di %s"
+
+#: option/config.php:1280
+msgid "Javascript Code"
+msgstr "Kode Javascript"
+
+#: option/config.php:1281
+msgid ""
+"Put your Javascript code in here. <br> The code will be loaded at the end of "
+"every page"
+msgstr ""
+"Masukkan kode Javascript anda di sini. <br>Kode anda akan dimuat pada akhir "
+"halaman"
+
+#: option/config.php:1284
+msgid "Be careful!"
+msgstr "Hati - hati !"
+
+#: option/config.php:1295
+msgid "Theme Information & Update"
+msgstr "Informasi Tema dan Pembaharuan"
+
+#: option/config.php:1296
+#, php-format
+msgid "The Awesome Wordpress Theme by %s"
+msgstr "Template Wordpress yang mengagumkan oleh %s"
+
+#: option/config.php:1299
+msgid "Item Purchase Number"
+msgstr "Kode Pembelian"
+
+#: option/config.php:1304
+#, php-format
+msgid "purchase number from %s. ex:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+msgstr "kode pembelian dari %s. misal:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+#: option/config.php:1317
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: option/config.php:2637
+msgid "Filesystem error."
+msgstr ""
+
+#~ msgid "Show"
+#~ msgstr "Tampil"
+
+#~ msgid "Hide"
+#~ msgstr "Sembunyi"
+
+#, fuzzy
+#~ msgid "Pick a background color."
+#~ msgstr "Pilih warna latar loader halaman."
+
+#~ msgid "Pick a font color."
+#~ msgstr "Pilih Warna"
+
+#~ msgid "Top Bar Settings"
+#~ msgstr "Konfigurasi Panel Atas"
+
+#~ msgid "Allow show/hide top bar"
+#~ msgstr "Menampilkan atau menyembunyikan panel atas"
+
+#~ msgid "Yes"
+#~ msgstr "Ya"
+
+#~ msgid "No"
+#~ msgstr "Tidak"
+
+#~ msgid "Background Size"
+#~ msgstr "Ukuran Gambar Latar"
+
+#~ msgid ""
+#~ "Using to adjust logo top padding in pixel when layout type is center "
+#~ "(Default: %dpx)"
+#~ msgstr ""
+#~ "Digunakan untuk menyetel posisi atas logo dalam satuan pixel untuk menu "
+#~ "bertipe ditengah (Default: %dpx)"
+
+#~ msgid "Logo Top Margin (Reveal)"
+#~ msgstr "Batas Atas logo (Reveal)"
+
+#~ msgid ""
+#~ "is used to adjust logo top margin in pixel when layout type is center "
+#~ "when menu is revealed (Default: %dpx)"
+#~ msgstr ""
+#~ "Digunakan untuk menyetel posisi atas logo dalam satuan pixel untuk menu "
+#~ "bertipe ditengah (Default:%dpx)"
+
+#~ msgid "is used to show/hide Search Bar on Main Menu (Default: %s)"
+#~ msgstr ""
+#~ "Adalah digunakan untuk menampilkan/menyembunyikan Panel Pencarian di Menu "
+#~ "utama ( Default: %s)"
+
+#~ msgid "is used to show/hide Shopping Cart on Main Menu (Default: %s)"
+#~ msgstr ""
+#~ "Adalah digunakan untuk menampilkan/menyembunyikan keranjang belanja di "
+#~ "Menu utama ( Default: %s)"
+
+#~ msgid ""
+#~ "If \"%s\", menu will sticky on top when the browser is scrolled down. "
+#~ "Default is \"%s\""
+#~ msgstr ""
+#~ "Jika \"%s\", menu akan selalu diatas ketika nawala digeser kebawah. "
+#~ "Setingan awal \"%s\""
+
+#~ msgid "Menu Height"
+#~ msgstr "Tinggi Menu"
+
+#~ msgid "Will be displayed as image alt"
+#~ msgstr "Akan ditampilkan sebagai alternate gambar"
+
+#~ msgid "Background Type"
+#~ msgstr "Model Latar Belakang"
+
+#~ msgid "Pick a background color for the header section."
+#~ msgstr "Pilih warna untuk seksi heading"
+
+#~ msgid "Menu Font Color"
+#~ msgstr "Warna Huruf Menu"
+
+#~ msgid "Desktop Logo"
+#~ msgstr "Logo Desktop"
+
+#~ msgid "Logo for desktop screen."
+#~ msgstr "Logo untuk layar desktop."
+
+#~ msgid "Background Color (reveal)"
+#~ msgstr "Warna Latar Belakang (reveal)"
+
+#~ msgid "Menu Font Color (reveal)"
+#~ msgstr "Warna Huruf Menu (reveal)"
+
+#~ msgid "Desktop Logo (reveal)"
+#~ msgstr "Logo Desktop (reveal)"
+
+#~ msgid "Subpage"
+#~ msgstr "Subhalaman"
+
+#~ msgid "Banner Settings"
+#~ msgstr "Konfigurasi Baner"
+
+#~ msgid "Banner Section"
+#~ msgstr "Bagian Baner"
+
+#~ msgid "Pick a background color for banner section."
+#~ msgstr "Pilih warna latar untuk bagian baner"
+
+#~ msgid "Set default banner image."
+#~ msgstr "Memasang gambar baner default"
+
+#~ msgid "Select main content and sidebar alignment."
+#~ msgstr "Pilih peletakan konten utama dan sidebar"
+
+#~ msgid "Choose %s Layout"
+#~ msgstr "Pilih Tampilan %s"
+
+#~ msgid "Select %s and sidebar alignment."
+#~ msgstr "Pilih peletakan %s dan sidebar"
+
+#~ msgid "Switch to \"%s\" to enable."
+#~ msgstr "Pindahkan ke \"%s\" untuk mengaktifkan"
+
+#~ msgid "Pick ball 1 color."
+#~ msgstr "Pilih warna lingkaran ke-1"
+
+#~ msgid "Pick ball 2 color."
+#~ msgstr "Pilih warna lingkaran ke-2"
+
+#~ msgid "Pick ball 3 color."
+#~ msgstr "Pilih warna lingkaran ke-3"
+
+#~ msgid "Pick ball 4 color."
+#~ msgstr "Pilih warna lingkaran ke-4"
+
+#~ msgid "Pick Sticky Sidebar color."
+#~ msgstr "Pilih Warna Sidebar Menetap"
+
+#~ msgid ""
+#~ "Enter the Sticky Sidebar Top Margin (only number) in pixel. Default: %d."
+#~ msgstr ""
+#~ "Ketik Batas Atas Sidebar Menetap ( hanya angka ) dalam satuan pixel. "
+#~ "Default:%d."
+
+#~ msgid "Sticky Sidebar Position"
+#~ msgstr "Letak Sidebar Menetap"
+
+#~ msgid "Default: %s."
+#~ msgstr "Default: %s."
+
+#~ msgid "Sticky Sidebar Margin"
+#~ msgstr "Batas Sidebar Menetap"
+
+#~ msgid "Enter the Sticky Sidebar Margin (only number) in pixel. Default: %d."
+#~ msgstr ""
+#~ "Ketik Batas Sidebar Menetap (hanya angka) dalam satuan pixel. Default:%d."
+
+#~ msgid "If \"%s\", comment disable for all %s"
+#~ msgstr "Jika \"%s\", komentar dimatikan untuk semua %s"
+
+#~ msgid "Footer Settings"
+#~ msgstr "Konfigurasi Footer"
+
+#~ msgid "Show Pre Footer Area"
+#~ msgstr "Tampilkan Area Pre Footer"
+
+#~ msgid "Allow show/hide pre footer area"
+#~ msgstr "Menampilkan atau menyembunyikan area pre footer"
+
+#~ msgid "Show Footer Area"
+#~ msgstr "Tampilkan Area Footer"
+
+#~ msgid "Allow show/hide footer area"
+#~ msgstr "Menampilkan atau menyembunyikan area footer"
+
+#~ msgid "Pick a background color for footer section"
+#~ msgstr "Pilih warna latar untuk bagan footer"
+
+#~ msgid "Styling Options"
+#~ msgstr "Pilihan Ragam"
+
+#~ msgid "Pick a color for Body Text Color."
+#~ msgstr "Pilih warna untuk teks"
+
+#~ msgid "Upload your image (.png,.ico, .jpg) to set Body Background Image."
+#~ msgstr "Pilih gambar (.png,.ico,.jpg) untuk gambar latar bodi"
+
+#~ msgid "Background Style"
+#~ msgstr "Model Gambar Latar"
+
+#~ msgid "Specify the body text font properties. Default : \"%s\""
+#~ msgstr "Jenis huruf teks bodi. Default \"%s\""
+
+#~ msgid "Specify the heading text font properties. Default : \"%s\""
+#~ msgstr "Jenis huruf untuk judul. Default: \"%s\""
+
+#~ msgid "Specify the quote text font properties. Default : \"%s\""
+#~ msgstr "Jenis huruf teks kutipan. Default: \"%s\""
+
+#~ msgid "Paste your CSS code here"
+#~ msgstr "Tempelkan kode CSS kamu disini"
+
+#~ msgid "JS Code"
+#~ msgstr "Kode JS"
+
+#~ msgid "Career Jobs Field"
+#~ msgstr "Isian Pekerjaan"
+
+#~ msgid ""
+#~ "Email address for application, leave blank if use admin email. Separated "
+#~ "by comma"
+#~ msgstr ""
+#~ "Alamat surel untuk pengiriman lamaran, silahkan dikosongi jika "
+#~ "menggunakan surel admin. Dipisahkan dengan koma"
+
+#~ msgid "Thankyou Message"
+#~ msgstr "Pesan Terimakasih"
+
+#~ msgid "Gallery"
+#~ msgstr "Album"
+
+#~ msgid "Modal Effects Option"
+#~ msgstr "Pilihan Animasi Penyembul"
+
+#~ msgid "Page Comment"
+#~ msgstr "Kementar di Halaman"
+
+#~ msgid "If \"%s\", comment disable for all post as default"
+#~ msgstr "Jika \"%s\", komentar dimatikan untuk semua post sebagai permulaan"
+
+#~ msgid "Portfolio Comment"
+#~ msgstr "Komentar di Portfolio"
+
+#~ msgid "If \"%s\", comment disable for all portfolio as default"
+#~ msgstr ""
+#~ "Jika \"%s\", komentar dimatikan untuk semua portofolio sebagai permulaan"
+
+#~ msgid "License Number"
+#~ msgstr "Kode Lisensi"
+
+#~ msgid "Reset to Defaults"
+#~ msgstr "Kembalikan ke kondisi awal"
+
+#~ msgid "Show Object in Javascript Console Object"
+#~ msgstr "Tampilkan Object pada Konsol Javascript"
+
+#~ msgid "Border style"
+#~ msgstr "Model Border"
+
+#~ msgid "Width"
+#~ msgstr "Lebar"
+
+#~ msgid "height"
+#~ msgstr "tinggi"
+
+#~ msgid "New"
+#~ msgstr "Baru"
+
+#~ msgid "Delete"
+#~ msgstr "Hapus"
+
+#~ msgid "Add"
+#~ msgstr "Tambah"
+
+#~ msgid "Password"
+#~ msgstr "Kata Sandi"
+
+#~ msgid "Username"
+#~ msgstr "Nama Pengguna"
+
+#~ msgid "Delete Slide"
+#~ msgstr "Hapus Slide"
+
+#~ msgid "Add Slide"
+#~ msgstr "Tambah Slide"
+
+#~ msgid "Redux Framework has an embedded demo."
+#~ msgstr "Redux Framework pada mode Demo"
+
+#~ msgid "Click here to activate the sample config file."
+#~ msgstr "Klik untuk mengaktifkan berkas sample config ( contoh configurasi )"
+
+#~ msgid "Deactivate Demo Mode"
+#~ msgstr "Deaktifasi Mode Demo"
+
+#~ msgid "Activate Demo Mode"
+#~ msgstr "Aktifkan Mode Demo"
+
+#~ msgid ""
+#~ "Input your backup json code below and hit Import to restore your sites "
+#~ "options from a backup."
+#~ msgstr ""
+#~ "Masukkan kode json cadangan dibawah ini lalu klik tombol Impor untuk "
+#~ "menggunakan settingan dari berkas cadangan."
+
+#~ msgid "Thousands"
+#~ msgstr "Ratusan"
+
+#~ msgid "Millions"
+#~ msgstr "Ribuan"
+
+#~ msgid "Billions"
+#~ msgstr "Jutaan"
+
+#~ msgid "Trillions"
+#~ msgstr "Milyaran"
+
+#~ msgid "Image Width"
+#~ msgstr "Lebar Gambar"
+
+#~ msgid "Lightbox Popup"
+#~ msgstr "Kotak Penyembul"
+
+#~ msgid "Enable Lightbox 1st Visit ?"
+#~ msgstr "Aktifkan kotak penyembul kunjungan pertama?"
+
+#~ msgid "Select Lightbox Content Page"
+#~ msgstr "Pilih Halaman Bahan Kotak Penyembul"
+
+#~ msgid "Close Button Color"
+#~ msgstr "Warna Tombol Tutup"
+
+#~ msgid "Lightbox Delay"
+#~ msgstr "Jeda Kotak Penyembul"
+
+#~ msgid "Enter the Delay (only number) in Seconds. e.g. 10, 15, 20."
+#~ msgstr ""
+#~ "Cantumkan waktu jeda ( hanya angka ) dalam satuan detik. misal 10, 15, 20"
+
+#~ msgid "Cookie Expiry"
+#~ msgstr "Kadaluarsa Kokie"
+
+#~ msgid ""
+#~ "Enter the Cookie expiry (only number) in Hours. e.g. 2, 4, 24. For "
+#~ "example you enter 24, it means the Lightbox will show again in next 24 "
+#~ "hours."
+#~ msgstr ""
+#~ "Cantumkan kadaluarsa kokie ( hanya angka ) dalam satuan jam. Misal 2, 4, "
+#~ "24. Sebagai contoh kamu menulis 24, itu artinya kotak penyembul akan "
+#~ "tampil lagi 24 jam yang akan datang."
+
+#~ msgid "Exit Popup"
+#~ msgstr "Penyembul ketika Meninggalkan Halaman"
+
+#~ msgid "Select Exit Popup Content Page"
+#~ msgstr "Pilih Halaman Penyembul ketika Meninggalkan Halaman"
+
+#~ msgid "Icon Settings"
+#~ msgstr "Konfigurasi Ikon"
+
+#~ msgid "License number from omnipress.co"
+#~ msgstr "Kode lisensi yang didapat dari omnispress.co"
+
+#~ msgid "Link"
+#~ msgstr "Tautan"
+
+#~ msgid "Custom Code"
+#~ msgstr "Kode Bebas"
+
+#~ msgid "Meta Description"
+#~ msgstr "Meta Diskripsi"
+
+#~ msgid "Meta Keyword"
+#~ msgstr "Meta Kata Kunci"
+
+#, fuzzy
+#~ msgid "Slides Options"
+#~ msgstr "Pilihan Ragam"
+
+#, fuzzy
+#~ msgid "Slider Settings"
+#~ msgstr "Konfigurasi Baner"
+
+#~ msgid ""
+#~ "Enter the Sticky Sidebar Margin (only number) in pixel. For example: 20."
+#~ msgstr ""
+#~ "Ketik batas sidebar menetap ( hanya angka ) dalam satuan pixel. Sebagai "
+#~ "contoh: 20."
+
+#~ msgid "Featured Image"
+#~ msgstr "Gambar Fitur"
+
+#~ msgid "Border size"
+#~ msgstr "Tebal Border"

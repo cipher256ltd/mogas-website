@@ -1,0 +1,1131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Billio 1.0\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-09-29 09:21+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: support@detheme.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPathExcluded-0: redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: bootstrap\n"
+"X-Poedit-SearchPathExcluded-2: .git\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:19
+msgid "Go back to Our Homepage"
+msgstr ""
+
+#: 404.php:19
+msgid "Page not found"
+msgstr ""
+
+#: archive-port.php:88
+#, fuzzy
+msgid "Load More"
+msgstr "Meer"
+
+#: category.php:63
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+msgid "% Comments"
+msgstr ""
+
+msgid "No Comments"
+msgstr ""
+
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:111
+msgid "About %s"
+msgstr ""
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-portfolio-text.php:61
+#, fuzzy
+msgid "Detail to %s"
+msgstr "Meer details"
+
+#: functions.php:100
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:119
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: port.php:95
+#, fuzzy
+msgid "Project Description"
+msgstr "Project Omschrijving"
+
+#: port.php:103
+#, fuzzy
+msgid "Project Detail"
+msgstr "Project Details"
+
+#: port.php:128
+#, fuzzy
+msgid "launch project"
+msgstr "Ga naar project"
+
+#: port.php:157
+#, fuzzy
+msgid "Related Project"
+msgstr "Gerelateerde projecten"
+
+#: port.php:157
+msgid "Tags"
+msgstr ""
+
+#: search.php:66
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:97
+msgid "Previous"
+msgstr ""
+
+#: search.php:102
+msgid "Next"
+msgstr ""
+
+#: sendmail.php:38
+msgid "Name : "
+msgstr ""
+
+#: sendmail.php:40
+msgid "Email : "
+msgstr ""
+
+#: sendmail.php:42
+msgid "Phone : "
+msgstr ""
+
+#: sendmail.php:44
+msgid "Message : "
+msgstr ""
+
+#: sendmail.php:52
+msgid "Contact from "
+msgstr ""
+
+#: sendmail.php:65
+msgid "Captcha value is wrong."
+msgstr ""
+
+#: pagetemplates/portfolio-typr-image.php:59
+msgid "Toggle navigation"
+msgstr ""
+
+#: pagetemplates/portfolio-typr-image.php:65
+msgid "All Projects"
+msgstr ""
+
+#: pagetemplates/topbar-leftmenu.php:59
+msgid "Menu"
+msgstr ""
+
+#: custom_function.php:183
+msgid "Left"
+msgstr ""
+
+#: custom_function.php:183
+msgid "Center"
+msgstr ""
+
+#: custom_function.php:183
+msgid "Right"
+msgstr ""
+
+#: custom_function.php:183
+msgid "No Sidebar"
+msgstr ""
+
+#: custom_function.php:232
+msgid "Parent"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Hide title"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Disable Lightbox 1st Visit"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Page Loader"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Disable Page Loader"
+msgstr ""
+
+#: custom_function.php:175
+msgid "Disable Exit Popup"
+msgstr ""
+
+#: custom_function.php:79
+msgid "Select Layout Type"
+msgstr ""
+
+#: custom_function.php:81
+msgid "Default"
+msgstr ""
+
+#: custom_function.php:82
+msgid "Carousel"
+msgstr ""
+
+#: custom_function.php:230
+msgid "Page Subtitle"
+msgstr ""
+
+#: custom_function.php:241
+msgid "Template"
+msgstr ""
+
+#: custom_function.php:242
+msgid "Page Template"
+msgstr ""
+
+#: custom_function.php:243
+msgid "Default Template"
+msgstr ""
+
+#: custom_function.php:250
+msgid "Squared Image (boxed)"
+msgstr ""
+
+#: custom_function.php:251
+msgid "Image and Text (boxed)"
+msgstr ""
+
+#: custom_function.php:251
+msgid "Squared Image(full)"
+msgstr ""
+
+#: custom_function.php:251
+msgid "Fix Height Image(full)"
+msgstr ""
+
+#: custom_function.php:256
+msgid "Select Column"
+msgstr ""
+
+#: custom_function.php:260
+msgid "%d Column"
+msgid_plural "%d Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: custom_function.php:278
+msgid "Sidebar Position"
+msgstr ""
+
+#: custom_function.php:292
+msgid "Order"
+msgstr ""
+
+#: custom_function.php:480
+msgid "Back"
+msgstr ""
+
+#: custom_function.php:560
+msgid "Search"
+msgstr ""
+
+#: custom_function.php:572
+msgid "Close"
+msgstr ""
+
+#: custom_function.php:621
+msgid "Submit"
+msgstr ""
+
+# msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+# msgstr ""
+# msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+# msgstr ""
+#: custom_function.php:608
+msgid "your message"
+msgstr ""
+
+#: custom_function.php:592
+msgid "full name"
+msgstr ""
+
+#: custom_function.php:595
+msgid "email address"
+msgstr ""
+
+#: custom_function.php:689
+msgid "Reply"
+msgstr ""
+
+#: custom_function.php:690
+msgid "Log in to Reply"
+msgstr ""
+
+#: custom_function.php:755
+msgid "Pingback:"
+msgstr ""
+
+#: custom_function.php:755
+msgid "Edit"
+msgstr ""
+
+#: custom_function.php:1071
+msgid "%d View"
+msgstr ""
+
+#: custom_function.php:1071
+msgid "% Views"
+msgstr ""
+
+#: custom_function.php:1116
+msgid "Views"
+msgstr ""
+
+#: custom_function.php:2004
+msgid "Button style"
+msgstr ""
+
+#: custom_function.php:2010
+msgid "Primary"
+msgstr ""
+
+#: custom_function.php:2011
+msgid "Secondary"
+msgstr ""
+
+#: custom_function.php:2012
+msgid "Success"
+msgstr ""
+
+#: custom_function.php:2013
+msgid "Info"
+msgstr ""
+
+#: custom_function.php:2014
+msgid "Warning"
+msgstr ""
+
+#: custom_function.php:2015
+msgid "Danger"
+msgstr ""
+
+#: custom_function.php:2016
+msgid "Ghost Button"
+msgstr ""
+
+#: custom_function.php:2017
+msgid "Link"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Size"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Large"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Bigger"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Small"
+msgstr ""
+
+msgid "Smaller"
+msgstr ""
+
+#: shortcode.php:273
+msgid "Medium"
+msgstr ""
+
+#: custom_function.php:2026
+msgid "Extra small"
+msgstr ""
+
+#: custom_function.php:2029
+msgid "Expand section width"
+msgstr ""
+
+#: custom_function.php:2032
+msgid "Expand Column"
+msgstr ""
+
+#: custom_function.php:2032
+msgid "Expand Background"
+msgstr ""
+
+#: custom_function.php:2033
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+#: widgets.php:5
+msgid "Display most recent Posts in Carousel."
+msgstr ""
+
+#: widgets.php:28
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets.php:147
+msgid "Title:"
+msgstr ""
+
+#: widgets.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets.php:151
+msgid "Number of posts per slide:"
+msgstr ""
+
+#: widgets.php:154
+msgid "Display post date ?"
+msgstr ""
+
+#: widgets.php:156
+msgid "Display thumbnail ?"
+msgstr ""
+
+#: widgets.php:158
+msgid "Display Author Name ?"
+msgstr ""
+
+#: widgets.php:159
+msgid "Categories"
+msgstr ""
+
+#: widgets.php:183
+msgid "Display popular posts, recent posts, and recent comments in Tabulation."
+msgstr ""
+
+#: widgets.php:184
+msgid "DT Tabs"
+msgstr ""
+
+#: widgets.php:212
+msgid "Popular"
+msgstr ""
+
+#: widgets.php:213
+msgid "Recent"
+msgstr ""
+
+#: widgets.php:214
+msgid "Comments"
+msgstr ""
+
+#: widgets.php:396
+msgid "Number of posts/comments to show:"
+msgstr ""
+
+#: widgets.php:405
+msgid "Display post image"
+msgstr ""
+
+#: widgets.php:406
+msgid "DT Post Image"
+msgstr ""
+
+#: widgets.php:504
+msgid "All category or just in categories"
+msgstr ""
+
+#: widgets.php:527
+msgid "Display portfolio image"
+msgstr ""
+
+#: widgets.php:528
+msgid "DT Portfolio Image"
+msgstr ""
+
+#: widgets.php:658
+msgid "Display shortcode gallery in widget."
+msgstr ""
+
+#: widgets.php:660
+msgid "DT Image Gallery"
+msgstr ""
+
+#: widgets.php:703
+msgid "Display most recent portfolio."
+msgstr ""
+
+#: widgets.php:704
+msgid "DT Recent Portfolio"
+msgstr ""
+
+#: widgets.php:808
+msgid "Number of portfolio to show:"
+msgstr ""
+
+#: widgets.php:1187
+msgid "Display comment content?"
+msgstr ""
+
+#: widgets.php:1184
+msgid "Number of comments to show:"
+msgstr ""
+
+#: widgets.php:1194
+msgid "Display most recent tweets from twitter in slider."
+msgstr ""
+
+#: widgets.php:1195
+msgid "DT Twitter Slider"
+msgstr ""
+
+#: widgets.php:1630
+msgid "Twitter Account:"
+msgstr ""
+
+#: widgets.php:1637
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: widgets.php:1644
+msgid "Date Format:"
+msgstr ""
+
+#: widgets.php:1646
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual month, %y: 2 digit year, %Y: 4 "
+"digit year"
+msgstr ""
+
+#: widgets.php:1652
+msgid "Template :"
+msgstr ""
+
+#: widgets.php:1657
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+#: widgets.php:1660
+msgid "Auto Play:"
+msgstr ""
+
+#: widgets.php:1672
+msgid "Transition Threshold (msec):"
+msgstr ""
+
+#: widgets.php:1325
+msgid "Display information in accordion style."
+msgstr ""
+
+#: widgets.php:1326
+msgid "DT Accordion"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 1:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 1:"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 2:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 2:"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 3:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 3:"
+msgstr ""
+
+#: widgets.php:1348
+msgid "Accordion Title 4:"
+msgstr ""
+
+#: widgets.php:1350
+msgid "Accordion Description 4:"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button size"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button URL"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button skin"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Dark (default)"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Light"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's skin"
+msgstr ""
+
+#: lib/shortcode_panel.php
+msgid "The value must be numeric"
+msgstr ""
+
+#: lib/shortcode_panel.php
+msgid "Number"
+msgstr ""
+
+#: lib/shortcode_panel.php:205
+msgid "Separator Color"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button Target"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's target"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Button Text"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's text"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Self"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Blank"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Icon Size"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Icon Color"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Icon Style"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's color"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Circle"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Square"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "None"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Ghost"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "Select the button's style"
+msgstr ""
+
+#: lib/shortcode.php
+msgid "by %s"
+msgstr ""
+
+#: lib/custom_function.php:1363
+msgid "You are here"
+msgstr ""
+
+#: lib/custom_function.php:1333
+msgid "Home"
+msgstr ""
+
+#: pagetemplates/social-share.php
+msgid "Share"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Extended options"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Visit %s&#8217;s website"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Background Image"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Set background image"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Remove background image"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Background Style"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Parallax"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Cover All"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Parallax All"
+msgstr ""
+
+#: lib/custom_functions.php
+msgid "Fixed"
+msgstr ""
+
+msgid "Blank - Page Builder"
+msgstr ""
+
+msgid "Blank - Default"
+msgstr ""
+
+msgid "Woocommerce Page"
+msgstr ""
+
+msgid "Fullwidth"
+msgstr ""
+
+msgid "Banner Image"
+msgstr ""
+
+msgid "Set Page Banner"
+msgstr ""
+
+msgid "Remove Page Banner"
+msgstr ""
+
+msgid "Paste your html code here. It will be added before the closing </body> tag."
+msgstr ""
+
+msgid "Custom Code"
+msgstr ""
+
+msgid "The Awesome Wordpress Theme by djavaweb"
+msgstr ""
+
+msgid "Your website using %s template"
+msgstr ""
+
+msgid "Register Template"
+msgstr ""
+
+msgid "%d day"
+msgstr ""
+
+msgid "%d days"
+msgstr ""
+
+msgid "expired"
+msgstr ""
+
+msgid "%s template license will expired in %s."
+msgstr ""
+
+msgid "You can extend license"
+msgstr ""
+
+msgid "Extend License"
+msgstr ""
+
+msgid "%s template license was expired."
+msgstr ""
+
+msgid "Renew License"
+msgstr ""
+
+msgid "License key using by system to update support"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Omnipress template not support higher version"
+msgstr ""
+
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+msgid "Begin installing plugin"
+msgstr ""
+
+msgid "Begin installing plugins"
+msgstr ""
+
+msgid "Install Required Plugins"
+msgstr ""
+
+msgid "Install Plugins"
+msgstr ""
+
+msgid "Installing Plugin: %s"
+msgstr ""
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Activate installed plugin"
+msgstr ""
+
+msgid "Activate installed plugins"
+msgstr ""
+
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this "
+"site for help on getting the plugin installed."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of "
+"this site for help on getting the plugins installed."
+msgstr ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of "
+"this site for help on getting the plugin activated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of "
+"this site for help on getting the plugins activated."
+msgstr ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility with this "
+"theme: %1$s."
+msgstr ""
+
+msgid ""
+"The following plugins need to be updated to their latest version to ensure maximum compatibility with this "
+"theme: %1$s."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this "
+"site for help on getting the plugin updated."
+msgstr ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this "
+"site for help on getting the plugins updated."
+msgstr ""
+
+msgid "To search type and hit enter"
+msgstr ""
+
+msgid "Insert Shortcode"
+msgstr ""
+
+msgid "Search Icon"
+msgstr ""
+
+msgid "Insert Omnipress Shortcode"
+msgstr ""
+
+msgid "Omnipress Shortcode"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Buttons"
+msgstr ""
+
+msgid "Count To"
+msgstr ""
+
+msgid "Slide Carousel"
+msgstr ""
+
+msgid "Slide Carousel with Description"
+msgstr ""
+
+msgid "Isotope"
+msgstr ""
+
+msgid "Lazy Load Isotope"
+msgstr ""
+
+msgid "Column"
+msgstr ""
+
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr ""
+
+msgid "One Column"
+msgstr ""
+
+msgid "Two Columns"
+msgstr ""
+
+msgid "Three Columns"
+msgstr ""
+
+msgid "Four Columns"
+msgstr ""
+
+msgid "Five Columns"
+msgstr ""
+
+msgid "Six Columns"
+msgstr ""
+
+msgid "Number of Columns"
+msgstr ""
+
+msgid "Desktop Column"
+msgstr ""
+
+msgid "Desktop Small Column"
+msgstr ""
+
+msgid "Tablet Column"
+msgstr ""
+
+msgid "Mobile Column"
+msgstr ""
+
+msgid "items between 1200px and 1023px"
+msgstr ""
+
+msgid "items between 1024px and 768px"
+msgstr ""
+
+msgid "items between 768px and 600px"
+msgstr ""
+
+msgid "items below 600px"
+msgstr ""
+
+msgid "Posts per page"
+msgstr ""
+
+msgid "Detail Link"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hidden"
+msgstr ""
+
+msgid "Show Filter"
+msgstr ""
+
+msgid "Hide banner"
+msgstr ""
+
+msgid "Jobs Description"
+msgstr ""
+
+msgid "Apply Now"
+msgstr ""
+
+msgid "Email To a Friend"
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Posted"
+msgstr ""
+
+msgid "Job Position"
+msgstr ""
+
+msgid "i'm Interested"
+msgstr ""
+
+msgid "Select the button's size"
+msgstr ""
+
+#, fuzzy
+msgid "Read More"
+msgstr "Meer"
+
+msgid "Maximum file size %.2fMb"
+msgstr ""
+
+msgid "e.g. John Smith"
+msgstr ""
+
+msgid "e.g. john.smith@hotmail.com"
+msgstr ""
+
+msgid "Upload CV"
+msgstr ""
+
+msgid "Covering Note"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Full Name"
+msgstr ""
+
+msgid "Friend Email"
+msgstr ""
+
+msgid "e.g. alice@hotmail.com"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Quick Note"
+msgstr ""
+
+msgid ""
+"Type a quick message directed to your friend. Please avoid content that could be considered as spam as this "
+"could result in a ban from the site."
+msgstr ""
+
+msgid "Product Display Columns"
+msgstr ""
+
+msgid "This controls num column product display"
+msgstr ""
+
+msgid "back to homepage"
+msgstr ""
+
+msgid "OOPS! SOMETHING GOES WRONG"
+msgstr ""
+
+msgid "This is not the page you are looking for."
+msgstr ""
+
+msgid "Video Source"
+msgstr ""
+
+msgid "Local Server"
+msgstr ""
+
+msgid "Background Video (mp4)"
+msgstr ""
+
+msgid "Background Video (webm)"
+msgstr ""
+
+msgid "Video link"
+msgstr ""
+
+msgid "Add YouTube/Vimeo link"
+msgstr ""

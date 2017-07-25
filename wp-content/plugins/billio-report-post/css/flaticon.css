@@ -1,0 +1,71 @@
+@font-face {
+	font-family: "Flaticon Detheme Report";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticondr-"]:before, [class*=" flaticondr-"]:before,
+[class^="flaticondr-"]:after, [class*=" flaticondr-"]:after {   
+	font-family: "Flaticon Detheme Report";
+    font-size: 20px;
+	font-style: normal;
+}
+
+.flaticondr-ai1:before {
+	content: "\e000";
+}
+.flaticondr-doc:before {
+	content: "\e001";
+}
+.flaticondr-docx1:before {
+	content: "\e002";
+}
+.flaticondr-html8:before {
+	content: "\e003";
+}
+.flaticondr-jpg2:before {
+	content: "\e004";
+}
+.flaticondr-mp34:before {
+	content: "\e005";
+}
+.flaticondr-mp42:before {
+	content: "\e006";
+}
+.flaticondr-pdf17:before {
+	content: "\e007";
+}
+.flaticondr-photoshop:before {
+	content: "\e008";
+}
+.flaticondr-png4:before {
+	content: "\e009";
+}
+.flaticondr-ppt2:before {
+	content: "\e00a";
+}
+.flaticondr-pptx:before {
+	content: "\e00b";
+}
+.flaticondr-rar:before {
+	content: "\e00c";
+}
+.flaticondr-txt:before {
+	content: "\e00d";
+}
+.flaticondr-xls2:before {
+	content: "\e00e";
+}
+.flaticondr-xlsx1:before {
+	content: "\e00f";
+}
+.flaticondr-xml6:before {
+	content: "\e010";
+}
+.flaticondr-zip5:before {
+	content: "\e011";
+}

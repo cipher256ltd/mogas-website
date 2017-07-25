@@ -1,0 +1,87 @@
+=== Sticky Side Buttons ===
+Contributors: EnigmaWeb
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEJ9HFWJ94BG4
+Tags: sticky, buttons, contact, side, social buttons, email button, phone button, floating
+Requires at least: 2.7
+Tested up to: 4.7.4
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Flexible button creator allowing you to stick floating buttons to the side of your site.
+
+== Description ==
+
+This simple button creator lets you create one or more floating buttons that stick to the side of your site as the user scrolls.  
+
+= Use it for sticking information like: = 
+* Phone number
+* Email address
+* Social icons
+* Store locations
+
+= Configuration options include: = 
+* Button position > left or right
+* Rollover style > darken or lighten
+* Animation style > none, slide or icons only
+* Disable on mobile (optional)
+* Customise button icons, text, link, and colors easily
+
+= Demo =
+
+*	[Click here](http://demo.enigmaweb.com.au/) for out-of-the-box demo. You can see the buttons to the right of the screen, in 'slide' mode.
+
+
+== Installation ==
+
+1. Install & activate the plugin through the WordPress 'Plugins' dashboard.
+1. Visit the new Sticky Side Buttons tab to create your buttons.
+
+== Frequently Asked Questions ==
+
+= My sticky side buttons are covered by some other element. What should I do? =
+
+In the plugin settings there is a field where you can define z-index for the buttons. An element with a higher z-index is always in front of an element with a lower z-index.
+
+= Where can I get support for this plugin? =
+
+If you've tried all the obvious stuff and it's still not working please request support via the forum. Remember to include a link to your site, and a full description of the issue plus the steps you've already taken to try to solve it.
+
+= Can I contribute to this plugin? =
+
+Absolutely! Please create a pull request on [GitHub here.](https://github.com/EnigmaWeb/sticky-side-buttons)
+
+
+== Screenshots ==
+
+1. Sticky Side Buttons in action: IN
+2. Sticky Side Buttons in action: OUT
+3. Sticky Side Buttons backend button creator
+4. An example site using Sticky Side Buttons (left)
+5. An example site using Sticky Side Buttons (right)
+6. An example site using Sticky Side Buttons (right)
+7. An example site using Sticky Side Buttons (right)
+
+
+== Changelog ==
+
+= 1.0.2 =
+* Adds a setting so user can define custom z-index
+
+= 1.0.1 =
+* Removed unnecessary css background - works better when buttons are spaced
+* Added z-index so buttons don't hide behind things (fix for revolution slider)
+
+= 1.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.2 =
+* Adds a setting so user can define custom z-index. Thanks to AlexGStapleton.
+
+= 1.0.1 =
+* Minor update with some css tweaks
+
+= 1.0 =
+* Initial release
